@@ -1,0 +1,2599 @@
+{
+  "group_slug": "marketing-seo-content",
+  "description": "",
+  "count": 48,
+  "icons": [
+    {
+      "id": "business-finance-analytics-029",
+      "name": "Announcement Megaphone",
+      "semantic_name": "announcement-megaphone",
+      "description": "Megaphone, representing announcements, communications, or campaign messaging.",
+      "alt_text": "Megaphone.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Group 32"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "logistics-transport",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "announcement-megaphone",
+        "announcements",
+        "business-finance",
+        "business-finance-analytics",
+        "campaign",
+        "communication-support",
+        "communications",
+        "logistics-transport",
+        "marketing-seo-content",
+        "megaphone",
+        "messaging",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-029.png"
+      },
+      "bbox_emu": {
+        "x": 9643213,
+        "y": 3131349,
+        "width": 900634,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-030",
+      "name": "Email Message",
+      "semantic_name": "email-message",
+      "description": "Envelope, representing email communication, notifications, or candidate outreach.",
+      "alt_text": "Envelope.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Group 31"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "logistics-transport",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "communication",
+        "communication-support",
+        "email",
+        "email-message",
+        "envelope",
+        "logistics-transport",
+        "marketing-seo-content",
+        "notifications",
+        "or",
+        "outreach",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-030.png"
+      },
+      "bbox_emu": {
+        "x": 10688530,
+        "y": 3164940,
+        "width": 1070000,
+        "height": 1002819
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-016",
+      "name": "Announcement Megaphone",
+      "semantic_name": "announcement-megaphone",
+      "description": "Megaphone, representing employee announcement, communication, or internal campaign.",
+      "alt_text": "Megaphone.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;8706;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "marketing-seo-content",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "announcement",
+        "announcement-megaphone",
+        "campaign",
+        "communication",
+        "communication-support",
+        "employee",
+        "internal",
+        "marketing-seo-content",
+        "megaphone",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-016.png"
+      },
+      "bbox_emu": {
+        "x": 5542404,
+        "y": 2016049,
+        "width": 1107208,
+        "height": 1096874
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-001",
+      "name": "Presenter Board",
+      "semantic_name": "presenter-board",
+      "description": "Person presenting chart, representing training, briefing, analytics presentation, or instructor.",
+      "alt_text": "Person presenting chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;8244;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "briefing",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "instructor",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "presentation",
+        "presenter-board",
+        "presenting",
+        "representing",
+        "safety-hse",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-001.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 922424,
+        "width": 1107206,
+        "height": 1083273
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-002",
+      "name": "Strategy Dashboard",
+      "semantic_name": "strategy-dashboard",
+      "description": "Circular dashboard with marks, representing strategy, planning, or performance dashboard.",
+      "alt_text": "Circular dashboard with marks.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;8276;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "circular",
+        "dashboard",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "marks",
+        "or",
+        "performance",
+        "planning",
+        "representing",
+        "safety-hse",
+        "strategy",
+        "strategy-dashboard",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-002.png"
+      },
+      "bbox_emu": {
+        "x": 1198899,
+        "y": 910460,
+        "width": 1106785,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-003",
+      "name": "Web Search",
+      "semantic_name": "web-search",
+      "description": "Magnifier with web symbol, representing online search, SEO, or web discovery.",
+      "alt_text": "Magnifier with web symbol.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;8671;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "digital-it-security",
+        "digital-marketing-security",
+        "discovery",
+        "magnifier",
+        "marketing-seo-content",
+        "online",
+        "or",
+        "representing",
+        "safety-hse",
+        "search",
+        "seo",
+        "symbol",
+        "web",
+        "web-search",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-003.png"
+      },
+      "bbox_emu": {
+        "x": 2289643,
+        "y": 910458,
+        "width": 1104532,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-004",
+      "name": "Power Settings Gear",
+      "semantic_name": "power-settings-gear",
+      "description": "Gear with power symbol, representing system settings, activation, or technical configuration.",
+      "alt_text": "Gear with power symbol.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;8354;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "activation",
+        "configuration",
+        "digital-it-security",
+        "digital-marketing-security",
+        "gear",
+        "marketing-seo-content",
+        "or",
+        "power",
+        "power-settings-gear",
+        "representing",
+        "safety-hse",
+        "settings",
+        "symbol",
+        "system",
+        "technical",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-004.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 913112,
+        "width": 1107206,
+        "height": 1101897
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-005",
+      "name": "Pie Chart",
+      "semantic_name": "pie-chart",
+      "description": "Pie chart, representing analytics, segmentation, or dashboard data.",
+      "alt_text": "Pie chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Google Shape;8383;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "chart",
+        "dashboard",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "marketing-seo-content",
+        "or",
+        "pie",
+        "pie-chart",
+        "representing",
+        "safety-hse",
+        "segmentation"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-005.png"
+      },
+      "bbox_emu": {
+        "x": 4456416,
+        "y": 910511,
+        "width": 1107209,
+        "height": 1107114
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-006",
+      "name": "User Search",
+      "semantic_name": "user-search",
+      "description": "Magnifying glass over user, representing user lookup, recruitment search, or customer research.",
+      "alt_text": "Magnifying glass over user.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;8249;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "recruitment-talent",
+        "safety-hse"
+      ],
+      "tags": [
+        "customer",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "glass",
+        "lookup",
+        "magnifying",
+        "marketing-seo-content",
+        "or",
+        "over",
+        "recruitment",
+        "recruitment-talent",
+        "representing",
+        "research",
+        "safety-hse",
+        "search",
+        "user",
+        "user-search"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-006.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 913450,
+        "width": 1107206,
+        "height": 1101221
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-007",
+      "name": "Task Checklist",
+      "semantic_name": "task-checklist",
+      "description": "Clipboard checklist, representing tasks, QA, campaign checklist, or compliance steps.",
+      "alt_text": "Clipboard checklist.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;8283;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "campaign",
+        "checklist",
+        "clipboard",
+        "compliance",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "or",
+        "qa",
+        "representing",
+        "safety-hse",
+        "steps",
+        "task-checklist",
+        "tasks"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-007.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 910460,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-008",
+      "name": "Video Player",
+      "semantic_name": "video-player",
+      "description": "Screen with play button, representing video content, learning media, or digital campaign.",
+      "alt_text": "Screen with play button.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;8330;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "button",
+        "campaign",
+        "content",
+        "design-creative-assets",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "learning",
+        "learning-education",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "play",
+        "representing",
+        "safety-hse",
+        "screen",
+        "video",
+        "video-player",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-008.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 913123,
+        "width": 1107206,
+        "height": 1101880
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-009",
+      "name": "Lab Flask",
+      "semantic_name": "lab-flask",
+      "description": "Lab flask, representing testing, experimentation, or research.",
+      "alt_text": "Lab flask.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;8365;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "digital-it-security",
+        "digital-marketing-security",
+        "experimentation",
+        "flask",
+        "lab",
+        "lab-flask",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "research",
+        "safety-hse",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-009.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 913112,
+        "width": 1107206,
+        "height": 1101897
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-010",
+      "name": "Image Resize",
+      "semantic_name": "image-resize",
+      "description": "Image frame with resize handles, representing image editing, cropping, or responsive asset sizing.",
+      "alt_text": "Image frame with resize handles.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;8389;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "asset",
+        "cropping",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "editing",
+        "frame",
+        "handles",
+        "image",
+        "image-resize",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "resize",
+        "responsive",
+        "safety-hse",
+        "sizing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-010.png"
+      },
+      "bbox_emu": {
+        "x": 9999492,
+        "y": 910474,
+        "width": 880429,
+        "height": 1107208
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-011",
+      "name": "Chat User",
+      "semantic_name": "chat-user",
+      "description": "Chat bubbles with user, representing messaging, community, or customer conversation.",
+      "alt_text": "Chat bubbles with user.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;8256;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubbles",
+        "chat",
+        "chat-user",
+        "communication-support",
+        "community",
+        "conversation",
+        "customer",
+        "digital-it-security",
+        "digital-marketing-security",
+        "marketing-seo-content",
+        "messaging",
+        "or",
+        "representing",
+        "safety-hse",
+        "user",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-011.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 969185,
+        "width": 1107206,
+        "height": 989752
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-012",
+      "name": "Document Edit",
+      "semantic_name": "document-edit",
+      "description": "Document with pencil, representing content editing, copywriting, or documentation.",
+      "alt_text": "Document with pencil.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;8295;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "content",
+        "copywriting",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "document",
+        "document-edit",
+        "documentation",
+        "documents-files-records",
+        "editing",
+        "marketing-seo-content",
+        "or",
+        "pencil",
+        "representing",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-012.png"
+      },
+      "bbox_emu": {
+        "x": 119790,
+        "y": 1996387,
+        "width": 1093145,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-013",
+      "name": "Seo Tag",
+      "semantic_name": "seo-tag",
+      "description": "Tag labeled SEO, representing search engine optimization or metadata.",
+      "alt_text": "Tag labeled SEO.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;8341;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "digital-it-security",
+        "digital-marketing-security",
+        "engine",
+        "labeled",
+        "learning-education",
+        "marketing-seo-content",
+        "metadata",
+        "optimization",
+        "or",
+        "representing",
+        "safety-hse",
+        "search",
+        "seo",
+        "seo-tag",
+        "tag"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-013.png"
+      },
+      "bbox_emu": {
+        "x": 1226572,
+        "y": 1996387,
+        "width": 1051439,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-014",
+      "name": "User Network",
+      "semantic_name": "user-network",
+      "description": "User connected to nodes, representing user network, audience, or digital identity graph.",
+      "alt_text": "User connected to nodes.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;8374;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "audience",
+        "connected",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "graph",
+        "identity",
+        "marketing-seo-content",
+        "network",
+        "nodes",
+        "or",
+        "representing",
+        "safety-hse",
+        "to",
+        "user",
+        "user-network"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-014.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 2116145,
+        "width": 1107206,
+        "height": 867685
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-015",
+      "name": "Location Settings",
+      "semantic_name": "location-settings",
+      "description": "Map pin with gear, representing location settings, service area, or geo-configuration.",
+      "alt_text": "Map pin with gear.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;8407;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "area",
+        "configuration",
+        "digital-it-security",
+        "digital-marketing-security",
+        "gear",
+        "geo",
+        "location",
+        "location-settings",
+        "map",
+        "marketing-seo-content",
+        "or",
+        "pin",
+        "representing",
+        "safety-hse",
+        "service",
+        "settings",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-015.png"
+      },
+      "bbox_emu": {
+        "x": 3430263,
+        "y": 1996387,
+        "width": 987766,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-016",
+      "name": "Shopping Cart Settings",
+      "semantic_name": "shopping-cart-settings",
+      "description": "Shopping cart with gear, representing ecommerce configuration, procurement, or online ordering.",
+      "alt_text": "Shopping cart with gear.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;8275;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "cart",
+        "configuration",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "ecommerce",
+        "gear",
+        "marketing-seo-content",
+        "online",
+        "or",
+        "ordering",
+        "procurement",
+        "representing",
+        "safety-hse",
+        "shopping",
+        "shopping-cart-settings",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-016.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 2143141,
+        "width": 1107206,
+        "height": 813697
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-017",
+      "name": "Trash Bin",
+      "semantic_name": "trash-bin",
+      "description": "Trash bin, representing delete, remove, cleanup, or disposal.",
+      "alt_text": "Trash bin.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;8379;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bin",
+        "cleanup",
+        "delete",
+        "digital-it-security",
+        "digital-marketing-security",
+        "disposal",
+        "marketing-seo-content",
+        "or",
+        "remove",
+        "representing",
+        "safety-hse",
+        "trash",
+        "trash-bin"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-017.png"
+      },
+      "bbox_emu": {
+        "x": 5542403,
+        "y": 1997706,
+        "width": 1107204,
+        "height": 1104582
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-018",
+      "name": "Browser Security",
+      "semantic_name": "browser-security",
+      "description": "Browser with shield, representing web security, protected site, or cybersecurity.",
+      "alt_text": "Browser with shield.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;8245;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "browser",
+        "browser-security",
+        "cybersecurity",
+        "digital-it-security",
+        "digital-marketing-security",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "or",
+        "protected",
+        "representing",
+        "safety-hse",
+        "security",
+        "shield",
+        "site",
+        "web",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-018.png"
+      },
+      "bbox_emu": {
+        "x": 6628370,
+        "y": 2002947,
+        "width": 1107204,
+        "height": 1094081
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-019",
+      "name": "Server Stack",
+      "semantic_name": "server-stack",
+      "description": "Server stack, representing hosting, infrastructure, or backend systems.",
+      "alt_text": "Server stack.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;8277;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "backend",
+        "digital-it-security",
+        "digital-marketing-security",
+        "hosting",
+        "infrastructure",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "server",
+        "server-stack",
+        "stack",
+        "systems"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-019.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 1999360,
+        "width": 1107206,
+        "height": 1101256
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-020",
+      "name": "Web Page Layout",
+      "semantic_name": "web-page-layout",
+      "description": "Web page layout, representing content page, article, or web interface.",
+      "alt_text": "Web page layout.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;8674;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "article",
+        "content",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "interface",
+        "layout",
+        "marketing-seo-content",
+        "or",
+        "page",
+        "representing",
+        "safety-hse",
+        "web",
+        "web-page-layout"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-020.png"
+      },
+      "bbox_emu": {
+        "x": 8849539,
+        "y": 1896587,
+        "width": 1107206,
+        "height": 1099480
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-021",
+      "name": "Energy Idea Bulb",
+      "semantic_name": "energy-idea-bulb",
+      "description": "Light bulb with lightning, representing energy idea, innovation, or bright concept.",
+      "alt_text": "Light bulb with lightning.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;8357;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "innovation-growth",
+        "marketing-seo-content",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "bright",
+        "bulb",
+        "concept",
+        "digital-it-security",
+        "digital-marketing-security",
+        "drilling-rigs-wells",
+        "energy",
+        "energy-idea-bulb",
+        "idea",
+        "innovation",
+        "innovation-growth",
+        "light",
+        "lightning",
+        "marketing-seo-content",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-021.png"
+      },
+      "bbox_emu": {
+        "x": 9886087,
+        "y": 2002972,
+        "width": 1107207,
+        "height": 1094000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-022",
+      "name": "Digital Payment Touch",
+      "semantic_name": "digital-payment-touch",
+      "description": "Hand tapping infinity/payment symbol, representing digital transaction, seamless process, or automation.",
+      "alt_text": "Hand tapping infinity/payment symbol.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;8387;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "automation",
+        "business-finance",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-payment-touch",
+        "hand",
+        "infinity",
+        "marketing-seo-content",
+        "or",
+        "payment",
+        "process",
+        "representing",
+        "safety-hse",
+        "seamless",
+        "symbol",
+        "tapping",
+        "transaction"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-022.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 2035887,
+        "width": 1107206,
+        "height": 1028205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-023",
+      "name": "Document Inbox",
+      "semantic_name": "document-inbox",
+      "description": "Document in tray, representing inbox, file intake, or document submission.",
+      "alt_text": "Document in tray.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Google Shape;8252;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "digital-it-security",
+        "digital-marketing-security",
+        "document",
+        "document-inbox",
+        "documents-files-records",
+        "file",
+        "in",
+        "inbox",
+        "intake",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "submission",
+        "tray"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-023.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 3083628,
+        "width": 1107206,
+        "height": 1104577
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-024",
+      "name": "Printer",
+      "semantic_name": "printer",
+      "description": "Printer, representing printing, document output, or office equipment.",
+      "alt_text": "Printer.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;8286;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "document",
+        "documents-files-records",
+        "equipment",
+        "facilities-workplace",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "office",
+        "or",
+        "output",
+        "printer",
+        "printing",
+        "representing",
+        "safety-hse"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-024.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 3083612,
+        "width": 1107206,
+        "height": 1104606
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-025",
+      "name": "Quality Monitor",
+      "semantic_name": "quality-monitor",
+      "description": "Monitor with diamond, representing premium digital quality, design asset, or high-value content.",
+      "alt_text": "Monitor with diamond.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;8333;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "asset",
+        "content",
+        "design",
+        "design-creative-assets",
+        "diamond",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "high",
+        "marketing-seo-content",
+        "monitor",
+        "or",
+        "premium",
+        "quality",
+        "quality-monitor",
+        "representing",
+        "safety-hse",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-025.png"
+      },
+      "bbox_emu": {
+        "x": 2403720,
+        "y": 3082314,
+        "width": 868994,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-026",
+      "name": "Compact Disc",
+      "semantic_name": "compact-disc",
+      "description": "Disc, representing media, storage, or software.",
+      "alt_text": "Disc.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;8368;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "compact-disc",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "disc",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "representing",
+        "safety-hse",
+        "software",
+        "storage"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-026.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 3083659,
+        "width": 1107206,
+        "height": 1104515
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-027",
+      "name": "Desktop Layout",
+      "semantic_name": "desktop-layout",
+      "description": "Desktop monitor with layout blocks, representing web layout, UI design, or dashboard interface.",
+      "alt_text": "Desktop monitor with layout blocks.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Google Shape;8397;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "blocks",
+        "dashboard",
+        "design",
+        "design-creative-assets",
+        "desktop",
+        "desktop-layout",
+        "digital-it-security",
+        "digital-marketing-security",
+        "facilities-workplace",
+        "interface",
+        "layout",
+        "marketing-seo-content",
+        "monitor",
+        "or",
+        "representing",
+        "safety-hse",
+        "ui",
+        "web",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-027.png"
+      },
+      "bbox_emu": {
+        "x": 4514884,
+        "y": 3082314,
+        "width": 990374,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-028",
+      "name": "Hand Target",
+      "semantic_name": "hand-target",
+      "description": "Hand holding target, representing goal delivery, service offering, or user objective.",
+      "alt_text": "Hand holding target.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;8260;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "logistics-transport",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "delivery",
+        "digital-it-security",
+        "digital-marketing-security",
+        "goal",
+        "hand",
+        "hand-target",
+        "holding",
+        "logistics-transport",
+        "marketing-seo-content",
+        "objective",
+        "offering",
+        "or",
+        "representing",
+        "safety-hse",
+        "service",
+        "target",
+        "user"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-028.png"
+      },
+      "bbox_emu": {
+        "x": 5543538,
+        "y": 3082314,
+        "width": 1104921,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-029",
+      "name": "Verified Database",
+      "semantic_name": "verified-database",
+      "description": "Database with check mark, representing verified data, data integrity, or approved records.",
+      "alt_text": "Database with check mark.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;8299;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "approved",
+        "check",
+        "data",
+        "database",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "integrity",
+        "legal-compliance-governance",
+        "mark",
+        "marketing-seo-content",
+        "or",
+        "records",
+        "representing",
+        "safety-hse",
+        "verified",
+        "verified-database",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-029.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 3083667,
+        "width": 1107206,
+        "height": 1104499
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-030",
+      "name": "Warning Display",
+      "semantic_name": "warning-display",
+      "description": "Screen with warning sign, representing alert, issue, risk, or system warning.",
+      "alt_text": "Screen with warning sign.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;8342;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "alert",
+        "digital-it-security",
+        "digital-marketing-security",
+        "issue",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "risk",
+        "safety-hse",
+        "screen",
+        "sign",
+        "system",
+        "warning",
+        "warning-display",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-030.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 3082314,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-031",
+      "name": "Code Window",
+      "semantic_name": "code-window",
+      "description": "Browser code window, representing software development, coding, or web engineering.",
+      "alt_text": "Browser code window.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;8375;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "browser",
+        "code",
+        "code-window",
+        "coding",
+        "development",
+        "digital-it-security",
+        "digital-marketing-security",
+        "engineering",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "software",
+        "web",
+        "window"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-031.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 3083667,
+        "width": 1107206,
+        "height": 1104499
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-032",
+      "name": "Mobile Payment",
+      "semantic_name": "mobile-payment",
+      "description": "Mobile phone with dollar bubble, representing mobile payment, monetization, or digital wallet.",
+      "alt_text": "Mobile phone with dollar bubble.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;8412;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "communication-support",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubble",
+        "business-finance",
+        "communication-support",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "dollar",
+        "marketing-seo-content",
+        "mobile",
+        "mobile-payment",
+        "monetization",
+        "or",
+        "payment",
+        "phone",
+        "representing",
+        "safety-hse",
+        "wallet",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-032.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 3103325,
+        "width": 1107206,
+        "height": 1065184
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-033",
+      "name": "Presentation Chart",
+      "semantic_name": "presentation-chart",
+      "description": "Presentation screen with upward chart, representing reporting, analytics, or performance review.",
+      "alt_text": "Presentation screen with upward chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;8311;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "performance",
+        "presentation",
+        "presentation-chart",
+        "reporting",
+        "representing",
+        "review",
+        "safety-hse",
+        "screen",
+        "upward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-033.png"
+      },
+      "bbox_emu": {
+        "x": 10974297,
+        "y": 3082314,
+        "width": 1102664,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-034",
+      "name": "Web Settings",
+      "semantic_name": "web-settings",
+      "description": "Browser window with gear, representing web configuration, site administration, or system settings.",
+      "alt_text": "Browser window with gear.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;8420;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "administration",
+        "browser",
+        "configuration",
+        "digital-it-security",
+        "digital-marketing-security",
+        "gear",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "settings",
+        "site",
+        "system",
+        "web",
+        "web-settings",
+        "window",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-034.png"
+      },
+      "bbox_emu": {
+        "x": 172483,
+        "y": 4168249,
+        "width": 987765,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-035",
+      "name": "Analytics Monitor",
+      "semantic_name": "analytics-monitor",
+      "description": "Monitor with connected chart, representing digital analytics, KPI tracking, or dashboard insights.",
+      "alt_text": "Monitor with connected chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;8248;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-monitor",
+        "analytics-reporting",
+        "chart",
+        "connected",
+        "dashboard",
+        "design-creative-assets",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "insights",
+        "kpi",
+        "marketing-seo-content",
+        "monitor",
+        "or",
+        "representing",
+        "safety-hse",
+        "tracking",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-035.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 4173546,
+        "width": 1107206,
+        "height": 1096596
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-026",
+      "name": "Document Pencil",
+      "semantic_name": "document-pencil",
+      "description": "Document with pencil, representing contract, note, form, or content editing.",
+      "alt_text": "Document with pencil.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;4840;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "commerce-innovation-growth",
+        "content",
+        "contract",
+        "design-creative-assets",
+        "digital-it-security",
+        "document",
+        "document-pencil",
+        "documents-files-records",
+        "editing",
+        "form",
+        "innovation-growth",
+        "marketing-seo-content",
+        "note",
+        "or",
+        "pencil",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-026.png"
+      },
+      "bbox_emu": {
+        "x": 3358926,
+        "y": 3111343,
+        "width": 1102202,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-006",
+      "name": "Document Email",
+      "semantic_name": "document-email",
+      "description": "Document with envelope, representing email attachment, correspondence, or notification.",
+      "alt_text": "Document with envelope.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;6549;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "attachment",
+        "communication-hr-support",
+        "communication-support",
+        "correspondence",
+        "digital-it-security",
+        "document",
+        "document-email",
+        "documents-files-records",
+        "email",
+        "envelope",
+        "marketing-seo-content",
+        "notification",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-006.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 895946,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-015",
+      "name": "Email Question",
+      "semantic_name": "email-question",
+      "description": "Envelope with question mark, representing inquiry email, help request, or candidate question.",
+      "alt_text": "Envelope with question mark.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;6691;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "email",
+        "email-question",
+        "envelope",
+        "help",
+        "inquiry",
+        "mark",
+        "marketing-seo-content",
+        "or",
+        "people-hr-workforce",
+        "question",
+        "recruitment-talent",
+        "representing",
+        "request",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-015.png"
+      },
+      "bbox_emu": {
+        "x": 3356029,
+        "y": 1983228,
+        "width": 1107206,
+        "height": 1104496
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-030",
+      "name": "Megaphone Announcement",
+      "semantic_name": "megaphone-announcement",
+      "description": "Megaphone, representing announcement, broadcast, or public communication.",
+      "alt_text": "Megaphone.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;6629;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "marketing-seo-content",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "announcement",
+        "broadcast",
+        "communication",
+        "communication-hr-support",
+        "communication-support",
+        "marketing-seo-content",
+        "megaphone",
+        "megaphone-announcement",
+        "or",
+        "people-hr-workforce",
+        "public",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-030.png"
+      },
+      "bbox_emu": {
+        "x": 7699737,
+        "y": 3070454,
+        "width": 1107206,
+        "height": 1101897
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-004",
+      "name": "Document Pencil",
+      "semantic_name": "document-pencil",
+      "description": "Document with pencil, representing editing, writing, or content creation.",
+      "alt_text": "Document with pencil.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;5826;p61"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "content",
+        "creation",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "document",
+        "document-pencil",
+        "documents-files-records",
+        "editing",
+        "innovation-growth",
+        "marketing-seo-content",
+        "or",
+        "pencil",
+        "representing",
+        "with",
+        "writing"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-004.png"
+      },
+      "bbox_emu": {
+        "x": 3385058,
+        "y": 899113,
+        "width": 1107206,
+        "height": 1042815
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-011",
+      "name": "Text Box",
+      "semantic_name": "text-box",
+      "description": "Typography text box, representing text editing, type layout, or content design.",
+      "alt_text": "Typography text box.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;5744;p61"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "box",
+        "content",
+        "design",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "documents-files-records",
+        "editing",
+        "innovation-growth",
+        "layout",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "text",
+        "text-box",
+        "type",
+        "typography"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-011.png"
+      },
+      "bbox_emu": {
+        "x": 11047131,
+        "y": 866912,
+        "width": 985331,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-014",
+      "name": "Video Clapper",
+      "semantic_name": "video-clapper",
+      "description": "Video clapper board with play button, representing video production, media, or motion content.",
+      "alt_text": "Video clapper board with play button.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;5850;p61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "board",
+        "button",
+        "clapper",
+        "content",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content",
+        "media",
+        "motion",
+        "or",
+        "play",
+        "production",
+        "representing",
+        "video",
+        "video-clapper",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-014.png"
+      },
+      "bbox_emu": {
+        "x": 2962166,
+        "y": 1952845,
+        "width": 1094956,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-019",
+      "name": "Document Time",
+      "semantic_name": "document-time",
+      "description": "Document with clock, representing timed file, deadline, or scheduled content.",
+      "alt_text": "Document with clock.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;5790;p61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content",
+        "time-scheduling"
+      ],
+      "tags": [
+        "clock",
+        "content",
+        "deadline",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "document",
+        "document-time",
+        "documents-files-records",
+        "file",
+        "innovation-growth",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "scheduled",
+        "time-scheduling",
+        "timed",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-019.png"
+      },
+      "bbox_emu": {
+        "x": 9483277,
+        "y": 1955225,
+        "width": 1107206,
+        "height": 1102441
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-036",
+      "name": "Ai Document",
+      "semantic_name": "ai-document",
+      "description": "Document marked AI, representing artificial intelligence content, generated assets, or smart document.",
+      "alt_text": "Document marked AI.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;5798;p61"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "ai",
+        "ai-document",
+        "artificial",
+        "assets",
+        "content",
+        "design-creative-assets",
+        "design-creative-files",
+        "document",
+        "documents-files-records",
+        "generated",
+        "innovation-growth",
+        "intelligence",
+        "marked",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "smart"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-036.png"
+      },
+      "bbox_emu": {
+        "x": 6642839,
+        "y": 4143324,
+        "width": 1107206,
+        "height": 1069953
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-003",
+      "name": "Video Player",
+      "semantic_name": "video-player",
+      "description": "Video player screen, representing e-learning, video content, or media.",
+      "alt_text": "Video player screen.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;6291;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "learning-education",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "content",
+        "design-creative-assets",
+        "e",
+        "education-science-general",
+        "learning",
+        "learning-education",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "player",
+        "representing",
+        "screen",
+        "video",
+        "video-player"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-003.png"
+      },
+      "bbox_emu": {
+        "x": 2284748,
+        "y": 979467,
+        "width": 1107205,
+        "height": 1085263
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

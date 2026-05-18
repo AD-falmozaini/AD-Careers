@@ -1,0 +1,426 @@
+/* =============================================================================
+   ADC Design System — Tokens v1.0
+   HR Transformation Edition
+   Two entities: AD (Arabian Drilling) · OFSAT
+   ============================================================================= */
+
+/* ---------- Font Faces ---------- */
+
+@font-face {
+  font-family: "Certo Sans";
+  src: url("fonts/CertoSans-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Certo Sans";
+  src: url("fonts/CertoSans-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cairo";
+  src: url("fonts/Cairo_Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Cairo";
+  src: url("fonts/Cairo_Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Aptos";
+  src: url("fonts/Aptos.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos";
+  src: url("fonts/Aptos_Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos";
+  src: url("fonts/Aptos_Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos";
+  src: url("fonts/Aptos_Bold_Italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos";
+  src: url("fonts/Aptos_ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos";
+  src: url("fonts/Aptos_ExtraBold_Italic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos";
+  src: url("fonts/Aptos_Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Aptos Display — used for body copy and H1–H3 in Office/Word deliverables,
+   and available here for the same role. Certo Sans remains the brand display
+   face; Aptos Display is the humanist companion for running body text. */
+
+@font-face {
+  font-family: "Aptos Display";
+  src: url("fonts/Aptos_Display.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos Display";
+  src: url("fonts/Aptos_Display_Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos Display";
+  src: url("fonts/Aptos_Display_Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos Display";
+  src: url("fonts/Aptos_Display_Bold_Italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Aptos Narrow";
+  src: url("fonts/Aptos_Narrow.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos Narrow";
+  src: url("fonts/Aptos_Narrow_Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos Narrow";
+  src: url("fonts/Aptos_Narrow_Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Aptos Narrow";
+  src: url("fonts/Aptos_Narrow_Bold_Italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---------- Root Tokens ---------- */
+
+:root {
+  /* ========= Brand Colors ========= */
+  /* Primary — Certo Sans / HR Transformation canonical tokens (SKILL v2.1) */
+  /* Use --adc-teal (#004C3F) in ALL generated code. #003C34 exists only */
+  /* inside the locked ADC-Official-Light-v1.pptx theme XML — never write */
+  /* that hex from generators. */
+  --adc-teal:            #004C3F;  /* PRIMARY · HR Transformation UI · canonical */
+  --adc-teal-ui:         #004C3F;  /* alias for back-compat */
+  --adc-teal-dark:       #002820;  /* dark-theme backgrounds, sidebar gradients */
+  --adc-teal-mid:        #00695A;  /* secondary elements, hover, Word H2 */
+  --adc-teal-900:        #002820;
+  --adc-teal-800:        #003C34;  /* LEGACY · embedded-asset use only */
+  --adc-teal-700:        #004C3F;
+  --adc-teal-600:        #00695A;  /* Word H2 */
+  --adc-teal-500:        #0E8473;
+  --adc-teal-400:        #3BA594;
+  --adc-teal-300:        #8FCCBF;
+  --adc-teal-200:        #C5E4DE;  /* line token */
+  --adc-teal-100:        #E1F0EC;
+  --adc-teal-050:        #F0F5F4;  /* background */
+
+  /* Orange accent — #E87722 is the canonical accent for ALL generated code. */
+  /* #F6630C exists only inside legacy icon PNGs; never write it from code. */
+  --adc-orange:          #E87722;  /* PRIMARY ACCENT · canonical */
+  --adc-orange-web:      #E87722;  /* alias for back-compat */
+  --adc-orange-dark:     #C96310;  /* hover on orange elements */
+  --adc-orange-legacy:   #F6630C;  /* LEGACY · embedded-asset use only */
+  --adc-orange-700:      #C96310;
+  --adc-orange-600:      #E8570B;
+  --adc-orange-500:      #E87722;
+  --adc-orange-400:      #F8894A;
+  --adc-orange-300:      #FBB184;
+  --adc-orange-200:      #FDD6BF;
+  --adc-orange-100:      #FEEBDD;
+
+  /* Secondary (from brand manual) */
+  --adc-aqua:            #00CCA6;  /* Aqua Teal · Pantone 2239 */
+  --adc-cement:          #6F7673;  /* Cement Grey · Pantone Cool Grey 9 */
+
+  /* ========= Neutrals ========= */
+  --adc-ink:             #1A2422;  /* primary text */
+  --adc-ink-muted:       #546260;  /* secondary text / Word H3 */
+  --adc-ink-subtle:      #7A8A87;
+  --adc-line:            #C5E4DE;  /* brand-tinted line */
+  --adc-line-neutral:    #E4E9E8;  /* neutral line */
+  --adc-surface:         #FFFFFF;
+  --adc-surface-alt:     #F0F5F4; /* background */
+  --adc-surface-sunken:  #E8EFEE;
+  --adc-overlay:         rgba(0, 60, 52, 0.72);
+
+  /* ========= Status ========= */
+  --adc-status-green:    #0A9E30;
+  --adc-status-amber:    #D97706;
+  --adc-status-red:      #DC2626;
+  --adc-status-blue:     #0369A1;
+
+  --adc-status-green-bg: #E8F6EC;
+  --adc-status-amber-bg: #FEF3E4;
+  --adc-status-red-bg:   #FDECEC;
+  --adc-status-blue-bg:  #E6F1F8;
+
+  /* ========= Entity Badges (SKILL v2.1) ========= */
+  --adc-entity-ad:         #004C3F;
+  --adc-entity-ad-bg:      #E8F3F1;
+  --adc-entity-ad-border:  #B2DFDB;
+  --adc-entity-ofsat:        #E87722;
+  --adc-entity-ofsat-bg:     #FEF0E4;
+  --adc-entity-ofsat-border: #FBAA70;
+
+  /* ========= Type (SKILL v2.1) =========
+     Certo Sans = ALL English headings (H1-H4, display, slide titles,
+     section titles, cover titles) — NO exceptions, NO Aptos Display.
+     Aptos Display = body copy & H1–H3 running text. Aptos = UI / forms / tables.
+     Aptos Narrow = compact tabular. Cairo = all Arabic (no italics).
+     Calibri = Office fallback only. */
+  --adc-font-display:    "Certo Sans", "Calibri", system-ui, sans-serif;
+  --adc-font-heading:    "Certo Sans", "Calibri", system-ui, sans-serif;
+  --adc-font-body:       "Aptos Display", "Aptos", "Calibri", system-ui, sans-serif;
+  --adc-font-ui:         "Aptos", "Calibri", system-ui, sans-serif;
+  --adc-font-narrow:     "Aptos Narrow", "Calibri Narrow", "Aptos", system-ui, sans-serif;
+  --adc-font-arabic:     "Cairo", system-ui, sans-serif;
+  --adc-font-mono:       "Consolas", "Courier New", monospace;
+
+  /* Scale (rem-agnostic; assume 16px root) */
+  --adc-fs-display-xl:   56px;   /* cover titles */
+  --adc-fs-display-lg:   44px;   /* section openers */
+  --adc-fs-display-md:   32px;   /* slide titles */
+  --adc-fs-h1:           28px;
+  --adc-fs-h2:           22px;
+  --adc-fs-h3:           18px;
+  --adc-fs-body:         15px;
+  --adc-fs-body-sm:      13px;
+  --adc-fs-caption:      12px;
+  --adc-fs-micro:        11px;
+
+  /* Line heights */
+  --adc-lh-tight:        1.1;
+  --adc-lh-snug:         1.25;
+  --adc-lh-body:         1.5;
+  --adc-lh-loose:        1.65;
+
+  /* Letter spacing */
+  --adc-ls-display:      -0.01em;
+  --adc-ls-caps:         0.08em;  /* uppercase eyebrows */
+  --adc-ls-table:        0.02em;
+
+  /* ========= Spacing · 4px base grid (SAP Fiori) ========= */
+  --adc-s-1:  4px;
+  --adc-s-2:  8px;
+  --adc-s-3:  12px;
+  --adc-s-4:  16px;
+  --adc-s-5:  20px;
+  --adc-s-6:  24px;
+  --adc-s-8:  32px;
+  --adc-s-10: 40px;
+  --adc-s-12: 48px;
+  --adc-s-16: 64px;
+  --adc-s-20: 80px;
+  --adc-s-24: 96px;
+
+  /* ========= Radius ========= */
+  --adc-r-none: 0;
+  --adc-r-xs:   2px;    /* inputs, table cells */
+  --adc-r-sm:   4px;    /* default SPFx */
+  --adc-r-md:   6px;    /* cards */
+  --adc-r-lg:   10px;   /* modals, big surfaces */
+  --adc-r-pill: 999px;  /* badges */
+
+  /* ========= Shadows ========= */
+  --adc-shadow-0: none;
+  --adc-shadow-1: 0 1px 2px rgba(0, 60, 52, 0.06), 0 1px 1px rgba(0, 60, 52, 0.04);
+  --adc-shadow-2: 0 2px 6px rgba(0, 60, 52, 0.08), 0 1px 2px rgba(0, 60, 52, 0.04);
+  --adc-shadow-3: 0 6px 16px rgba(0, 60, 52, 0.10), 0 2px 4px rgba(0, 60, 52, 0.04);
+  --adc-shadow-4: 0 12px 28px rgba(0, 60, 52, 0.14), 0 4px 8px rgba(0, 60, 52, 0.06);
+  --adc-shadow-inset: inset 0 0 0 1px var(--adc-line);
+
+  /* ========= Motion ========= */
+  --adc-ease-standard: cubic-bezier(0.4, 0.0, 0.2, 1);
+  --adc-ease-enter:    cubic-bezier(0.0, 0.0, 0.2, 1);
+  --adc-ease-exit:     cubic-bezier(0.4, 0.0, 1, 1);
+  --adc-dur-fast:      120ms;
+  --adc-dur-base:      200ms;
+  --adc-dur-slow:      320ms;
+
+  /* ========= Z-layers ========= */
+  --adc-z-base:    0;
+  --adc-z-raised:  10;
+  --adc-z-sticky:  100;
+  --adc-z-overlay: 1000;
+  --adc-z-modal:   1100;
+  --adc-z-toast:   1200;
+}
+
+/* ---------- Semantic aliases (for convenience) ---------- */
+
+:root {
+  --fg:         var(--adc-ink);
+  --fg-muted:   var(--adc-ink-muted);
+  --fg-subtle:  var(--adc-ink-subtle);
+  --fg-on-dark: #FFFFFF;
+  --bg:         var(--adc-surface);
+  --bg-alt:     var(--adc-surface-alt);
+  --bg-sunken:  var(--adc-surface-sunken);
+  --brand:      var(--adc-teal-ui);
+  --brand-ink:  var(--adc-teal);
+  --accent:     var(--adc-orange-web);
+  --line:       var(--adc-line);
+}
+
+/* ---------- Element defaults ---------- */
+
+body {
+  font-family: var(--adc-font-body);
+  font-size: var(--adc-fs-body);
+  line-height: var(--adc-lh-body);
+  color: var(--fg);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+:lang(ar), [dir="rtl"] {
+  font-family: var(--adc-font-arabic);
+}
+
+h1, .adc-h1 {
+  font-family: var(--adc-font-heading);
+  font-weight: 700;
+  font-size: var(--adc-fs-h1);
+  line-height: var(--adc-lh-snug);
+  letter-spacing: var(--adc-ls-display);
+  color: var(--brand);
+  margin: 0;
+}
+h2, .adc-h2 {
+  font-family: var(--adc-font-heading);
+  font-weight: 700;
+  font-size: var(--adc-fs-h2);
+  line-height: var(--adc-lh-snug);
+  color: var(--adc-teal-600);
+  margin: 0;
+}
+h3, .adc-h3 {
+  font-family: var(--adc-font-heading);
+  font-weight: 700;
+  font-size: var(--adc-fs-h3);
+  line-height: var(--adc-lh-snug);
+  color: var(--adc-ink-muted);
+  margin: 0;
+}
+.adc-display-xl {
+  font-family: var(--adc-font-display);
+  font-weight: 700;
+  font-size: var(--adc-fs-display-xl);
+  line-height: var(--adc-lh-tight);
+  letter-spacing: var(--adc-ls-display);
+  color: var(--brand);
+}
+.adc-display-lg {
+  font-family: var(--adc-font-display);
+  font-weight: 700;
+  font-size: var(--adc-fs-display-lg);
+  line-height: var(--adc-lh-tight);
+  letter-spacing: var(--adc-ls-display);
+  color: var(--brand);
+}
+.adc-display-md {
+  font-family: var(--adc-font-display);
+  font-weight: 700;
+  font-size: var(--adc-fs-display-md);
+  line-height: var(--adc-lh-snug);
+  color: var(--brand);
+}
+.adc-eyebrow {
+  font-family: var(--adc-font-body);
+  font-weight: 700;
+  font-size: var(--adc-fs-micro);
+  letter-spacing: var(--adc-ls-caps);
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.adc-body {
+  font-family: var(--adc-font-body);
+  font-size: var(--adc-fs-body);
+  line-height: var(--adc-lh-body);
+  color: var(--fg);
+}
+.adc-body-sm {
+  font-family: var(--adc-font-body);
+  font-size: var(--adc-fs-body-sm);
+  line-height: var(--adc-lh-body);
+  color: var(--fg);
+}
+.adc-caption {
+  font-family: var(--adc-font-body);
+  font-size: var(--adc-fs-caption);
+  line-height: var(--adc-lh-snug);
+  color: var(--fg-muted);
+}
+.adc-table-cell {
+  font-family: var(--adc-font-narrow);
+  font-size: var(--adc-fs-body-sm);
+  letter-spacing: var(--adc-ls-table);
+  color: var(--fg);
+}
+.adc-mono {
+  font-family: var(--adc-font-mono);
+  font-size: var(--adc-fs-body-sm);
+  color: var(--fg);
+}
+.adc-arabic {
+  font-family: var(--adc-font-arabic);
+  font-style: normal !important; /* never italic in Arabic */
+}

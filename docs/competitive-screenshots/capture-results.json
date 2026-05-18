@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Delaware North Careers",
+    "url": "https://careers.delawarenorth.com/",
+    "status": "failed",
+    "error": "Error: Timed out running CDP command \"Page.captureScreenshot\" for tab 1"
+  },
+  {
+    "name": "Credicorp Careers",
+    "url": "https://carreras.grupocredicorp.com/",
+    "status": "failed",
+    "error": "Error: Timed out running CDP command \"Page.captureScreenshot\" for tab 1"
+  },
+  {
+    "name": "Kirk Palmer Associates",
+    "url": "https://www.kirkpalmer.com/",
+    "title": "Distinctive Executive Search - Kirk Palmer Associates",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/kirk-palmer.png",
+    "status": "captured"
+  },
+  {
+    "name": "McKesson Careers",
+    "url": "https://careers.mckesson.com/en",
+    "title": "McKesson Careers | The future of health starts with you.",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/mckesson.png",
+    "status": "captured"
+  },
+  {
+    "name": "Spectrum Careers",
+    "url": "https://jobs.spectrum.com/",
+    "title": "Join Spectrum | Explore Jobs in Tech, Sales, Customer Service & More",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/spectrum.png",
+    "status": "captured"
+  },
+  {
+    "name": "BAYADA Careers",
+    "url": "https://jobs.bayada.com/en/",
+    "title": "A Career That Matters | BAYADA Careers",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/bayada.png",
+    "status": "captured"
+  },
+  {
+    "name": "MUFG Americas Careers",
+    "url": "https://careers.mufgamericas.com/",
+    "title": "Homepage | MUFG Careers",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/mufg.png",
+    "status": "captured"
+  },
+  {
+    "name": "Comcast Careers",
+    "url": "https://jobs.comcast.com/",
+    "title": "Explore Comcast Global Media and Technology Jobs and Careers",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/comcast.png",
+    "status": "captured"
+  },
+  {
+    "name": "M&S Careers",
+    "url": "https://jobs.marksandspencer.com/",
+    "title": "Home :: M&S Careers",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/marks-spencer.png",
+    "status": "captured"
+  },
+  {
+    "name": "Whirlpool Careers",
+    "url": "https://www.whirlpoolcareers.com/",
+    "title": "Whirlpool Corporation Careers - Whirlpool Corporation Careers",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/whirlpool.png",
+    "status": "captured"
+  },
+  {
+    "name": "One Equity Partners",
+    "url": "https://www.oneequity.com/",
+    "title": "One Equity Partners - Middle Market Private Equity",
+    "file": "C:/Users/Admin/Documents/Dev/Site_Export/ad-careers-prototype/ad-careers-prototype/docs/competitive-screenshots/one-equity.png",
+    "status": "captured"
+  }
+]

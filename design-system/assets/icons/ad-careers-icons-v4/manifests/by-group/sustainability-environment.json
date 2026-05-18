@@ -1,0 +1,673 @@
+{
+  "group_slug": "sustainability-environment",
+  "description": "Environment, sustainability, clean energy, ecology, and responsible operations.",
+  "count": 12,
+  "icons": [
+    {
+      "id": "energy-oil-gas-005",
+      "name": "Clean Energy Idea",
+      "semantic_name": "clean-energy-idea",
+      "description": "Light bulb growing from leaves, representing energy innovation, sustainability, or environmental ideas.",
+      "alt_text": "Light bulb growing from leaves.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Group 8"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "innovation-growth",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "bulb",
+        "clean-energy-idea",
+        "digital-it-security",
+        "energy",
+        "energy-oil-gas",
+        "environmental",
+        "from",
+        "growing",
+        "ideas",
+        "innovation",
+        "innovation-growth",
+        "leaves",
+        "light",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "sustainability",
+        "sustainability-environment"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-005.png"
+      },
+      "bbox_emu": {
+        "x": 5173306,
+        "y": 820607,
+        "width": 793206,
+        "height": 987990
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-014",
+      "name": "Sustainability Hand Plant",
+      "semantic_name": "sustainability-hand-plant",
+      "description": "Hand holding a growing plant, representing sustainability, environmental responsibility, or growth.",
+      "alt_text": "Hand holding a growing plant.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Group 20"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "a",
+        "digital-it-security",
+        "energy-oil-gas",
+        "environmental",
+        "growing",
+        "growth",
+        "hand",
+        "holding",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "or",
+        "plant",
+        "representing",
+        "responsibility",
+        "sustainability",
+        "sustainability-environment",
+        "sustainability-hand-plant"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-014.png"
+      },
+      "bbox_emu": {
+        "x": 3913480,
+        "y": 1922988,
+        "width": 1052858,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-016",
+      "name": "Climate Temperature Globe",
+      "semantic_name": "climate-temperature-globe",
+      "description": "Globe with thermometer, representing climate impact, emissions, environment, or temperature monitoring.",
+      "alt_text": "Globe with thermometer.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Group 18"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "climate",
+        "climate-temperature-globe",
+        "digital-it-security",
+        "emissions",
+        "energy-oil-gas",
+        "environment",
+        "globe",
+        "impact",
+        "monitoring",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "sustainability-environment",
+        "temperature",
+        "thermometer",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-016.png"
+      },
+      "bbox_emu": {
+        "x": 6164910,
+        "y": 1945576,
+        "width": 1069999,
+        "height": 1024823
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-017",
+      "name": "Refinery Factory",
+      "semantic_name": "refinery-factory",
+      "description": "Industrial refinery building, representing processing facilities, plants, or production sites.",
+      "alt_text": "Industrial refinery building.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Group 17"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "building",
+        "design-creative-assets",
+        "digital-it-security",
+        "energy-oil-gas",
+        "facilities",
+        "facilities-workplace",
+        "industrial",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "plants",
+        "processing",
+        "production",
+        "refinery",
+        "refinery-factory",
+        "representing",
+        "sites",
+        "sustainability-environment"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-017.png"
+      },
+      "bbox_emu": {
+        "x": 7294910,
+        "y": 2080800,
+        "width": 1070000,
+        "height": 754377
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-031",
+      "name": "Power Plant Emissions",
+      "semantic_name": "power-plant-emissions",
+      "description": "Power plant cooling towers, representing energy generation, emissions, or industrial utilities.",
+      "alt_text": "Power plant cooling towers.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Group 43"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "cooling",
+        "digital-it-security",
+        "emissions",
+        "energy",
+        "energy-oil-gas",
+        "generation",
+        "industrial",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "plant",
+        "power",
+        "power-plant-emissions",
+        "representing",
+        "sustainability-environment",
+        "towers",
+        "utilities"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-031.png"
+      },
+      "bbox_emu": {
+        "x": 518547,
+        "y": 4122988,
+        "width": 1062724,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-038",
+      "name": "Hazardous Chemical Plant",
+      "semantic_name": "hazardous-chemical-plant",
+      "description": "Industrial plant with hazard symbol, representing hazardous materials, chemical processing, or risk control.",
+      "alt_text": "Industrial plant with hazard symbol.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Group 36"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "chemical",
+        "control",
+        "digital-it-security",
+        "energy-oil-gas",
+        "hazard",
+        "hazardous",
+        "hazardous-chemical-plant",
+        "industrial",
+        "industrial-equipment",
+        "materials",
+        "oil-gas-energy",
+        "or",
+        "plant",
+        "processing",
+        "representing",
+        "risk",
+        "safety-hse",
+        "sustainability-environment",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-038.png"
+      },
+      "bbox_emu": {
+        "x": 8507345,
+        "y": 4122988,
+        "width": 905130,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-017",
+      "name": "Money Plant",
+      "semantic_name": "money-plant",
+      "description": "Dollar coin with leaves, representing investment growth, value creation, or sustainable finance.",
+      "alt_text": "Dollar coin with leaves.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;4869;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "industrial-equipment",
+        "innovation-growth",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "business-finance",
+        "coin",
+        "commerce-innovation-growth",
+        "creation",
+        "digital-it-security",
+        "dollar",
+        "finance",
+        "growth",
+        "industrial-equipment",
+        "innovation-growth",
+        "investment",
+        "leaves",
+        "money-plant",
+        "or",
+        "representing",
+        "sustainability-environment",
+        "sustainable",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-017.png"
+      },
+      "bbox_emu": {
+        "x": 5532719,
+        "y": 2025463,
+        "width": 1097535,
+        "height": 1107214
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-030",
+      "name": "Cactus Plant",
+      "semantic_name": "cactus-plant",
+      "description": "Cactus plant, representing office decor, workspace, or general decorative object.",
+      "alt_text": "Cactus plant.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;5851;p61"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "innovation-growth",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "cactus",
+        "cactus-plant",
+        "decor",
+        "decorative",
+        "design-creative-assets",
+        "design-creative-files",
+        "documents-files-records",
+        "facilities-workplace",
+        "general",
+        "industrial-equipment",
+        "innovation-growth",
+        "object",
+        "office",
+        "or",
+        "plant",
+        "representing",
+        "sustainability-environment",
+        "workspace"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-030.png"
+      },
+      "bbox_emu": {
+        "x": 127276,
+        "y": 4184321,
+        "width": 1107206,
+        "height": 987962
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-024",
+      "name": "Healthy Apple",
+      "semantic_name": "healthy-apple",
+      "description": "Apple with heart, representing nutrition, healthy lifestyle, or wellbeing.",
+      "alt_text": "Apple with heart.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;7044;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "apple",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "healthy",
+        "healthy-apple",
+        "heart",
+        "lifestyle",
+        "nutrition",
+        "or",
+        "representing",
+        "sustainability-environment",
+        "wellbeing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-024.png"
+      },
+      "bbox_emu": {
+        "x": 1297410,
+        "y": 3104722,
+        "width": 1107206,
+        "height": 1099313
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-002",
+      "name": "Industrial Factory",
+      "semantic_name": "industrial-factory",
+      "description": "Factory, representing industrial facility, operations, or production plant.",
+      "alt_text": "Factory.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Group 5"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "facilities-workplace",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "facilities-workplace",
+        "facility",
+        "factory",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-factory",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "plant",
+        "production",
+        "representing",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-002.png"
+      },
+      "bbox_emu": {
+        "x": 1401454,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-006",
+      "name": "Globe Oil Drop",
+      "semantic_name": "globe-oil-drop",
+      "description": "Globe with oil drop, representing global energy, environment, or oil resources.",
+      "alt_text": "Globe with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Group 57"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drop",
+        "energy",
+        "environment",
+        "global",
+        "globe",
+        "globe-oil-drop",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "resources",
+        "safety-hse",
+        "sustainability-environment",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-006.png"
+      },
+      "bbox_emu": {
+        "x": 6101333,
+        "y": 1357481,
+        "width": 1107206,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-011",
+      "name": "Recycle Oil Drop",
+      "semantic_name": "recycle-oil-drop",
+      "description": "Recycle symbol with oil drop, representing environmental management, recycling, or sustainability.",
+      "alt_text": "Recycle symbol with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 11,
+      "source_shape_names": [
+        "object 64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drop",
+        "environmental",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "management",
+        "oil",
+        "oil-gas-energy",
+        "or",
+        "recycle",
+        "recycle-oil-drop",
+        "recycling",
+        "representing",
+        "safety-hse",
+        "sustainability",
+        "sustainability-environment",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-011.png"
+      },
+      "bbox_emu": {
+        "x": 222701,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

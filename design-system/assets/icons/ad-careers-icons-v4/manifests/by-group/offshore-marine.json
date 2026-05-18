@@ -1,0 +1,1858 @@
+{
+  "group_slug": "offshore-marine",
+  "description": "Offshore platforms, marine vessels, ships, sea, navigation, and offshore work.",
+  "count": 32,
+  "icons": [
+    {
+      "id": "energy-oil-gas-004",
+      "name": "Chemical Lab Vessels",
+      "semantic_name": "chemical-lab-vessels",
+      "description": "Laboratory flask and cylinder, representing chemical testing, fluid analysis, or lab operations.",
+      "alt_text": "Laboratory flask and cylinder.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Group 7"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "industrial-equipment",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "analysis",
+        "analytics-reporting",
+        "and",
+        "chemical",
+        "chemical-lab-vessels",
+        "cylinder",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "flask",
+        "fluid",
+        "industrial-equipment",
+        "lab",
+        "laboratory",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "representing",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-004.png"
+      },
+      "bbox_emu": {
+        "x": 3928986,
+        "y": 822988,
+        "width": 1021849,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-010",
+      "name": "Partnership Handshake",
+      "semantic_name": "partnership-handshake",
+      "description": "Handshake, representing partnership, vendor relationship, collaboration, or agreement.",
+      "alt_text": "Handshake.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Group 13"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "agreement",
+        "collaboration",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "handshake",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "partnership",
+        "partnership-handshake",
+        "relationship",
+        "representing",
+        "vendor"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-010.png"
+      },
+      "bbox_emu": {
+        "x": 10684910,
+        "y": 877822,
+        "width": 1070001,
+        "height": 960332
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-018",
+      "name": "Industrial Faucet Spray",
+      "semantic_name": "industrial-faucet-spray",
+      "description": "Industrial faucet spraying liquid, representing fluid flow, water, chemicals, or process handling.",
+      "alt_text": "Industrial faucet spraying liquid.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Group 16"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "chemicals",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "faucet",
+        "flow",
+        "fluid",
+        "handling",
+        "industrial",
+        "industrial-equipment",
+        "industrial-faucet-spray",
+        "liquid",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "process",
+        "representing",
+        "spraying",
+        "water"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-018.png"
+      },
+      "bbox_emu": {
+        "x": 8505255,
+        "y": 1922988,
+        "width": 909309,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-032",
+      "name": "Offshore Platform Crane",
+      "semantic_name": "offshore-platform-crane",
+      "description": "Offshore platform with crane, representing offshore drilling, marine operations, or platform support.",
+      "alt_text": "Offshore platform with crane.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Group 42"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "communication-support",
+        "crane",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling",
+        "drilling-rigs-wells",
+        "energy-oil-gas",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "offshore-platform-crane",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-032.png"
+      },
+      "bbox_emu": {
+        "x": 1644910,
+        "y": 4210305,
+        "width": 1069999,
+        "height": 895366
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-035",
+      "name": "Offshore Rig Platform",
+      "semantic_name": "offshore-rig-platform",
+      "description": "Offshore rig platform, representing offshore drilling operations or jack-up rig activity.",
+      "alt_text": "Offshore rig platform.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Group 39"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "activity",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling",
+        "drilling-rigs-wells",
+        "energy-oil-gas",
+        "jack",
+        "offshore",
+        "offshore-marine",
+        "offshore-rig-platform",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "rig",
+        "up"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-035.png"
+      },
+      "bbox_emu": {
+        "x": 5034910,
+        "y": 4191796,
+        "width": 1070000,
+        "height": 932384
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-041",
+      "name": "Marine Vessel",
+      "semantic_name": "marine-vessel",
+      "description": "Ship or tanker vessel, representing marine logistics, offshore transport, or shipping.",
+      "alt_text": "Ship or tanker vessel.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Group 44"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "energy-oil-gas",
+        "industrial-equipment",
+        "logistics",
+        "logistics-transport",
+        "marine",
+        "marine-vessel",
+        "offshore",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "ship",
+        "shipping",
+        "tanker",
+        "transport",
+        "vessel"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-041.png"
+      },
+      "bbox_emu": {
+        "x": 514910,
+        "y": 5247395,
+        "width": 1070000,
+        "height": 1021185
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-016",
+      "name": "Team Network",
+      "semantic_name": "team-network",
+      "description": "Connected people network, representing team structure, collaboration, or organizational relationships.",
+      "alt_text": "Connected people network.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Group 19"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "collaboration",
+        "connected",
+        "learning-education",
+        "logistics-transport",
+        "network",
+        "offshore-marine",
+        "or",
+        "organizational",
+        "people",
+        "people-hr-workforce",
+        "relationships",
+        "representing",
+        "structure",
+        "team",
+        "team-network"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-016.png"
+      },
+      "bbox_emu": {
+        "x": 6177313,
+        "y": 2031349,
+        "width": 975195,
+        "height": 991307
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-017",
+      "name": "Handshake Agreement",
+      "semantic_name": "handshake-agreement",
+      "description": "Handshake, representing agreement, partnership, collaboration, or employment offer.",
+      "alt_text": "Handshake.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;8738;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "agreement",
+        "collaboration",
+        "design-creative-assets",
+        "employment",
+        "handshake",
+        "handshake-agreement",
+        "learning-education",
+        "logistics-transport",
+        "offer",
+        "offshore-marine",
+        "or",
+        "partnership",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-017.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 2014869,
+        "width": 1107206,
+        "height": 1099266
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-026",
+      "name": "Top Performer Podium",
+      "semantic_name": "top-performer-podium",
+      "description": "Person on first-place podium, representing top performer, achievement, or leadership.",
+      "alt_text": "Person on first-place podium.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;8787;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "logistics-transport",
+        "offshore-marine",
+        "people-hr-workforce",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "documents-files-records",
+        "first",
+        "leadership",
+        "logistics-transport",
+        "offshore-marine",
+        "on",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "performer",
+        "person",
+        "place",
+        "podium",
+        "representing",
+        "rewards-recognition",
+        "top",
+        "top-performer-podium"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-026.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 3099423,
+        "width": 1107206,
+        "height": 1102016
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-031",
+      "name": "Team Collaboration",
+      "semantic_name": "team-collaboration",
+      "description": "People, Work & Management icon for team collaboration: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for team collaboration: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;8711;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "collaboration",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "team-collaboration",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-031.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 3096828,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-032",
+      "name": "Employee Profile",
+      "semantic_name": "employee-profile",
+      "description": "People, Work & Management icon for employee profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for employee profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;8766;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "documents-files-records",
+        "employee",
+        "employee-profile",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "profile",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-032.png"
+      },
+      "bbox_emu": {
+        "x": 11016927,
+        "y": 3096828,
+        "width": 1017401,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-033",
+      "name": "Business Meeting",
+      "semantic_name": "business-meeting",
+      "description": "People, Work & Management icon for business meeting: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for business meeting: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;8739;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "business",
+        "business-finance",
+        "business-meeting",
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "meeting",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-033.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 4183131,
+        "width": 1107206,
+        "height": 1106454
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-034",
+      "name": "Leadership Group",
+      "semantic_name": "leadership-group",
+      "description": "People, Work & Management icon for leadership group: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for leadership group: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;8769;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "group",
+        "hr",
+        "icon",
+        "leadership",
+        "leadership-group",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-034.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 4182797,
+        "width": 1107206,
+        "height": 1107123
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-035",
+      "name": "Candidate Profile",
+      "semantic_name": "candidate-profile",
+      "description": "People, Work & Management icon for candidate profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for candidate profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;8804;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "candidate-profile",
+        "documents-files-records",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "profile",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-035.png"
+      },
+      "bbox_emu": {
+        "x": 2284623,
+        "y": 4186719,
+        "width": 1107207,
+        "height": 1099274
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-036",
+      "name": "Office Worker",
+      "semantic_name": "office-worker",
+      "description": "People, Work & Management icon for office worker: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for office worker: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;8697;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "office-worker",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "worker",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-036.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 4182795,
+        "width": 1107206,
+        "height": 1107127
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-037",
+      "name": "Workforce Network",
+      "semantic_name": "workforce-network",
+      "description": "People, Work & Management icon for workforce network: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for workforce network: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;8721;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "network",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workforce-network",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-037.png"
+      },
+      "bbox_emu": {
+        "x": 4631875,
+        "y": 4182755,
+        "width": 756391,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-038",
+      "name": "Manager Presentation",
+      "semantic_name": "manager-presentation",
+      "description": "People, Work & Management icon for manager presentation: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for manager presentation: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;8746;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "manager",
+        "manager-presentation",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "presentation",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-038.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 4185406,
+        "width": 1107206,
+        "height": 1101901
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-039",
+      "name": "Employee Growth",
+      "semantic_name": "employee-growth",
+      "description": "People, Work & Management icon for employee growth: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for employee growth: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;8728;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "innovation-growth",
+      "use_groups": [
+        "innovation-growth",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "employee-growth",
+        "for",
+        "growth",
+        "hr",
+        "icon",
+        "innovation-growth",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-039.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 4184047,
+        "width": 1107206,
+        "height": 1104618
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-040",
+      "name": "People Connection",
+      "semantic_name": "people-connection",
+      "description": "People, Work & Management icon for people connection: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for people connection: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;8777;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "connection",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-connection",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-040.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 4182798,
+        "width": 1107206,
+        "height": 1107117
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-041",
+      "name": "Hr Workforce",
+      "semantic_name": "hr-workforce",
+      "description": "People, Work & Management icon for hr workforce: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for hr workforce: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;8750;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "hr-workforce",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-041.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 4245090,
+        "width": 1107206,
+        "height": 982537
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-042",
+      "name": "Team Leadership",
+      "semantic_name": "team-leadership",
+      "description": "People, Work & Management icon for team leadership: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for team leadership: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;8831;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "team-leadership",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-042.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 4184088,
+        "width": 1107206,
+        "height": 1104536
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-043",
+      "name": "Professional Staff",
+      "semantic_name": "professional-staff",
+      "description": "People, Work & Management icon for professional staff: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for professional staff: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;8703;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 11
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "professional",
+        "professional-staff",
+        "recruitment-talent",
+        "staff",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-043.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 4189269,
+        "width": 1107206,
+        "height": 1094175
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-044",
+      "name": "Organization Chart",
+      "semantic_name": "organization-chart",
+      "description": "People, Work & Management icon for organization chart: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for organization chart: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Google Shape;8729;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "candidate",
+        "chart",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "organization",
+        "organization-chart",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-044.png"
+      },
+      "bbox_emu": {
+        "x": 187558,
+        "y": 5268680,
+        "width": 975939,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-045",
+      "name": "Employee Support",
+      "semantic_name": "employee-support",
+      "description": "People, Work & Management icon for employee support: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for employee support: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;8754;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication-support",
+        "employee",
+        "employee-support",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "support",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-045.png"
+      },
+      "bbox_emu": {
+        "x": 1396129,
+        "y": 5268682,
+        "width": 712324,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-046",
+      "name": "Candidate Search",
+      "semantic_name": "candidate-search",
+      "description": "People, Work & Management icon for candidate search: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for candidate search: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;8845;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "candidate-search",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "search",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-046.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 5270015,
+        "width": 1107206,
+        "height": 1104536
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-047",
+      "name": "Workplace Culture",
+      "semantic_name": "workplace-culture",
+      "description": "People, Work & Management icon for workplace culture: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for workplace culture: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;8788;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "culture",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace",
+        "workplace-culture"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-047.png"
+      },
+      "bbox_emu": {
+        "x": 3370524,
+        "y": 5445436,
+        "width": 1107205,
+        "height": 753727
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-048",
+      "name": "Team Communication",
+      "semantic_name": "team-communication",
+      "description": "People, Work & Management icon for team communication: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for team communication: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;8842;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication",
+        "communication-support",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "team-communication",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-048.png"
+      },
+      "bbox_emu": {
+        "x": 4540421,
+        "y": 5268680,
+        "width": 1023255,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-049",
+      "name": "Manager Role",
+      "semantic_name": "manager-role",
+      "description": "People, Work & Management icon for manager role: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for manager role: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;8755;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "manager",
+        "manager-role",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "role",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-049.png"
+      },
+      "bbox_emu": {
+        "x": 5641118,
+        "y": 5276496,
+        "width": 1107206,
+        "height": 1099324
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-034",
+      "name": "Ship Wheel Strategy",
+      "semantic_name": "ship-wheel-strategy",
+      "description": "Ship wheel, representing navigation, strategy, leadership, or direction.",
+      "alt_text": "Ship wheel.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;4912;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "innovation-growth",
+      "use_groups": [
+        "innovation-growth",
+        "logistics-transport",
+        "offshore-marine"
+      ],
+      "tags": [
+        "commerce-innovation-growth",
+        "direction",
+        "innovation-growth",
+        "leadership",
+        "logistics-transport",
+        "navigation",
+        "offshore-marine",
+        "or",
+        "representing",
+        "ship",
+        "ship-wheel-strategy",
+        "strategy",
+        "wheel"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-034.png"
+      },
+      "bbox_emu": {
+        "x": 98060,
+        "y": 4198479,
+        "width": 1107207,
+        "height": 1104789
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-001",
+      "name": "Offshore Platform",
+      "semantic_name": "offshore-platform",
+      "description": "Offshore platform or industrial water facility, representing offshore operations or marine energy asset.",
+      "alt_text": "Offshore platform or industrial water facility.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Group 19"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "asset",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "energy",
+        "facilities-workplace",
+        "facility",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "offshore-platform",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "safety-hse",
+        "water"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-001.png"
+      },
+      "bbox_emu": {
+        "x": 177124,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-007",
+      "name": "Workboat Vessel",
+      "semantic_name": "workboat-vessel",
+      "description": "Small vessel or workboat, representing marine support, offshore logistics, or transport.",
+      "alt_text": "Small vessel or workboat.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Group 56"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "communication-support",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "logistics",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "small",
+        "support",
+        "transport",
+        "vessel",
+        "workboat",
+        "workboat-vessel"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-007.png"
+      },
+      "bbox_emu": {
+        "x": 7325663,
+        "y": 1357483,
+        "width": 1016227,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-016",
+      "name": "Offshore Rig Crane",
+      "semantic_name": "offshore-rig-crane",
+      "description": "Offshore rig with crane, representing offshore drilling, construction, or platform operations.",
+      "alt_text": "Offshore rig with crane.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 16,
+      "source_shape_names": [
+        "object 4",
+        "Group 64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "industrial-equipment",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "construction",
+        "crane",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling",
+        "drilling-rigs-wells",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "offshore",
+        "offshore-marine",
+        "offshore-rig-crane",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "rig",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-016.png"
+      },
+      "bbox_emu": {
+        "x": 5979938,
+        "y": 2946867,
+        "width": 1107208,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

@@ -1,0 +1,2789 @@
+{
+  "group_slug": "recruitment-talent",
+  "description": "Recruiting, candidates, hiring, talent community, CV, jobs, and onboarding.",
+  "count": 49,
+  "icons": [
+    {
+      "id": "business-finance-analytics-014",
+      "name": "Customer Target",
+      "semantic_name": "customer-target",
+      "description": "Person inside a target, representing audience targeting, candidate targeting, or customer focus.",
+      "alt_text": "Person inside a target.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Group 21"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "a",
+        "analytics-reporting",
+        "audience",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "customer",
+        "customer-target",
+        "focus",
+        "inside",
+        "logistics-transport",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "recruitment-talent",
+        "representing",
+        "target",
+        "targeting"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-014.png"
+      },
+      "bbox_emu": {
+        "x": 3925294,
+        "y": 2031349,
+        "width": 881165,
+        "height": 909011
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-030",
+      "name": "Email Message",
+      "semantic_name": "email-message",
+      "description": "Envelope, representing email communication, notifications, or candidate outreach.",
+      "alt_text": "Envelope.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Group 31"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "logistics-transport",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "communication",
+        "communication-support",
+        "email",
+        "email-message",
+        "envelope",
+        "logistics-transport",
+        "marketing-seo-content",
+        "notifications",
+        "or",
+        "outreach",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-030.png"
+      },
+      "bbox_emu": {
+        "x": 10688530,
+        "y": 3164940,
+        "width": 1070000,
+        "height": 1002819
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-034",
+      "name": "Businesswoman",
+      "semantic_name": "businesswoman",
+      "description": "Professional woman avatar, representing employee, manager, candidate, or business role.",
+      "alt_text": "Professional woman avatar.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Group 39"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "avatar",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "businesswoman",
+        "candidate",
+        "employee",
+        "logistics-transport",
+        "manager",
+        "or",
+        "people-hr-workforce",
+        "professional",
+        "recruitment-talent",
+        "representing",
+        "role",
+        "woman"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-034.png"
+      },
+      "bbox_emu": {
+        "x": 3911069,
+        "y": 4231349,
+        "width": 1064920,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-038",
+      "name": "Candidate Search",
+      "semantic_name": "candidate-search",
+      "description": "Magnifier over person, representing candidate search, recruitment screening, or people lookup.",
+      "alt_text": "Magnifier over person.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Group 43"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "candidate-search",
+        "design-creative-assets",
+        "digital-it-security",
+        "logistics-transport",
+        "lookup",
+        "magnifier",
+        "or",
+        "over",
+        "people",
+        "people-hr-workforce",
+        "person",
+        "recruitment",
+        "recruitment-talent",
+        "representing",
+        "screening",
+        "search"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-038.png"
+      },
+      "bbox_emu": {
+        "x": 8428530,
+        "y": 4262026,
+        "width": 1070000,
+        "height": 1008644
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-050",
+      "name": "Employee Rating",
+      "semantic_name": "employee-rating",
+      "description": "People with star ratings, representing performance rating, recognition, or talent assessment.",
+      "alt_text": "People with star ratings.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Group 46"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "assessment",
+        "business-finance",
+        "business-finance-analytics",
+        "digital-it-security",
+        "documents-files-records",
+        "employee-rating",
+        "logistics-transport",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "performance",
+        "rating",
+        "ratings",
+        "recognition",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "star",
+        "talent",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-050.png"
+      },
+      "bbox_emu": {
+        "x": 10688530,
+        "y": 5331350,
+        "width": 1070000,
+        "height": 1069998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-001",
+      "name": "Employee Badge Seal",
+      "semantic_name": "employee-badge-seal",
+      "description": "Person inside award seal, representing certified employee, talent recognition, or profile badge.",
+      "alt_text": "Person inside award seal.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;8705;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "award",
+        "badge",
+        "certified",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "employee-badge-seal",
+        "inside",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "profile",
+        "recognition",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "talent"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-001.png"
+      },
+      "bbox_emu": {
+        "x": 187558,
+        "y": 935772,
+        "width": 1107206,
+        "height": 1102066
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-004",
+      "name": "Employee Id Card",
+      "semantic_name": "employee-id-card",
+      "description": "Printed employee ID card, representing identity, access, badge, or candidate profile.",
+      "alt_text": "Printed employee ID card.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;8761;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "candidate",
+        "card",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "employee-id-card",
+        "id",
+        "identity",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "printed",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-004.png"
+      },
+      "bbox_emu": {
+        "x": 3891851,
+        "y": 924981,
+        "width": 1099392,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-010",
+      "name": "Interview Discussion",
+      "semantic_name": "interview-discussion",
+      "description": "Two people in conversation, representing interview, coaching, mentoring, or discussion.",
+      "alt_text": "Two people in conversation.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Group 4"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "coaching",
+        "communication-support",
+        "conversation",
+        "discussion",
+        "in",
+        "interview",
+        "interview-discussion",
+        "mentoring",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "two"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-010.png"
+      },
+      "bbox_emu": {
+        "x": 10957598,
+        "y": 924975,
+        "width": 1046867,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-011",
+      "name": "Checklist Document",
+      "semantic_name": "checklist-document",
+      "description": "Checklist document with pencil, representing tasks, assessment, onboarding, or compliance checklist.",
+      "alt_text": "Checklist document with pencil.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;8809;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "assessment",
+        "checklist",
+        "checklist-document",
+        "compliance",
+        "design-creative-assets",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "onboarding",
+        "or",
+        "pencil",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "tasks",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-011.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 2131332,
+        "width": 1107206,
+        "height": 866282
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-012",
+      "name": "Employee Status Card",
+      "semantic_name": "employee-status-card",
+      "description": "Person over status bar, representing employee status, profile completeness, or progress.",
+      "alt_text": "Person over status bar.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;8722;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "documents-files-records",
+        "innovation-growth",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bar",
+        "completeness",
+        "documents-files-records",
+        "employee",
+        "employee-status-card",
+        "innovation-growth",
+        "or",
+        "over",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "profile",
+        "progress",
+        "recruitment-talent",
+        "representing",
+        "status"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-012.png"
+      },
+      "bbox_emu": {
+        "x": 1198672,
+        "y": 2010894,
+        "width": 1107205,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-013",
+      "name": "Candidate Search",
+      "semantic_name": "candidate-search",
+      "description": "Magnifier over person, representing candidate search, recruitment, or people lookup.",
+      "alt_text": "Magnifier over person.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;8704;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "candidate-search",
+        "design-creative-assets",
+        "digital-it-security",
+        "lookup",
+        "magnifier",
+        "or",
+        "over",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "recruitment",
+        "recruitment-talent",
+        "representing",
+        "search"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-013.png"
+      },
+      "bbox_emu": {
+        "x": 2459263,
+        "y": 2010901,
+        "width": 757912,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-015",
+      "name": "Employee Location",
+      "semantic_name": "employee-location",
+      "description": "Person on map pin, representing employee location, site assignment, or job location.",
+      "alt_text": "Person on map pin.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;8686;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "assignment",
+        "digital-it-security",
+        "employee",
+        "employee-location",
+        "job",
+        "location",
+        "map",
+        "on",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "pin",
+        "recruitment-talent",
+        "representing",
+        "site"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-015.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 2013471,
+        "width": 1107206,
+        "height": 1102061
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-019",
+      "name": "Calendar Schedule",
+      "semantic_name": "calendar-schedule",
+      "description": "Calendar with clock, representing scheduling, interviews, roster, or appointments.",
+      "alt_text": "Calendar with clock.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;8801;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "time-scheduling"
+      ],
+      "tags": [
+        "appointments",
+        "calendar",
+        "calendar-schedule",
+        "clock",
+        "digital-it-security",
+        "interviews",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "roster",
+        "scheduling",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-019.png"
+      },
+      "bbox_emu": {
+        "x": 8800171,
+        "y": 2030743,
+        "width": 1107205,
+        "height": 1067538
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-022",
+      "name": "Candidate Target",
+      "semantic_name": "candidate-target",
+      "description": "Person inside target, representing recruitment targeting, talent matching, or role fit.",
+      "alt_text": "Person inside target.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;8745;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate-target",
+        "design-creative-assets",
+        "digital-it-security",
+        "fit",
+        "inside",
+        "matching",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "recruitment",
+        "recruitment-talent",
+        "representing",
+        "role",
+        "talent",
+        "target",
+        "targeting"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-022.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 3121283,
+        "width": 1107206,
+        "height": 1058295
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-025",
+      "name": "Person Information",
+      "semantic_name": "person-information",
+      "description": "Person with info bubble, representing employee information, HR support, or candidate help.",
+      "alt_text": "Person with info bubble.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;8702;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "bubble",
+        "candidate",
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "help",
+        "hr",
+        "info",
+        "information",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "person-information",
+        "recruitment-talent",
+        "representing",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-025.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 3135684,
+        "width": 1107206,
+        "height": 1029489
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-028",
+      "name": "Support Agent",
+      "semantic_name": "support-agent",
+      "description": "Headset support agent, representing HR helpdesk, customer service, or candidate support.",
+      "alt_text": "Headset support agent.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;8836;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "facilities-workplace",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "agent",
+        "candidate",
+        "communication-support",
+        "customer",
+        "facilities-workplace",
+        "headset",
+        "helpdesk",
+        "hr",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "service",
+        "support",
+        "support-agent"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-028.png"
+      },
+      "bbox_emu": {
+        "x": 6628461,
+        "y": 3096805,
+        "width": 1107213,
+        "height": 1107203
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-031",
+      "name": "Team Collaboration",
+      "semantic_name": "team-collaboration",
+      "description": "People, Work & Management icon for team collaboration: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for team collaboration: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;8711;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "collaboration",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "team-collaboration",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-031.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 3096828,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-032",
+      "name": "Employee Profile",
+      "semantic_name": "employee-profile",
+      "description": "People, Work & Management icon for employee profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for employee profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;8766;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "documents-files-records",
+        "employee",
+        "employee-profile",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "profile",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-032.png"
+      },
+      "bbox_emu": {
+        "x": 11016927,
+        "y": 3096828,
+        "width": 1017401,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-033",
+      "name": "Business Meeting",
+      "semantic_name": "business-meeting",
+      "description": "People, Work & Management icon for business meeting: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for business meeting: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;8739;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "business",
+        "business-finance",
+        "business-meeting",
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "meeting",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-033.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 4183131,
+        "width": 1107206,
+        "height": 1106454
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-034",
+      "name": "Leadership Group",
+      "semantic_name": "leadership-group",
+      "description": "People, Work & Management icon for leadership group: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for leadership group: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;8769;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "group",
+        "hr",
+        "icon",
+        "leadership",
+        "leadership-group",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-034.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 4182797,
+        "width": 1107206,
+        "height": 1107123
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-035",
+      "name": "Candidate Profile",
+      "semantic_name": "candidate-profile",
+      "description": "People, Work & Management icon for candidate profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for candidate profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;8804;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "candidate-profile",
+        "documents-files-records",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "profile",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-035.png"
+      },
+      "bbox_emu": {
+        "x": 2284623,
+        "y": 4186719,
+        "width": 1107207,
+        "height": 1099274
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-036",
+      "name": "Office Worker",
+      "semantic_name": "office-worker",
+      "description": "People, Work & Management icon for office worker: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for office worker: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;8697;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "office-worker",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "worker",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-036.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 4182795,
+        "width": 1107206,
+        "height": 1107127
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-037",
+      "name": "Workforce Network",
+      "semantic_name": "workforce-network",
+      "description": "People, Work & Management icon for workforce network: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for workforce network: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;8721;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "network",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workforce-network",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-037.png"
+      },
+      "bbox_emu": {
+        "x": 4631875,
+        "y": 4182755,
+        "width": 756391,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-038",
+      "name": "Manager Presentation",
+      "semantic_name": "manager-presentation",
+      "description": "People, Work & Management icon for manager presentation: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for manager presentation: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;8746;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "manager",
+        "manager-presentation",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "presentation",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-038.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 4185406,
+        "width": 1107206,
+        "height": 1101901
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-039",
+      "name": "Employee Growth",
+      "semantic_name": "employee-growth",
+      "description": "People, Work & Management icon for employee growth: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for employee growth: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;8728;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "innovation-growth",
+      "use_groups": [
+        "innovation-growth",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "employee-growth",
+        "for",
+        "growth",
+        "hr",
+        "icon",
+        "innovation-growth",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-039.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 4184047,
+        "width": 1107206,
+        "height": 1104618
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-040",
+      "name": "People Connection",
+      "semantic_name": "people-connection",
+      "description": "People, Work & Management icon for people connection: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for people connection: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;8777;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "connection",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-connection",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-040.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 4182798,
+        "width": 1107206,
+        "height": 1107117
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-041",
+      "name": "Hr Workforce",
+      "semantic_name": "hr-workforce",
+      "description": "People, Work & Management icon for hr workforce: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for hr workforce: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;8750;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "hr-workforce",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-041.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 4245090,
+        "width": 1107206,
+        "height": 982537
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-042",
+      "name": "Team Leadership",
+      "semantic_name": "team-leadership",
+      "description": "People, Work & Management icon for team leadership: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for team leadership: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;8831;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "team-leadership",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-042.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 4184088,
+        "width": 1107206,
+        "height": 1104536
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-043",
+      "name": "Professional Staff",
+      "semantic_name": "professional-staff",
+      "description": "People, Work & Management icon for professional staff: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for professional staff: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;8703;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 11
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "professional",
+        "professional-staff",
+        "recruitment-talent",
+        "staff",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-043.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 4189269,
+        "width": 1107206,
+        "height": 1094175
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-044",
+      "name": "Organization Chart",
+      "semantic_name": "organization-chart",
+      "description": "People, Work & Management icon for organization chart: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for organization chart: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Google Shape;8729;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "candidate",
+        "chart",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "organization",
+        "organization-chart",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-044.png"
+      },
+      "bbox_emu": {
+        "x": 187558,
+        "y": 5268680,
+        "width": 975939,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-045",
+      "name": "Employee Support",
+      "semantic_name": "employee-support",
+      "description": "People, Work & Management icon for employee support: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for employee support: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;8754;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication-support",
+        "employee",
+        "employee-support",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "support",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-045.png"
+      },
+      "bbox_emu": {
+        "x": 1396129,
+        "y": 5268682,
+        "width": 712324,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-046",
+      "name": "Candidate Search",
+      "semantic_name": "candidate-search",
+      "description": "People, Work & Management icon for candidate search: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for candidate search: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;8845;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "candidate-search",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "search",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-046.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 5270015,
+        "width": 1107206,
+        "height": 1104536
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-047",
+      "name": "Workplace Culture",
+      "semantic_name": "workplace-culture",
+      "description": "People, Work & Management icon for workplace culture: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for workplace culture: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;8788;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "culture",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace",
+        "workplace-culture"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-047.png"
+      },
+      "bbox_emu": {
+        "x": 3370524,
+        "y": 5445436,
+        "width": 1107205,
+        "height": 753727
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-048",
+      "name": "Team Communication",
+      "semantic_name": "team-communication",
+      "description": "People, Work & Management icon for team communication: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for team communication: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;8842;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication",
+        "communication-support",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "team-communication",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-048.png"
+      },
+      "bbox_emu": {
+        "x": 4540421,
+        "y": 5268680,
+        "width": 1023255,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-049",
+      "name": "Manager Role",
+      "semantic_name": "manager-role",
+      "description": "People, Work & Management icon for manager role: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for manager role: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;8755;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "manager",
+        "manager-role",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "role",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-049.png"
+      },
+      "bbox_emu": {
+        "x": 5641118,
+        "y": 5276496,
+        "width": 1107206,
+        "height": 1099324
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-006",
+      "name": "User Search",
+      "semantic_name": "user-search",
+      "description": "Magnifying glass over user, representing user lookup, recruitment search, or customer research.",
+      "alt_text": "Magnifying glass over user.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;8249;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "recruitment-talent",
+        "safety-hse"
+      ],
+      "tags": [
+        "customer",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "glass",
+        "lookup",
+        "magnifying",
+        "marketing-seo-content",
+        "or",
+        "over",
+        "recruitment",
+        "recruitment-talent",
+        "representing",
+        "research",
+        "safety-hse",
+        "search",
+        "user",
+        "user-search"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-006.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 913450,
+        "width": 1107206,
+        "height": 1101221
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-003",
+      "name": "Business Professional",
+      "semantic_name": "business-professional",
+      "description": "Professional person avatar, representing employee, manager, candidate, or consultant.",
+      "alt_text": "Professional person avatar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;4797;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "innovation-growth",
+      "use_groups": [
+        "innovation-growth",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "avatar",
+        "business-professional",
+        "candidate",
+        "commerce-innovation-growth",
+        "consultant",
+        "employee",
+        "innovation-growth",
+        "logistics-transport",
+        "manager",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "professional",
+        "recruitment-talent",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-003.png"
+      },
+      "bbox_emu": {
+        "x": 2270102,
+        "y": 942159,
+        "width": 1107206,
+        "height": 1101862
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-004",
+      "name": "Customer Search",
+      "semantic_name": "customer-search",
+      "description": "Magnifying glass over person, representing customer search, candidate search, or targeting.",
+      "alt_text": "Magnifying glass over person.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;4832;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "innovation-growth",
+      "use_groups": [
+        "innovation-growth",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "commerce-innovation-growth",
+        "customer",
+        "customer-search",
+        "glass",
+        "innovation-growth",
+        "magnifying",
+        "or",
+        "over",
+        "people-hr-workforce",
+        "person",
+        "recruitment-talent",
+        "representing",
+        "search",
+        "targeting"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-004.png"
+      },
+      "bbox_emu": {
+        "x": 3356029,
+        "y": 939526,
+        "width": 1107206,
+        "height": 1107131
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-029",
+      "name": "Id Badge",
+      "semantic_name": "id-badge",
+      "description": "Identification badge, representing employee ID, candidate profile, or access credential.",
+      "alt_text": "Identification badge.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;4780;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "candidate",
+        "commerce-innovation-growth",
+        "credential",
+        "documents-files-records",
+        "employee",
+        "id",
+        "id-badge",
+        "identification",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-029.png"
+      },
+      "bbox_emu": {
+        "x": 6613810,
+        "y": 3119912,
+        "width": 1107206,
+        "height": 1090063
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-001",
+      "name": "Contact Book",
+      "semantic_name": "contact-book",
+      "description": "Contact book with person, representing contacts, directory, or candidate profile records.",
+      "alt_text": "Contact book with person.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;6536;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "book",
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "contact",
+        "contact-book",
+        "contacts",
+        "digital-it-security",
+        "directory",
+        "documents-files-records",
+        "learning-education",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "profile",
+        "records",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-001.png"
+      },
+      "bbox_emu": {
+        "x": 186080,
+        "y": 895946,
+        "width": 931540,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-003",
+      "name": "Employee Question",
+      "semantic_name": "employee-question",
+      "description": "Person with question bubble, representing employee question, candidate inquiry, or support request.",
+      "alt_text": "Person with question bubble.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;6597;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "bubble",
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "employee",
+        "employee-question",
+        "inquiry",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "question",
+        "recruitment-talent",
+        "representing",
+        "request",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-003.png"
+      },
+      "bbox_emu": {
+        "x": 2271449,
+        "y": 895946,
+        "width": 1104505,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-004",
+      "name": "Profile Information",
+      "semantic_name": "profile-information",
+      "description": "Profile card with info bubble, representing candidate information or employee profile details.",
+      "alt_text": "Profile card with info bubble.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;6635;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "bubble",
+        "candidate",
+        "card",
+        "communication-hr-support",
+        "communication-support",
+        "details",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "info",
+        "information",
+        "or",
+        "people-hr-workforce",
+        "profile",
+        "profile-information",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-004.png"
+      },
+      "bbox_emu": {
+        "x": 3386687,
+        "y": 895946,
+        "width": 1045889,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-009",
+      "name": "Calendar Appointment",
+      "semantic_name": "calendar-appointment",
+      "description": "Calendar with clock, representing appointments, interviews, or scheduled events.",
+      "alt_text": "Calendar with clock.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;6647;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "time-scheduling"
+      ],
+      "tags": [
+        "appointments",
+        "calendar",
+        "calendar-appointment",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "events",
+        "interviews",
+        "or",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "representing",
+        "scheduled",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-009.png"
+      },
+      "bbox_emu": {
+        "x": 8790929,
+        "y": 895946,
+        "width": 1096676,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-010",
+      "name": "Support Rating",
+      "semantic_name": "support-rating",
+      "description": "Headset with star rating, representing service quality, support satisfaction, or candidate experience.",
+      "alt_text": "Headset with star rating.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;6688;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "experience",
+        "headset",
+        "or",
+        "people-hr-workforce",
+        "quality",
+        "rating",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "satisfaction",
+        "service",
+        "star",
+        "support",
+        "support-rating",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-010.png"
+      },
+      "bbox_emu": {
+        "x": 9872906,
+        "y": 895946,
+        "width": 1104577,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-015",
+      "name": "Email Question",
+      "semantic_name": "email-question",
+      "description": "Envelope with question mark, representing inquiry email, help request, or candidate question.",
+      "alt_text": "Envelope with question mark.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;6691;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "email",
+        "email-question",
+        "envelope",
+        "help",
+        "inquiry",
+        "mark",
+        "marketing-seo-content",
+        "or",
+        "people-hr-workforce",
+        "question",
+        "recruitment-talent",
+        "representing",
+        "request",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-015.png"
+      },
+      "bbox_emu": {
+        "x": 3356029,
+        "y": 1983228,
+        "width": 1107206,
+        "height": 1104496
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-012",
+      "name": "Magnet",
+      "semantic_name": "magnet",
+      "description": "Magnet, representing attraction, talent attraction, or science.",
+      "alt_text": "Magnet.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;6284;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "attraction",
+        "education-science-general",
+        "learning-education",
+        "magnet",
+        "or",
+        "recruitment-talent",
+        "representing",
+        "science",
+        "talent"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-012.png"
+      },
+      "bbox_emu": {
+        "x": 248470,
+        "y": 2054445,
+        "width": 835789,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-014",
+      "name": "Clipboard Check",
+      "semantic_name": "clipboard-check",
+      "description": "Clipboard with check, representing task completion, assessment, or approval.",
+      "alt_text": "Clipboard with check.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;6329;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "approval",
+        "assessment",
+        "check",
+        "clipboard",
+        "clipboard-check",
+        "completion",
+        "digital-it-security",
+        "documents-files-records",
+        "education-science-general",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "recruitment-talent",
+        "representing",
+        "task",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-014.png"
+      },
+      "bbox_emu": {
+        "x": 2418107,
+        "y": 2054445,
+        "width": 840223,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-019",
+      "name": "Medical Checklist",
+      "semantic_name": "medical-checklist",
+      "description": "Clipboard with pencil, representing medical form, health assessment, or checklist.",
+      "alt_text": "Clipboard with pencil.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;7028;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "assessment",
+        "checklist",
+        "clipboard",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "form",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "medical",
+        "medical-checklist",
+        "or",
+        "pencil",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-019.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 2016426,
+        "width": 1107206,
+        "height": 1096153
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-014",
+      "name": "Saudi Office Worker Shmagh",
+      "semantic_name": "saudi-office-worker-shmagh",
+      "description": "Saudi office worker wearing traditional shmagh/head covering, representing Saudi employees, corporate staff, local talent, Saudization, or candidate profile.",
+      "alt_text": "Saudi office worker wearing traditional shmagh.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Group 105"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "candidate",
+        "corporate",
+        "covering",
+        "employees",
+        "head",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "local",
+        "office",
+        "office-corporate",
+        "or",
+        "people-hr-workforce",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "saudi",
+        "saudi-office-worker-shmagh",
+        "saudization",
+        "saudization-local-talent",
+        "shmagh",
+        "staff",
+        "talent",
+        "traditional",
+        "wearing",
+        "worker"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-014.png"
+      },
+      "bbox_emu": {
+        "x": 3637539,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

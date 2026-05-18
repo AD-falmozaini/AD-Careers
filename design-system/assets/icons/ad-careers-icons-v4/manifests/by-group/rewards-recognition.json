@@ -1,0 +1,1314 @@
+{
+  "group_slug": "rewards-recognition",
+  "description": "Awards, achievement, recognition, medals, trophies, success, and performance.",
+  "count": 24,
+  "icons": [
+    {
+      "id": "energy-oil-gas-045",
+      "name": "Oil Document Certificate",
+      "semantic_name": "oil-document-certificate",
+      "description": "Document with oil symbol, representing petroleum report, certificate, permit, or compliance record.",
+      "alt_text": "Document with oil symbol.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Group 48"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "certificate",
+        "compliance",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "energy-oil-gas",
+        "learning-education",
+        "legal-compliance-governance",
+        "oil",
+        "oil-document-certificate",
+        "oil-gas-energy",
+        "or",
+        "permit",
+        "petroleum",
+        "record",
+        "report",
+        "representing",
+        "rewards-recognition",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-045.png"
+      },
+      "bbox_emu": {
+        "x": 5044264,
+        "y": 5222988,
+        "width": 1051293,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-021",
+      "name": "Award Certificate",
+      "semantic_name": "award-certificate",
+      "description": "Certificate with award seal and check mark, representing certification, approval, compliance, or achievement.",
+      "alt_text": "Certificate with award seal and check mark.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Group 25"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "analytics-reporting",
+        "and",
+        "approval",
+        "award",
+        "award-certificate",
+        "business-finance",
+        "business-finance-analytics",
+        "certificate",
+        "certification",
+        "check",
+        "compliance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "mark",
+        "or",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-021.png"
+      },
+      "bbox_emu": {
+        "x": 548878,
+        "y": 3131349,
+        "width": 1009304,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-022",
+      "name": "Award Ribbon",
+      "semantic_name": "award-ribbon",
+      "description": "Award ribbon with star, representing recognition, awards, excellence, or achievement.",
+      "alt_text": "Award ribbon with star.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Group 26"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "analytics-reporting",
+        "award",
+        "award-ribbon",
+        "awards",
+        "business-finance",
+        "business-finance-analytics",
+        "digital-it-security",
+        "excellence",
+        "logistics-transport",
+        "or",
+        "recognition",
+        "representing",
+        "rewards-recognition",
+        "ribbon",
+        "star",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-022.png"
+      },
+      "bbox_emu": {
+        "x": 1734709,
+        "y": 3131349,
+        "width": 897640,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-050",
+      "name": "Employee Rating",
+      "semantic_name": "employee-rating",
+      "description": "People with star ratings, representing performance rating, recognition, or talent assessment.",
+      "alt_text": "People with star ratings.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Group 46"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "assessment",
+        "business-finance",
+        "business-finance-analytics",
+        "digital-it-security",
+        "documents-files-records",
+        "employee-rating",
+        "logistics-transport",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "performance",
+        "rating",
+        "ratings",
+        "recognition",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "star",
+        "talent",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-050.png"
+      },
+      "bbox_emu": {
+        "x": 10688530,
+        "y": 5331350,
+        "width": 1070000,
+        "height": 1069998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-001",
+      "name": "Employee Badge Seal",
+      "semantic_name": "employee-badge-seal",
+      "description": "Person inside award seal, representing certified employee, talent recognition, or profile badge.",
+      "alt_text": "Person inside award seal.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;8705;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "award",
+        "badge",
+        "certified",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "employee-badge-seal",
+        "inside",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "profile",
+        "recognition",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "talent"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-001.png"
+      },
+      "bbox_emu": {
+        "x": 187558,
+        "y": 935772,
+        "width": 1107206,
+        "height": 1102066
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-004",
+      "name": "Employee Id Card",
+      "semantic_name": "employee-id-card",
+      "description": "Printed employee ID card, representing identity, access, badge, or candidate profile.",
+      "alt_text": "Printed employee ID card.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;8761;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "candidate",
+        "card",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "employee-id-card",
+        "id",
+        "identity",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "printed",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-004.png"
+      },
+      "bbox_emu": {
+        "x": 3891851,
+        "y": 924981,
+        "width": 1099392,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-009",
+      "name": "Id Badge",
+      "semantic_name": "id-badge",
+      "description": "ID badge, representing employee credentials, access, or official identification.",
+      "alt_text": "ID badge.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;8770;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "legal-compliance-governance",
+      "use_groups": [
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "credentials",
+        "employee",
+        "id",
+        "id-badge",
+        "identification",
+        "legal-compliance-governance",
+        "official",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-009.png"
+      },
+      "bbox_emu": {
+        "x": 9722822,
+        "y": 926265,
+        "width": 1107206,
+        "height": 1104624
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-018",
+      "name": "Award Ribbon",
+      "semantic_name": "award-ribbon",
+      "description": "Ribbon badge, representing award, certification, achievement, or recognition.",
+      "alt_text": "Ribbon badge.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;8714;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "people-hr-workforce",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "award",
+        "award-ribbon",
+        "badge",
+        "certification",
+        "digital-it-security",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "recognition",
+        "representing",
+        "rewards-recognition",
+        "ribbon"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-018.png"
+      },
+      "bbox_emu": {
+        "x": 7714285,
+        "y": 2010901,
+        "width": 1107116,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-026",
+      "name": "Top Performer Podium",
+      "semantic_name": "top-performer-podium",
+      "description": "Person on first-place podium, representing top performer, achievement, or leadership.",
+      "alt_text": "Person on first-place podium.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;8787;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "logistics-transport",
+        "offshore-marine",
+        "people-hr-workforce",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "documents-files-records",
+        "first",
+        "leadership",
+        "logistics-transport",
+        "offshore-marine",
+        "on",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "performer",
+        "person",
+        "place",
+        "podium",
+        "representing",
+        "rewards-recognition",
+        "top",
+        "top-performer-podium"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-026.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 3099423,
+        "width": 1107206,
+        "height": 1102016
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-007",
+      "name": "Trophy Award",
+      "semantic_name": "trophy-award",
+      "description": "Trophy with star, representing achievement, recognition, winning, or excellence.",
+      "alt_text": "Trophy with star.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;4769;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "innovation-growth",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "excellence",
+        "innovation-growth",
+        "or",
+        "recognition",
+        "representing",
+        "rewards-recognition",
+        "star",
+        "trophy",
+        "trophy-award",
+        "winning",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-007.png"
+      },
+      "bbox_emu": {
+        "x": 6613810,
+        "y": 1041618,
+        "width": 1107206,
+        "height": 902944
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-009",
+      "name": "Discount Badge",
+      "semantic_name": "discount-badge",
+      "description": "Badge with percent symbol, representing discount, offer, promotion, or pricing.",
+      "alt_text": "Badge with percent symbol.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;4837;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "innovation-growth",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "badge",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "discount",
+        "discount-badge",
+        "innovation-growth",
+        "offer",
+        "or",
+        "percent",
+        "pricing",
+        "promotion",
+        "representing",
+        "rewards-recognition",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-009.png"
+      },
+      "bbox_emu": {
+        "x": 8801488,
+        "y": 939489,
+        "width": 1075558,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-020",
+      "name": "Target Goal",
+      "semantic_name": "target-goal",
+      "description": "Target with arrow, representing goal achievement, accuracy, or strategic objective.",
+      "alt_text": "Target with arrow.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;4801;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "innovation-growth",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "accuracy",
+        "achievement",
+        "arrow",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "goal",
+        "innovation-growth",
+        "objective",
+        "or",
+        "representing",
+        "rewards-recognition",
+        "strategic",
+        "target",
+        "target-goal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-020.png"
+      },
+      "bbox_emu": {
+        "x": 8956312,
+        "y": 2025423,
+        "width": 767147,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-029",
+      "name": "Id Badge",
+      "semantic_name": "id-badge",
+      "description": "Identification badge, representing employee ID, candidate profile, or access credential.",
+      "alt_text": "Identification badge.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;4780;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "candidate",
+        "commerce-innovation-growth",
+        "credential",
+        "documents-files-records",
+        "employee",
+        "id",
+        "id-badge",
+        "identification",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-029.png"
+      },
+      "bbox_emu": {
+        "x": 6613810,
+        "y": 3119912,
+        "width": 1107206,
+        "height": 1090063
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-037",
+      "name": "Certificate Award",
+      "semantic_name": "certificate-award",
+      "description": "Certificate with seal, representing certification, achievement, or qualification.",
+      "alt_text": "Certificate with seal.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;4804;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "legal-compliance-governance",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "certificate",
+        "certificate-award",
+        "certification",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "qualification",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-037.png"
+      },
+      "bbox_emu": {
+        "x": 3359694,
+        "y": 4197270,
+        "width": 1099872,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-045",
+      "name": "Commerce Innovation Growth Icon 045",
+      "semantic_name": "commerce-innovation-growth-icon-045",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 045: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 045: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;4752;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "045",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-045",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-045.png"
+      },
+      "bbox_emu": {
+        "x": 98247,
+        "y": 5283197,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-046",
+      "name": "Commerce Innovation Growth Icon 046",
+      "semantic_name": "commerce-innovation-growth-icon-046",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 046: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 046: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;4787;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "046",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-046",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-046.png"
+      },
+      "bbox_emu": {
+        "x": 1188783,
+        "y": 5283197,
+        "width": 1097989,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-047",
+      "name": "Commerce Innovation Growth Icon 047",
+      "semantic_name": "commerce-innovation-growth-icon-047",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 047: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 047: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;4821;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "047",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-047",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-047.png"
+      },
+      "bbox_emu": {
+        "x": 2270102,
+        "y": 5423139,
+        "width": 1107206,
+        "height": 827318
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-048",
+      "name": "Commerce Innovation Growth Icon 048",
+      "semantic_name": "commerce-innovation-growth-icon-048",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 048: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 048: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;4866;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "048",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-048",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-048.png"
+      },
+      "bbox_emu": {
+        "x": 3434015,
+        "y": 5283189,
+        "width": 951234,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-049",
+      "name": "Commerce Innovation Growth Icon 049",
+      "semantic_name": "commerce-innovation-growth-icon-049",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 049: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 049: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;4907;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "049",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-049",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-049.png"
+      },
+      "bbox_emu": {
+        "x": 4441769,
+        "y": 5287915,
+        "width": 1107207,
+        "height": 1097766
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-050",
+      "name": "Commerce Innovation Growth Icon 050",
+      "semantic_name": "commerce-innovation-growth-icon-050",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 050: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 050: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Google Shape;4824;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "050",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-050",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-050.png"
+      },
+      "bbox_emu": {
+        "x": 5540645,
+        "y": 5283239,
+        "width": 1085131,
+        "height": 1107211
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-010",
+      "name": "Support Rating",
+      "semantic_name": "support-rating",
+      "description": "Headset with star rating, representing service quality, support satisfaction, or candidate experience.",
+      "alt_text": "Headset with star rating.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;6688;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "experience",
+        "headset",
+        "or",
+        "people-hr-workforce",
+        "quality",
+        "rating",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "satisfaction",
+        "service",
+        "star",
+        "support",
+        "support-rating",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-010.png"
+      },
+      "bbox_emu": {
+        "x": 9872906,
+        "y": 895946,
+        "width": 1104577,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-010",
+      "name": "Medal Award",
+      "semantic_name": "medal-award",
+      "description": "Medal with star, representing achievement, award, or certification.",
+      "alt_text": "Medal with star.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;6348;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "award",
+        "certification",
+        "digital-it-security",
+        "education-science-general",
+        "learning-education",
+        "medal",
+        "medal-award",
+        "or",
+        "representing",
+        "rewards-recognition",
+        "star",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-010.png"
+      },
+      "bbox_emu": {
+        "x": 9929872,
+        "y": 968542,
+        "width": 1019401,
+        "height": 1107210
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-019",
+      "name": "Trophy",
+      "semantic_name": "trophy",
+      "description": "Trophy, representing success, competition, or recognition.",
+      "alt_text": "Trophy.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;6272;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "competition",
+        "digital-it-security",
+        "education-science-general",
+        "learning-education",
+        "or",
+        "recognition",
+        "representing",
+        "rewards-recognition",
+        "success",
+        "trophy"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-019.png"
+      },
+      "bbox_emu": {
+        "x": 7752942,
+        "y": 2054445,
+        "width": 1029820,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-020",
+      "name": "Certificate",
+      "semantic_name": "certificate",
+      "description": "Certificate card, representing qualification, completion, or credential.",
+      "alt_text": "Certificate card.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;6296;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "card",
+        "certificate",
+        "completion",
+        "credential",
+        "documents-files-records",
+        "education-science-general",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "qualification",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-020.png"
+      },
+      "bbox_emu": {
+        "x": 8864012,
+        "y": 2054445,
+        "width": 979534,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

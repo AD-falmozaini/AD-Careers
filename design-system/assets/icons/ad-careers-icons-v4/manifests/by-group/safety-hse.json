@@ -1,0 +1,5331 @@
+{
+  "group_slug": "safety-hse",
+  "description": "Safety, HSE, risk, compliance, protection, emergency, and safe behavior.",
+  "count": 95,
+  "icons": [
+    {
+      "id": "energy-oil-gas-006",
+      "name": "Oil And Gas Worker",
+      "semantic_name": "oil-and-gas-worker",
+      "description": "Worker wearing a safety helmet, representing field operators or oil and gas personnel.",
+      "alt_text": "Worker wearing a safety helmet.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Group 9"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "oil-gas-energy",
+      "use_groups": [
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "a",
+        "and",
+        "energy-oil-gas",
+        "field",
+        "gas",
+        "helmet",
+        "oil",
+        "oil-and-gas-worker",
+        "oil-gas-energy",
+        "operators",
+        "or",
+        "people-hr-workforce",
+        "personnel",
+        "representing",
+        "safety",
+        "safety-hse",
+        "wearing",
+        "worker"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-006.png"
+      },
+      "bbox_emu": {
+        "x": 6246571,
+        "y": 822988,
+        "width": 906677,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-019",
+      "name": "Flame Energy",
+      "semantic_name": "flame-energy",
+      "description": "Flame icon, representing gas, fire, combustion, energy, or heat.",
+      "alt_text": "Flame icon.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Group 15"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "logistics-transport",
+      "use_groups": [
+        "logistics-transport",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "combustion",
+        "energy",
+        "energy-oil-gas",
+        "fire",
+        "flame",
+        "flame-energy",
+        "gas",
+        "heat",
+        "icon",
+        "logistics-transport",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-019.png"
+      },
+      "bbox_emu": {
+        "x": 9554910,
+        "y": 2002498,
+        "width": 1069997,
+        "height": 915741
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-021",
+      "name": "Fire Extinguisher",
+      "semantic_name": "fire-extinguisher",
+      "description": "Fire extinguisher, representing fire safety, emergency readiness, or HSE equipment.",
+      "alt_text": "Fire extinguisher.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Group 24"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "emergency",
+        "energy-oil-gas",
+        "equipment",
+        "extinguisher",
+        "fire",
+        "fire-extinguisher",
+        "hse",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "readiness",
+        "representing",
+        "safety",
+        "safety-hse"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-021.png"
+      },
+      "bbox_emu": {
+        "x": 589977,
+        "y": 3022988,
+        "width": 919864,
+        "height": 1076350
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-036",
+      "name": "Gas Cylinder",
+      "semantic_name": "gas-cylinder",
+      "description": "Gas cylinder or fuel canister, representing compressed gas, field utilities, or safety gas supply.",
+      "alt_text": "Gas cylinder or fuel canister.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Group 38"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "canister",
+        "compressed",
+        "cylinder",
+        "digital-it-security",
+        "energy-oil-gas",
+        "field",
+        "fuel",
+        "gas",
+        "gas-cylinder",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety",
+        "safety-hse",
+        "supply",
+        "utilities"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-036.png"
+      },
+      "bbox_emu": {
+        "x": 6164910,
+        "y": 4305936,
+        "width": 1070000,
+        "height": 704102
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-038",
+      "name": "Hazardous Chemical Plant",
+      "semantic_name": "hazardous-chemical-plant",
+      "description": "Industrial plant with hazard symbol, representing hazardous materials, chemical processing, or risk control.",
+      "alt_text": "Industrial plant with hazard symbol.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Group 36"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "chemical",
+        "control",
+        "digital-it-security",
+        "energy-oil-gas",
+        "hazard",
+        "hazardous",
+        "hazardous-chemical-plant",
+        "industrial",
+        "industrial-equipment",
+        "materials",
+        "oil-gas-energy",
+        "or",
+        "plant",
+        "processing",
+        "representing",
+        "risk",
+        "safety-hse",
+        "sustainability-environment",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-038.png"
+      },
+      "bbox_emu": {
+        "x": 8507345,
+        "y": 4122988,
+        "width": 905130,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-006",
+      "name": "Employee Shield",
+      "semantic_name": "employee-shield",
+      "description": "Person inside shield, representing employee protection, trust, security, or compliance.",
+      "alt_text": "Person inside shield.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;8796;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "compliance",
+        "digital-it-security",
+        "employee",
+        "employee-shield",
+        "inside",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "protection",
+        "representing",
+        "safety-hse",
+        "security",
+        "shield",
+        "trust"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-006.png"
+      },
+      "bbox_emu": {
+        "x": 6350983,
+        "y": 926297,
+        "width": 1107207,
+        "height": 1104545
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-001",
+      "name": "Presenter Board",
+      "semantic_name": "presenter-board",
+      "description": "Person presenting chart, representing training, briefing, analytics presentation, or instructor.",
+      "alt_text": "Person presenting chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;8244;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "briefing",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "instructor",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "presentation",
+        "presenter-board",
+        "presenting",
+        "representing",
+        "safety-hse",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-001.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 922424,
+        "width": 1107206,
+        "height": 1083273
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-002",
+      "name": "Strategy Dashboard",
+      "semantic_name": "strategy-dashboard",
+      "description": "Circular dashboard with marks, representing strategy, planning, or performance dashboard.",
+      "alt_text": "Circular dashboard with marks.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;8276;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "circular",
+        "dashboard",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "marks",
+        "or",
+        "performance",
+        "planning",
+        "representing",
+        "safety-hse",
+        "strategy",
+        "strategy-dashboard",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-002.png"
+      },
+      "bbox_emu": {
+        "x": 1198899,
+        "y": 910460,
+        "width": 1106785,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-003",
+      "name": "Web Search",
+      "semantic_name": "web-search",
+      "description": "Magnifier with web symbol, representing online search, SEO, or web discovery.",
+      "alt_text": "Magnifier with web symbol.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;8671;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "digital-it-security",
+        "digital-marketing-security",
+        "discovery",
+        "magnifier",
+        "marketing-seo-content",
+        "online",
+        "or",
+        "representing",
+        "safety-hse",
+        "search",
+        "seo",
+        "symbol",
+        "web",
+        "web-search",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-003.png"
+      },
+      "bbox_emu": {
+        "x": 2289643,
+        "y": 910458,
+        "width": 1104532,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-004",
+      "name": "Power Settings Gear",
+      "semantic_name": "power-settings-gear",
+      "description": "Gear with power symbol, representing system settings, activation, or technical configuration.",
+      "alt_text": "Gear with power symbol.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;8354;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "activation",
+        "configuration",
+        "digital-it-security",
+        "digital-marketing-security",
+        "gear",
+        "marketing-seo-content",
+        "or",
+        "power",
+        "power-settings-gear",
+        "representing",
+        "safety-hse",
+        "settings",
+        "symbol",
+        "system",
+        "technical",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-004.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 913112,
+        "width": 1107206,
+        "height": 1101897
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-005",
+      "name": "Pie Chart",
+      "semantic_name": "pie-chart",
+      "description": "Pie chart, representing analytics, segmentation, or dashboard data.",
+      "alt_text": "Pie chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Google Shape;8383;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "chart",
+        "dashboard",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "marketing-seo-content",
+        "or",
+        "pie",
+        "pie-chart",
+        "representing",
+        "safety-hse",
+        "segmentation"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-005.png"
+      },
+      "bbox_emu": {
+        "x": 4456416,
+        "y": 910511,
+        "width": 1107209,
+        "height": 1107114
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-006",
+      "name": "User Search",
+      "semantic_name": "user-search",
+      "description": "Magnifying glass over user, representing user lookup, recruitment search, or customer research.",
+      "alt_text": "Magnifying glass over user.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;8249;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "recruitment-talent",
+        "safety-hse"
+      ],
+      "tags": [
+        "customer",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "glass",
+        "lookup",
+        "magnifying",
+        "marketing-seo-content",
+        "or",
+        "over",
+        "recruitment",
+        "recruitment-talent",
+        "representing",
+        "research",
+        "safety-hse",
+        "search",
+        "user",
+        "user-search"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-006.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 913450,
+        "width": 1107206,
+        "height": 1101221
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-007",
+      "name": "Task Checklist",
+      "semantic_name": "task-checklist",
+      "description": "Clipboard checklist, representing tasks, QA, campaign checklist, or compliance steps.",
+      "alt_text": "Clipboard checklist.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;8283;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "campaign",
+        "checklist",
+        "clipboard",
+        "compliance",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "or",
+        "qa",
+        "representing",
+        "safety-hse",
+        "steps",
+        "task-checklist",
+        "tasks"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-007.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 910460,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-008",
+      "name": "Video Player",
+      "semantic_name": "video-player",
+      "description": "Screen with play button, representing video content, learning media, or digital campaign.",
+      "alt_text": "Screen with play button.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;8330;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "button",
+        "campaign",
+        "content",
+        "design-creative-assets",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "learning",
+        "learning-education",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "play",
+        "representing",
+        "safety-hse",
+        "screen",
+        "video",
+        "video-player",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-008.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 913123,
+        "width": 1107206,
+        "height": 1101880
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-009",
+      "name": "Lab Flask",
+      "semantic_name": "lab-flask",
+      "description": "Lab flask, representing testing, experimentation, or research.",
+      "alt_text": "Lab flask.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;8365;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "digital-it-security",
+        "digital-marketing-security",
+        "experimentation",
+        "flask",
+        "lab",
+        "lab-flask",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "research",
+        "safety-hse",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-009.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 913112,
+        "width": 1107206,
+        "height": 1101897
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-010",
+      "name": "Image Resize",
+      "semantic_name": "image-resize",
+      "description": "Image frame with resize handles, representing image editing, cropping, or responsive asset sizing.",
+      "alt_text": "Image frame with resize handles.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;8389;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "asset",
+        "cropping",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "editing",
+        "frame",
+        "handles",
+        "image",
+        "image-resize",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "resize",
+        "responsive",
+        "safety-hse",
+        "sizing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-010.png"
+      },
+      "bbox_emu": {
+        "x": 9999492,
+        "y": 910474,
+        "width": 880429,
+        "height": 1107208
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-011",
+      "name": "Chat User",
+      "semantic_name": "chat-user",
+      "description": "Chat bubbles with user, representing messaging, community, or customer conversation.",
+      "alt_text": "Chat bubbles with user.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;8256;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubbles",
+        "chat",
+        "chat-user",
+        "communication-support",
+        "community",
+        "conversation",
+        "customer",
+        "digital-it-security",
+        "digital-marketing-security",
+        "marketing-seo-content",
+        "messaging",
+        "or",
+        "representing",
+        "safety-hse",
+        "user",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-011.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 969185,
+        "width": 1107206,
+        "height": 989752
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-012",
+      "name": "Document Edit",
+      "semantic_name": "document-edit",
+      "description": "Document with pencil, representing content editing, copywriting, or documentation.",
+      "alt_text": "Document with pencil.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;8295;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "content",
+        "copywriting",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "document",
+        "document-edit",
+        "documentation",
+        "documents-files-records",
+        "editing",
+        "marketing-seo-content",
+        "or",
+        "pencil",
+        "representing",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-012.png"
+      },
+      "bbox_emu": {
+        "x": 119790,
+        "y": 1996387,
+        "width": 1093145,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-013",
+      "name": "Seo Tag",
+      "semantic_name": "seo-tag",
+      "description": "Tag labeled SEO, representing search engine optimization or metadata.",
+      "alt_text": "Tag labeled SEO.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;8341;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "digital-it-security",
+        "digital-marketing-security",
+        "engine",
+        "labeled",
+        "learning-education",
+        "marketing-seo-content",
+        "metadata",
+        "optimization",
+        "or",
+        "representing",
+        "safety-hse",
+        "search",
+        "seo",
+        "seo-tag",
+        "tag"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-013.png"
+      },
+      "bbox_emu": {
+        "x": 1226572,
+        "y": 1996387,
+        "width": 1051439,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-014",
+      "name": "User Network",
+      "semantic_name": "user-network",
+      "description": "User connected to nodes, representing user network, audience, or digital identity graph.",
+      "alt_text": "User connected to nodes.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;8374;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "audience",
+        "connected",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "graph",
+        "identity",
+        "marketing-seo-content",
+        "network",
+        "nodes",
+        "or",
+        "representing",
+        "safety-hse",
+        "to",
+        "user",
+        "user-network"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-014.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 2116145,
+        "width": 1107206,
+        "height": 867685
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-015",
+      "name": "Location Settings",
+      "semantic_name": "location-settings",
+      "description": "Map pin with gear, representing location settings, service area, or geo-configuration.",
+      "alt_text": "Map pin with gear.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;8407;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "area",
+        "configuration",
+        "digital-it-security",
+        "digital-marketing-security",
+        "gear",
+        "geo",
+        "location",
+        "location-settings",
+        "map",
+        "marketing-seo-content",
+        "or",
+        "pin",
+        "representing",
+        "safety-hse",
+        "service",
+        "settings",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-015.png"
+      },
+      "bbox_emu": {
+        "x": 3430263,
+        "y": 1996387,
+        "width": 987766,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-016",
+      "name": "Shopping Cart Settings",
+      "semantic_name": "shopping-cart-settings",
+      "description": "Shopping cart with gear, representing ecommerce configuration, procurement, or online ordering.",
+      "alt_text": "Shopping cart with gear.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;8275;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "cart",
+        "configuration",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "ecommerce",
+        "gear",
+        "marketing-seo-content",
+        "online",
+        "or",
+        "ordering",
+        "procurement",
+        "representing",
+        "safety-hse",
+        "shopping",
+        "shopping-cart-settings",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-016.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 2143141,
+        "width": 1107206,
+        "height": 813697
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-017",
+      "name": "Trash Bin",
+      "semantic_name": "trash-bin",
+      "description": "Trash bin, representing delete, remove, cleanup, or disposal.",
+      "alt_text": "Trash bin.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;8379;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bin",
+        "cleanup",
+        "delete",
+        "digital-it-security",
+        "digital-marketing-security",
+        "disposal",
+        "marketing-seo-content",
+        "or",
+        "remove",
+        "representing",
+        "safety-hse",
+        "trash",
+        "trash-bin"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-017.png"
+      },
+      "bbox_emu": {
+        "x": 5542403,
+        "y": 1997706,
+        "width": 1107204,
+        "height": 1104582
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-018",
+      "name": "Browser Security",
+      "semantic_name": "browser-security",
+      "description": "Browser with shield, representing web security, protected site, or cybersecurity.",
+      "alt_text": "Browser with shield.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;8245;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "browser",
+        "browser-security",
+        "cybersecurity",
+        "digital-it-security",
+        "digital-marketing-security",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "or",
+        "protected",
+        "representing",
+        "safety-hse",
+        "security",
+        "shield",
+        "site",
+        "web",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-018.png"
+      },
+      "bbox_emu": {
+        "x": 6628370,
+        "y": 2002947,
+        "width": 1107204,
+        "height": 1094081
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-019",
+      "name": "Server Stack",
+      "semantic_name": "server-stack",
+      "description": "Server stack, representing hosting, infrastructure, or backend systems.",
+      "alt_text": "Server stack.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;8277;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "backend",
+        "digital-it-security",
+        "digital-marketing-security",
+        "hosting",
+        "infrastructure",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "server",
+        "server-stack",
+        "stack",
+        "systems"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-019.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 1999360,
+        "width": 1107206,
+        "height": 1101256
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-020",
+      "name": "Web Page Layout",
+      "semantic_name": "web-page-layout",
+      "description": "Web page layout, representing content page, article, or web interface.",
+      "alt_text": "Web page layout.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;8674;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "article",
+        "content",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "interface",
+        "layout",
+        "marketing-seo-content",
+        "or",
+        "page",
+        "representing",
+        "safety-hse",
+        "web",
+        "web-page-layout"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-020.png"
+      },
+      "bbox_emu": {
+        "x": 8849539,
+        "y": 1896587,
+        "width": 1107206,
+        "height": 1099480
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-021",
+      "name": "Energy Idea Bulb",
+      "semantic_name": "energy-idea-bulb",
+      "description": "Light bulb with lightning, representing energy idea, innovation, or bright concept.",
+      "alt_text": "Light bulb with lightning.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;8357;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "innovation-growth",
+        "marketing-seo-content",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "bright",
+        "bulb",
+        "concept",
+        "digital-it-security",
+        "digital-marketing-security",
+        "drilling-rigs-wells",
+        "energy",
+        "energy-idea-bulb",
+        "idea",
+        "innovation",
+        "innovation-growth",
+        "light",
+        "lightning",
+        "marketing-seo-content",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-021.png"
+      },
+      "bbox_emu": {
+        "x": 9886087,
+        "y": 2002972,
+        "width": 1107207,
+        "height": 1094000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-022",
+      "name": "Digital Payment Touch",
+      "semantic_name": "digital-payment-touch",
+      "description": "Hand tapping infinity/payment symbol, representing digital transaction, seamless process, or automation.",
+      "alt_text": "Hand tapping infinity/payment symbol.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;8387;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "automation",
+        "business-finance",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-payment-touch",
+        "hand",
+        "infinity",
+        "marketing-seo-content",
+        "or",
+        "payment",
+        "process",
+        "representing",
+        "safety-hse",
+        "seamless",
+        "symbol",
+        "tapping",
+        "transaction"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-022.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 2035887,
+        "width": 1107206,
+        "height": 1028205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-023",
+      "name": "Document Inbox",
+      "semantic_name": "document-inbox",
+      "description": "Document in tray, representing inbox, file intake, or document submission.",
+      "alt_text": "Document in tray.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Google Shape;8252;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "digital-it-security",
+        "digital-marketing-security",
+        "document",
+        "document-inbox",
+        "documents-files-records",
+        "file",
+        "in",
+        "inbox",
+        "intake",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "submission",
+        "tray"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-023.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 3083628,
+        "width": 1107206,
+        "height": 1104577
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-024",
+      "name": "Printer",
+      "semantic_name": "printer",
+      "description": "Printer, representing printing, document output, or office equipment.",
+      "alt_text": "Printer.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;8286;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "document",
+        "documents-files-records",
+        "equipment",
+        "facilities-workplace",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "office",
+        "or",
+        "output",
+        "printer",
+        "printing",
+        "representing",
+        "safety-hse"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-024.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 3083612,
+        "width": 1107206,
+        "height": 1104606
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-025",
+      "name": "Quality Monitor",
+      "semantic_name": "quality-monitor",
+      "description": "Monitor with diamond, representing premium digital quality, design asset, or high-value content.",
+      "alt_text": "Monitor with diamond.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;8333;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "asset",
+        "content",
+        "design",
+        "design-creative-assets",
+        "diamond",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "high",
+        "marketing-seo-content",
+        "monitor",
+        "or",
+        "premium",
+        "quality",
+        "quality-monitor",
+        "representing",
+        "safety-hse",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-025.png"
+      },
+      "bbox_emu": {
+        "x": 2403720,
+        "y": 3082314,
+        "width": 868994,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-026",
+      "name": "Compact Disc",
+      "semantic_name": "compact-disc",
+      "description": "Disc, representing media, storage, or software.",
+      "alt_text": "Disc.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;8368;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "compact-disc",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "disc",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "representing",
+        "safety-hse",
+        "software",
+        "storage"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-026.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 3083659,
+        "width": 1107206,
+        "height": 1104515
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-027",
+      "name": "Desktop Layout",
+      "semantic_name": "desktop-layout",
+      "description": "Desktop monitor with layout blocks, representing web layout, UI design, or dashboard interface.",
+      "alt_text": "Desktop monitor with layout blocks.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Google Shape;8397;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "blocks",
+        "dashboard",
+        "design",
+        "design-creative-assets",
+        "desktop",
+        "desktop-layout",
+        "digital-it-security",
+        "digital-marketing-security",
+        "facilities-workplace",
+        "interface",
+        "layout",
+        "marketing-seo-content",
+        "monitor",
+        "or",
+        "representing",
+        "safety-hse",
+        "ui",
+        "web",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-027.png"
+      },
+      "bbox_emu": {
+        "x": 4514884,
+        "y": 3082314,
+        "width": 990374,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-028",
+      "name": "Hand Target",
+      "semantic_name": "hand-target",
+      "description": "Hand holding target, representing goal delivery, service offering, or user objective.",
+      "alt_text": "Hand holding target.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;8260;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "logistics-transport",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "delivery",
+        "digital-it-security",
+        "digital-marketing-security",
+        "goal",
+        "hand",
+        "hand-target",
+        "holding",
+        "logistics-transport",
+        "marketing-seo-content",
+        "objective",
+        "offering",
+        "or",
+        "representing",
+        "safety-hse",
+        "service",
+        "target",
+        "user"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-028.png"
+      },
+      "bbox_emu": {
+        "x": 5543538,
+        "y": 3082314,
+        "width": 1104921,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-029",
+      "name": "Verified Database",
+      "semantic_name": "verified-database",
+      "description": "Database with check mark, representing verified data, data integrity, or approved records.",
+      "alt_text": "Database with check mark.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;8299;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "approved",
+        "check",
+        "data",
+        "database",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "integrity",
+        "legal-compliance-governance",
+        "mark",
+        "marketing-seo-content",
+        "or",
+        "records",
+        "representing",
+        "safety-hse",
+        "verified",
+        "verified-database",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-029.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 3083667,
+        "width": 1107206,
+        "height": 1104499
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-030",
+      "name": "Warning Display",
+      "semantic_name": "warning-display",
+      "description": "Screen with warning sign, representing alert, issue, risk, or system warning.",
+      "alt_text": "Screen with warning sign.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;8342;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "alert",
+        "digital-it-security",
+        "digital-marketing-security",
+        "issue",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "risk",
+        "safety-hse",
+        "screen",
+        "sign",
+        "system",
+        "warning",
+        "warning-display",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-030.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 3082314,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-031",
+      "name": "Code Window",
+      "semantic_name": "code-window",
+      "description": "Browser code window, representing software development, coding, or web engineering.",
+      "alt_text": "Browser code window.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;8375;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "browser",
+        "code",
+        "code-window",
+        "coding",
+        "development",
+        "digital-it-security",
+        "digital-marketing-security",
+        "engineering",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "software",
+        "web",
+        "window"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-031.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 3083667,
+        "width": 1107206,
+        "height": 1104499
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-032",
+      "name": "Mobile Payment",
+      "semantic_name": "mobile-payment",
+      "description": "Mobile phone with dollar bubble, representing mobile payment, monetization, or digital wallet.",
+      "alt_text": "Mobile phone with dollar bubble.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;8412;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "communication-support",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubble",
+        "business-finance",
+        "communication-support",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "dollar",
+        "marketing-seo-content",
+        "mobile",
+        "mobile-payment",
+        "monetization",
+        "or",
+        "payment",
+        "phone",
+        "representing",
+        "safety-hse",
+        "wallet",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-032.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 3103325,
+        "width": 1107206,
+        "height": 1065184
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-033",
+      "name": "Presentation Chart",
+      "semantic_name": "presentation-chart",
+      "description": "Presentation screen with upward chart, representing reporting, analytics, or performance review.",
+      "alt_text": "Presentation screen with upward chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;8311;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "performance",
+        "presentation",
+        "presentation-chart",
+        "reporting",
+        "representing",
+        "review",
+        "safety-hse",
+        "screen",
+        "upward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-033.png"
+      },
+      "bbox_emu": {
+        "x": 10974297,
+        "y": 3082314,
+        "width": 1102664,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-034",
+      "name": "Web Settings",
+      "semantic_name": "web-settings",
+      "description": "Browser window with gear, representing web configuration, site administration, or system settings.",
+      "alt_text": "Browser window with gear.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;8420;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "administration",
+        "browser",
+        "configuration",
+        "digital-it-security",
+        "digital-marketing-security",
+        "gear",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "safety-hse",
+        "settings",
+        "site",
+        "system",
+        "web",
+        "web-settings",
+        "window",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-034.png"
+      },
+      "bbox_emu": {
+        "x": 172483,
+        "y": 4168249,
+        "width": 987765,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-035",
+      "name": "Analytics Monitor",
+      "semantic_name": "analytics-monitor",
+      "description": "Monitor with connected chart, representing digital analytics, KPI tracking, or dashboard insights.",
+      "alt_text": "Monitor with connected chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;8248;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-monitor",
+        "analytics-reporting",
+        "chart",
+        "connected",
+        "dashboard",
+        "design-creative-assets",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "insights",
+        "kpi",
+        "marketing-seo-content",
+        "monitor",
+        "or",
+        "representing",
+        "safety-hse",
+        "tracking",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-035.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 4173546,
+        "width": 1107206,
+        "height": 1096596
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-006",
+      "name": "Financial Shield",
+      "semantic_name": "financial-shield",
+      "description": "Shield with dollar, representing financial protection, insurance, or secure payment.",
+      "alt_text": "Shield with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;4736;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "safety-hse"
+      ],
+      "tags": [
+        "business-finance",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "financial-shield",
+        "innovation-growth",
+        "insurance",
+        "legal-compliance-governance",
+        "or",
+        "payment",
+        "protection",
+        "representing",
+        "safety-hse",
+        "secure",
+        "shield",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-006.png"
+      },
+      "bbox_emu": {
+        "x": 5527929,
+        "y": 939489,
+        "width": 1107115,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-042",
+      "name": "Insurance Umbrella",
+      "semantic_name": "insurance-umbrella",
+      "description": "Umbrella with dollar, representing insurance, protection, or financial coverage.",
+      "alt_text": "Umbrella with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;4811;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "safety-hse"
+      ],
+      "tags": [
+        "business-finance",
+        "commerce-innovation-growth",
+        "coverage",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "innovation-growth",
+        "insurance",
+        "insurance-umbrella",
+        "or",
+        "protection",
+        "representing",
+        "safety-hse",
+        "umbrella",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-042.png"
+      },
+      "bbox_emu": {
+        "x": 8785664,
+        "y": 4242447,
+        "width": 1107206,
+        "height": 1016852
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-021",
+      "name": "Access Key",
+      "semantic_name": "access-key",
+      "description": "Key, representing access, permission, login, or security credential.",
+      "alt_text": "Key.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;6639;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "access",
+        "access-key",
+        "communication-hr-support",
+        "communication-support",
+        "credential",
+        "digital-it-security",
+        "key",
+        "legal-compliance-governance",
+        "login",
+        "or",
+        "people-hr-workforce",
+        "permission",
+        "representing",
+        "safety-hse",
+        "security"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-021.png"
+      },
+      "bbox_emu": {
+        "x": 9871592,
+        "y": 1983177,
+        "width": 1107206,
+        "height": 1104597
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-002",
+      "name": "First Aid Kit",
+      "semantic_name": "first-aid-kit",
+      "description": "First aid kit, representing emergency care, first aid, or medical support.",
+      "alt_text": "First aid kit.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;7027;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "aid",
+        "care",
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "emergency",
+        "first",
+        "first-aid-kit",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "kit",
+        "medical",
+        "or",
+        "representing",
+        "safety-hse",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-002.png"
+      },
+      "bbox_emu": {
+        "x": 1253811,
+        "y": 924975,
+        "width": 996958,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-011",
+      "name": "Virus Microbe",
+      "semantic_name": "virus-microbe",
+      "description": "Virus or microbe, representing infection, disease, or health risk.",
+      "alt_text": "Virus or microbe.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;7011;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "disease",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "infection",
+        "microbe",
+        "or",
+        "representing",
+        "risk",
+        "safety-hse",
+        "virus",
+        "virus-microbe"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-011.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 926270,
+        "width": 1107206,
+        "height": 1104616
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-015",
+      "name": "Radiation Warning",
+      "semantic_name": "radiation-warning",
+      "description": "Radiation symbol, representing radiation hazard, safety, or medical imaging risk.",
+      "alt_text": "Radiation symbol.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;7136;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "drilling-rigs-wells",
+        "hazard",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "imaging",
+        "medical",
+        "or",
+        "radiation",
+        "radiation-warning",
+        "representing",
+        "risk",
+        "safety",
+        "safety-hse",
+        "symbol"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-015.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 2012190,
+        "width": 1107206,
+        "height": 1104626
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-017",
+      "name": "Emergency Siren",
+      "semantic_name": "emergency-siren",
+      "description": "Emergency siren, representing alert, emergency response, or urgent medical support.",
+      "alt_text": "Emergency siren.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;7113;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "alert",
+        "communication-support",
+        "drilling-rigs-wells",
+        "emergency",
+        "emergency-siren",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "or",
+        "representing",
+        "response",
+        "safety-hse",
+        "siren",
+        "support",
+        "urgent"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-017.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 2013513,
+        "width": 1107206,
+        "height": 1101979
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-021",
+      "name": "Health Lock Heart",
+      "semantic_name": "health-lock-heart",
+      "description": "Lock with heart, representing protected health data, medical privacy, or secure wellbeing.",
+      "alt_text": "Lock with heart.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;7101;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-lock-heart",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "heart",
+        "legal-compliance-governance",
+        "lock",
+        "medical",
+        "or",
+        "privacy",
+        "protected",
+        "representing",
+        "safety-hse",
+        "secure",
+        "wellbeing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-021.png"
+      },
+      "bbox_emu": {
+        "x": 9999346,
+        "y": 2010902,
+        "width": 880726,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-028",
+      "name": "Ambulance",
+      "semantic_name": "ambulance",
+      "description": "Ambulance, representing emergency medical transport or response.",
+      "alt_text": "Ambulance.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;7054;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "logistics-transport",
+        "safety-hse"
+      ],
+      "tags": [
+        "ambulance",
+        "drilling-rigs-wells",
+        "emergency",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "logistics-transport",
+        "medical",
+        "or",
+        "representing",
+        "response",
+        "safety-hse",
+        "transport"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-028.png"
+      },
+      "bbox_emu": {
+        "x": 6657280,
+        "y": 3096829,
+        "width": 1049294,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-033",
+      "name": "Health Medical Wellbeing Icon 033",
+      "semantic_name": "health-medical-wellbeing-icon-033",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 033: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 033: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;7147;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "033",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-033",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-033.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 4184092,
+        "width": 1107206,
+        "height": 1104534
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-034",
+      "name": "Health Medical Wellbeing Icon 034",
+      "semantic_name": "health-medical-wellbeing-icon-034",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 034: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 034: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;6982;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "034",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-034",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-034.png"
+      },
+      "bbox_emu": {
+        "x": 1234367,
+        "y": 4182747,
+        "width": 1035639,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-035",
+      "name": "Health Medical Wellbeing Icon 035",
+      "semantic_name": "health-medical-wellbeing-icon-035",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 035: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 035: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;7029;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "035",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-035",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-035.png"
+      },
+      "bbox_emu": {
+        "x": 2460528,
+        "y": 4182756,
+        "width": 755382,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-036",
+      "name": "Health Medical Wellbeing Icon 036",
+      "semantic_name": "health-medical-wellbeing-icon-036",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 036: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 036: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;7076;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "036",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-036",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-036.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 4203080,
+        "width": 1107206,
+        "height": 1066558
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-037",
+      "name": "Health Medical Wellbeing Icon 037",
+      "semantic_name": "health-medical-wellbeing-icon-037",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 037: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 037: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;7102;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "037",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-037",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-037.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 4184044,
+        "width": 1107206,
+        "height": 1104626
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-038",
+      "name": "Health Medical Wellbeing Icon 038",
+      "semantic_name": "health-medical-wellbeing-icon-038",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 038: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 038: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;7121;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "038",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-038",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-038.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 4269848,
+        "width": 1107206,
+        "height": 933019
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-039",
+      "name": "Health Medical Wellbeing Icon 039",
+      "semantic_name": "health-medical-wellbeing-icon-039",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 039: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 039: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;6998;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "039",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-039",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-039.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 4196474,
+        "width": 1107206,
+        "height": 1079767
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-040",
+      "name": "Health Medical Wellbeing Icon 040",
+      "semantic_name": "health-medical-wellbeing-icon-040",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 040: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 040: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;7047;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "040",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-040",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-040.png"
+      },
+      "bbox_emu": {
+        "x": 7801109,
+        "y": 4182756,
+        "width": 933491,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-041",
+      "name": "Health Medical Wellbeing Icon 041",
+      "semantic_name": "health-medical-wellbeing-icon-041",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 041: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 041: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;7085;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "041",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-041",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-041.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 4189542,
+        "width": 1107206,
+        "height": 1093634
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-042",
+      "name": "Health Medical Wellbeing Icon 042",
+      "semantic_name": "health-medical-wellbeing-icon-042",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 042: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 042: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;7107;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "042",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-042",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-042.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 4185166,
+        "width": 1107206,
+        "height": 1102383
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-043",
+      "name": "Health Medical Wellbeing Icon 043",
+      "semantic_name": "health-medical-wellbeing-icon-043",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 043: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 043: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;7135;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 11
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "043",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-043",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-043.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 4311688,
+        "width": 1107206,
+        "height": 849342
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-044",
+      "name": "Health Medical Wellbeing Icon 044",
+      "semantic_name": "health-medical-wellbeing-icon-044",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 044: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 044: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Google Shape;7019;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "044",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-044",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-044.png"
+      },
+      "bbox_emu": {
+        "x": 202052,
+        "y": 5268683,
+        "width": 928625,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-045",
+      "name": "Health Medical Wellbeing Icon 045",
+      "semantic_name": "health-medical-wellbeing-icon-045",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 045: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 045: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;7062;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "045",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-045",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-045.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 5268674,
+        "width": 1107206,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-046",
+      "name": "Health Medical Wellbeing Icon 046",
+      "semantic_name": "health-medical-wellbeing-icon-046",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 046: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 046: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;7093;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "046",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-046",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-046.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 5295786,
+        "width": 1107206,
+        "height": 1053000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-047",
+      "name": "Health Medical Wellbeing Icon 047",
+      "semantic_name": "health-medical-wellbeing-icon-047",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 047: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 047: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;7112;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "047",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-047",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-047.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 5305049,
+        "width": 1107206,
+        "height": 1034474
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-048",
+      "name": "Health Medical Wellbeing Icon 048",
+      "semantic_name": "health-medical-wellbeing-icon-048",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 048: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 048: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;7144;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "048",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-048",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-048.png"
+      },
+      "bbox_emu": {
+        "x": 4456392,
+        "y": 5268683,
+        "width": 1107207,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-049",
+      "name": "Health Medical Wellbeing Icon 049",
+      "semantic_name": "health-medical-wellbeing-icon-049",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 049: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 049: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;7094;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "049",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-049",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-049.png"
+      },
+      "bbox_emu": {
+        "x": 5704437,
+        "y": 5268683,
+        "width": 783353,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-050",
+      "name": "Health Medical Wellbeing Icon 050",
+      "semantic_name": "health-medical-wellbeing-icon-050",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 050: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 050: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Google Shape;7014;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "050",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-050",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-050.png"
+      },
+      "bbox_emu": {
+        "x": 6905477,
+        "y": 5319422,
+        "width": 928774,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-001",
+      "name": "Offshore Platform",
+      "semantic_name": "offshore-platform",
+      "description": "Offshore platform or industrial water facility, representing offshore operations or marine energy asset.",
+      "alt_text": "Offshore platform or industrial water facility.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Group 19"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "asset",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "energy",
+        "facilities-workplace",
+        "facility",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "offshore-platform",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "safety-hse",
+        "water"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-001.png"
+      },
+      "bbox_emu": {
+        "x": 177124,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-002",
+      "name": "Industrial Factory",
+      "semantic_name": "industrial-factory",
+      "description": "Factory, representing industrial facility, operations, or production plant.",
+      "alt_text": "Factory.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Group 5"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "facilities-workplace",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "facilities-workplace",
+        "facility",
+        "factory",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-factory",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "plant",
+        "production",
+        "representing",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-002.png"
+      },
+      "bbox_emu": {
+        "x": 1401454,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-003",
+      "name": "Restricted Card",
+      "semantic_name": "restricted-card",
+      "description": "Card with diagonal slash, representing restricted access, blocked item, or prohibition.",
+      "alt_text": "Card with diagonal slash.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Group 6"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "access",
+        "blocked",
+        "card",
+        "diagonal",
+        "digital-it-security",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "item",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "or",
+        "prohibition",
+        "representing",
+        "restricted",
+        "restricted-card",
+        "safety-hse",
+        "slash",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-003.png"
+      },
+      "bbox_emu": {
+        "x": 2625784,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-004",
+      "name": "Pipeline Valve",
+      "semantic_name": "pipeline-valve",
+      "description": "Pipeline valve, representing flow control, isolation, or industrial utilities.",
+      "alt_text": "Pipeline valve.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 4,
+      "source_shape_names": [
+        "object 35"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "control",
+        "digital-it-security",
+        "flow",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "isolation",
+        "oil-gas-energy",
+        "or",
+        "pipeline",
+        "pipeline-valve",
+        "representing",
+        "safety-hse",
+        "utilities",
+        "valve"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-004.png"
+      },
+      "bbox_emu": {
+        "x": 3850114,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-005",
+      "name": "Safety Workers",
+      "semantic_name": "safety-workers",
+      "description": "Workers in hand, representing workforce safety, crew protection, or HSE culture.",
+      "alt_text": "Workers in hand.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 5,
+      "source_shape_names": [
+        "object 34"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "crew",
+        "culture",
+        "hand",
+        "hse",
+        "in",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "protection",
+        "representing",
+        "safety",
+        "safety-hse",
+        "safety-workers",
+        "workers",
+        "workforce"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-005.png"
+      },
+      "bbox_emu": {
+        "x": 5074444,
+        "y": 1357483,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-006",
+      "name": "Globe Oil Drop",
+      "semantic_name": "globe-oil-drop",
+      "description": "Globe with oil drop, representing global energy, environment, or oil resources.",
+      "alt_text": "Globe with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Group 57"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drop",
+        "energy",
+        "environment",
+        "global",
+        "globe",
+        "globe-oil-drop",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "resources",
+        "safety-hse",
+        "sustainability-environment",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-006.png"
+      },
+      "bbox_emu": {
+        "x": 6101333,
+        "y": 1357481,
+        "width": 1107206,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-007",
+      "name": "Workboat Vessel",
+      "semantic_name": "workboat-vessel",
+      "description": "Small vessel or workboat, representing marine support, offshore logistics, or transport.",
+      "alt_text": "Small vessel or workboat.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Group 56"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "communication-support",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "logistics",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "small",
+        "support",
+        "transport",
+        "vessel",
+        "workboat",
+        "workboat-vessel"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-007.png"
+      },
+      "bbox_emu": {
+        "x": 7325663,
+        "y": 1357483,
+        "width": 1016227,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-008",
+      "name": "Flame Sign",
+      "semantic_name": "flame-sign",
+      "description": "Flame inside square, representing fire hazard, flammable material, or energy.",
+      "alt_text": "Flame inside square.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 8,
+      "source_shape_names": [
+        "object 60"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "energy",
+        "fire",
+        "flame",
+        "flame-sign",
+        "flammable",
+        "hazard",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inside",
+        "material",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "square"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-008.png"
+      },
+      "bbox_emu": {
+        "x": 8459014,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-009",
+      "name": "Oil Clipboard",
+      "semantic_name": "oil-clipboard",
+      "description": "Clipboard with oil drop, representing oil report, inspection checklist, or compliance document.",
+      "alt_text": "Clipboard with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Group 109"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "industrial-equipment",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "checklist",
+        "clipboard",
+        "compliance",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "drop",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inspection",
+        "legal-compliance-governance",
+        "oil",
+        "oil-clipboard",
+        "oil-gas-energy",
+        "or",
+        "report",
+        "representing",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-009.png"
+      },
+      "bbox_emu": {
+        "x": 9683344,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-010",
+      "name": "Performance Speedometer",
+      "semantic_name": "performance-speedometer",
+      "description": "Speedometer with upward arrow, representing performance improvement, speed, or efficiency.",
+      "alt_text": "Speedometer with upward arrow.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Group 73"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "arrow",
+        "digital-it-security",
+        "documents-files-records",
+        "efficiency",
+        "improvement",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "or",
+        "performance",
+        "performance-speedometer",
+        "representing",
+        "safety-hse",
+        "speed",
+        "speedometer",
+        "upward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-010.png"
+      },
+      "bbox_emu": {
+        "x": 10907674,
+        "y": 1498513,
+        "width": 1107206,
+        "height": 825147
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-011",
+      "name": "Recycle Oil Drop",
+      "semantic_name": "recycle-oil-drop",
+      "description": "Recycle symbol with oil drop, representing environmental management, recycling, or sustainability.",
+      "alt_text": "Recycle symbol with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 11,
+      "source_shape_names": [
+        "object 64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drop",
+        "environmental",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "management",
+        "oil",
+        "oil-gas-energy",
+        "or",
+        "recycle",
+        "recycle-oil-drop",
+        "recycling",
+        "representing",
+        "safety-hse",
+        "sustainability",
+        "sustainability-environment",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-011.png"
+      },
+      "bbox_emu": {
+        "x": 222701,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-012",
+      "name": "Trainer Presentation",
+      "semantic_name": "trainer-presentation",
+      "description": "Person presenting board, representing training, safety briefing, or instructor-led session.",
+      "alt_text": "Person presenting board.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Group 111"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "learning-education",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "board",
+        "briefing",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "instructor",
+        "learning-education",
+        "led",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "presenting",
+        "representing",
+        "safety",
+        "safety-hse",
+        "session",
+        "trainer-presentation",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-012.png"
+      },
+      "bbox_emu": {
+        "x": 1295169,
+        "y": 2864600,
+        "width": 1107207,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-013",
+      "name": "Growth Bars",
+      "semantic_name": "growth-bars",
+      "description": "Bar chart with upward arrow, representing operational improvement, performance, or growth.",
+      "alt_text": "Bar chart with upward arrow.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 13,
+      "source_shape_names": [
+        "object 69"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "arrow",
+        "bar",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "growth",
+        "growth-bars",
+        "improvement",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "operational",
+        "or",
+        "performance",
+        "representing",
+        "safety-hse",
+        "upward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-013.png"
+      },
+      "bbox_emu": {
+        "x": 2565073,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-015",
+      "name": "Worker Question",
+      "semantic_name": "worker-question",
+      "description": "Person with question bubble, representing worker inquiry, help, or safety question.",
+      "alt_text": "Person with question bubble.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Group 62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubble",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "help",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inquiry",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "question",
+        "representing",
+        "safety",
+        "safety-hse",
+        "with",
+        "worker",
+        "worker-question"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-015.png"
+      },
+      "bbox_emu": {
+        "x": 4710005,
+        "y": 2864604,
+        "width": 1107206,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-016",
+      "name": "Offshore Rig Crane",
+      "semantic_name": "offshore-rig-crane",
+      "description": "Offshore rig with crane, representing offshore drilling, construction, or platform operations.",
+      "alt_text": "Offshore rig with crane.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 16,
+      "source_shape_names": [
+        "object 4",
+        "Group 64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "industrial-equipment",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "construction",
+        "crane",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling",
+        "drilling-rigs-wells",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "offshore",
+        "offshore-marine",
+        "offshore-rig-crane",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "rig",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-016.png"
+      },
+      "bbox_emu": {
+        "x": 5979938,
+        "y": 2946867,
+        "width": 1107208,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-017",
+      "name": "Crane Truck",
+      "semantic_name": "crane-truck",
+      "description": "Crane truck, representing heavy lifting, transport, logistics, or equipment mobilization.",
+      "alt_text": "Crane truck.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 17,
+      "source_shape_names": [
+        "object 3",
+        "object 21"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "logistics-transport",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "crane",
+        "crane-truck",
+        "design-creative-assets",
+        "equipment",
+        "heavy",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "lifting",
+        "logistics",
+        "logistics-transport",
+        "mobilization",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "transport",
+        "truck"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-017.png"
+      },
+      "bbox_emu": {
+        "x": 7249819,
+        "y": 2922369,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-018",
+      "name": "Site Operator",
+      "semantic_name": "site-operator",
+      "description": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Group 60"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operator",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "site",
+        "site-operator",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-018.png"
+      },
+      "bbox_emu": {
+        "x": 8519726,
+        "y": 2946867,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-019",
+      "name": "Drilling Equipment",
+      "semantic_name": "drilling-equipment",
+      "description": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Group 61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling",
+        "drilling-equipment",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-019.png"
+      },
+      "bbox_emu": {
+        "x": 9789660,
+        "y": 2864600,
+        "width": 1107208,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-020",
+      "name": "Industrial Network",
+      "semantic_name": "industrial-network",
+      "description": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Group 72"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-network",
+        "network",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-020.png"
+      },
+      "bbox_emu": {
+        "x": 11059540,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-021",
+      "name": "Energy Asset",
+      "semantic_name": "energy-asset",
+      "description": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;8681;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "asset",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "energy-asset",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-021.png"
+      },
+      "bbox_emu": {
+        "x": 413163,
+        "y": 4340516,
+        "width": 1107206,
+        "height": 1091622
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-022",
+      "name": "Facility Management",
+      "semantic_name": "facility-management",
+      "description": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 22,
+      "source_shape_names": [
+        "object 80"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "facility-management",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "management",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-022.png"
+      },
+      "bbox_emu": {
+        "x": 1873532,
+        "y": 4410336,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-023",
+      "name": "Operations Check",
+      "semantic_name": "operations-check",
+      "description": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Group 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "check",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "operations-check",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-023.png"
+      },
+      "bbox_emu": {
+        "x": 3136460,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-024",
+      "name": "Field Service",
+      "semantic_name": "field-service",
+      "description": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 24,
+      "source_shape_names": [
+        "object 15"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "field-service",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "service",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-024.png"
+      },
+      "bbox_emu": {
+        "x": 4596829,
+        "y": 4438184,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-025",
+      "name": "Equipment Reliability",
+      "semantic_name": "equipment-reliability",
+      "description": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 25,
+      "source_shape_names": [
+        "object 16"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "equipment-reliability",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "reliability",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-025.png"
+      },
+      "bbox_emu": {
+        "x": 5859757,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-026",
+      "name": "Plant Operations",
+      "semantic_name": "plant-operations",
+      "description": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 26,
+      "source_shape_names": [
+        "object 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "or",
+        "plant",
+        "plant-operations",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-026.png"
+      },
+      "bbox_emu": {
+        "x": 7320126,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-027",
+      "name": "Industrial Monitor",
+      "semantic_name": "industrial-monitor",
+      "description": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 27,
+      "source_shape_names": [
+        "object 19"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-monitor",
+        "monitor",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-027.png"
+      },
+      "bbox_emu": {
+        "x": 8780495,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-028",
+      "name": "Safety Readiness",
+      "semantic_name": "safety-readiness",
+      "description": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 110"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "readiness",
+        "safety",
+        "safety-hse",
+        "safety-readiness",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-028.png"
+      },
+      "bbox_emu": {
+        "x": 10240864,
+        "y": 4633903,
+        "width": 1537977,
+        "height": 907764
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

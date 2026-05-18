@@ -1,0 +1,917 @@
+{
+  "source_manifest": "design-system/assets/icons/ad-careers-icons-v4/manifests/icons.json",
+  "total_icons_reviewed": 478,
+  "icon_format": "png/512",
+  "usage": {
+    "homepage": {
+      "safetyFirst": {
+        "icon_id": "people-work-management-006",
+        "semantic_name": "employee-shield",
+        "description": "Person inside shield, representing employee protection, trust, security, or compliance.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-006.png",
+        "alt": "Person inside shield.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "legal-compliance-governance",
+          "people-hr-workforce",
+          "safety-hse"
+        ],
+        "reason": "Safety First pillar"
+      },
+      "growthThroughExperience": {
+        "icon_id": "energy-oil-gas-025",
+        "semantic_name": "growth-chart",
+        "description": "Upward chart, representing growth, production increase, progress, or performance improvement.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-025.png",
+        "alt": "Upward chart.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "design-creative-assets",
+          "documents-files-records",
+          "innovation-growth",
+          "oil-gas-energy"
+        ],
+        "reason": "Growth Through Experience pillar"
+      },
+      "technicalExcellence": {
+        "icon_id": "communication-hr-support-035",
+        "semantic_name": "tools-support",
+        "description": "Wrench and screwdriver, representing technical support, maintenance, or troubleshooting.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-035.png",
+        "alt": "Wrench and screwdriver.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "people-hr-workforce"
+        ],
+        "reason": "Technical Excellence pillar"
+      },
+      "nationalContribution": {
+        "icon_id": "industrial-energy-safety-014",
+        "semantic_name": "saudi-office-worker-shmagh",
+        "description": "Saudi office worker wearing traditional shmagh/head covering, representing Saudi employees, corporate staff, local talent, Saudization, or candidate profile.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/industrial-energy-safety/industrial-energy-safety-014.png",
+        "alt": "Saudi office worker wearing traditional shmagh.",
+        "size": "lg",
+        "group": "office-corporate",
+        "use_groups": [
+          "office-corporate",
+          "people-hr-workforce",
+          "recruitment-talent",
+          "saudization-local-talent"
+        ],
+        "reason": "Purpose and National Contribution pillar"
+      },
+      "teamworkHumanConnection": {
+        "icon_id": "people-work-management-007",
+        "semantic_name": "team-group",
+        "description": "Three-person team, representing teamwork, workforce, crew, or collaboration.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-007.png",
+        "alt": "Three-person team.",
+        "size": "lg",
+        "group": "learning-education",
+        "use_groups": [
+          "learning-education",
+          "people-hr-workforce"
+        ],
+        "reason": "Teamwork and Human Connection pillar"
+      },
+      "wellbeingResilience": {
+        "icon_id": "education-science-general-021",
+        "semantic_name": "dumbbell",
+        "description": "Dumbbell, representing fitness, strength, or wellbeing.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/education-science-general/education-science-general-021.png",
+        "alt": "Dumbbell.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "drilling-rigs-wells",
+          "health-wellbeing-medical",
+          "learning-education"
+        ],
+        "reason": "Wellbeing and Resilience pillar"
+      },
+      "onshoreDrilling": {
+        "icon_id": "energy-oil-gas-048",
+        "semantic_name": "drilling-derrick",
+        "description": "Drilling derrick or rig tower, representing drilling operations, rig work, or well construction.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-048.png",
+        "alt": "Drilling derrick or rig tower.",
+        "size": "lg",
+        "group": "drilling-rigs-wells",
+        "use_groups": [
+          "drilling-rigs-wells",
+          "oil-gas-energy"
+        ],
+        "reason": "Onshore drilling job area card"
+      },
+      "offshoreDrilling": {
+        "icon_id": "energy-oil-gas-035",
+        "semantic_name": "offshore-rig-platform",
+        "description": "Offshore rig platform, representing offshore drilling operations or jack-up rig activity.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-035.png",
+        "alt": "Offshore rig platform.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "documents-files-records",
+          "drilling-rigs-wells",
+          "offshore-marine",
+          "oil-gas-energy"
+        ],
+        "reason": "Offshore drilling job area card"
+      },
+      "hse": {
+        "icon_id": "people-work-management-006",
+        "semantic_name": "employee-shield",
+        "description": "Person inside shield, representing employee protection, trust, security, or compliance.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-006.png",
+        "alt": "Person inside shield.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "legal-compliance-governance",
+          "people-hr-workforce",
+          "safety-hse"
+        ],
+        "reason": "HSE job area card"
+      },
+      "maintenanceEngineering": {
+        "icon_id": "communication-hr-support-035",
+        "semantic_name": "tools-support",
+        "description": "Wrench and screwdriver, representing technical support, maintenance, or troubleshooting.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-035.png",
+        "alt": "Wrench and screwdriver.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "people-hr-workforce"
+        ],
+        "reason": "Maintenance and Engineering job area card"
+      },
+      "lifeAtAD": {
+        "icon_id": "people-work-management-007",
+        "semantic_name": "team-group",
+        "description": "Three-person team, representing teamwork, workforce, crew, or collaboration.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-007.png",
+        "alt": "Three-person team.",
+        "size": "lg",
+        "group": "learning-education",
+        "use_groups": [
+          "learning-education",
+          "people-hr-workforce"
+        ],
+        "reason": "Life at AD content card"
+      },
+      "studentsGraduates": {
+        "icon_id": "people-work-management-024",
+        "semantic_name": "presentation-chart",
+        "description": "Presentation board with bar chart, representing reporting, training, or performance review.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-024.png",
+        "alt": "Presentation board with bar chart.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "design-creative-assets",
+          "digital-it-security",
+          "documents-files-records",
+          "learning-education",
+          "people-hr-workforce"
+        ],
+        "reason": "Students and Graduates content card"
+      },
+      "talentCommunity": {
+        "icon_id": "business-finance-analytics-030",
+        "semantic_name": "email-message",
+        "description": "Envelope, representing email communication, notifications, or candidate outreach.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-030.png",
+        "alt": "Envelope.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "communication-support",
+          "logistics-transport",
+          "marketing-seo-content",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Talent Community content card"
+      }
+    },
+    "jobAreasHub": {
+      "onshoreDrilling": {
+        "icon_id": "energy-oil-gas-048",
+        "semantic_name": "drilling-derrick",
+        "description": "Drilling derrick or rig tower, representing drilling operations, rig work, or well construction.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-048.png",
+        "alt": "Drilling derrick or rig tower.",
+        "size": "lg",
+        "group": "drilling-rigs-wells",
+        "use_groups": [
+          "drilling-rigs-wells",
+          "oil-gas-energy"
+        ],
+        "reason": "Onshore drilling hub card"
+      },
+      "offshoreDrilling": {
+        "icon_id": "energy-oil-gas-035",
+        "semantic_name": "offshore-rig-platform",
+        "description": "Offshore rig platform, representing offshore drilling operations or jack-up rig activity.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-035.png",
+        "alt": "Offshore rig platform.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "documents-files-records",
+          "drilling-rigs-wells",
+          "offshore-marine",
+          "oil-gas-energy"
+        ],
+        "reason": "Offshore drilling hub card"
+      },
+      "hse": {
+        "icon_id": "people-work-management-006",
+        "semantic_name": "employee-shield",
+        "description": "Person inside shield, representing employee protection, trust, security, or compliance.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-006.png",
+        "alt": "Person inside shield.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "legal-compliance-governance",
+          "people-hr-workforce",
+          "safety-hse"
+        ],
+        "reason": "HSE hub card"
+      },
+      "maintenanceEngineering": {
+        "icon_id": "communication-hr-support-035",
+        "semantic_name": "tools-support",
+        "description": "Wrench and screwdriver, representing technical support, maintenance, or troubleshooting.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-035.png",
+        "alt": "Wrench and screwdriver.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "people-hr-workforce"
+        ],
+        "reason": "Maintenance and Engineering hub card"
+      },
+      "supplyChainLogistics": {
+        "icon_id": "energy-oil-gas-039",
+        "semantic_name": "fuel-tanker-truck",
+        "description": "Fuel tanker truck, representing fuel logistics, transport, or site delivery.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-039.png",
+        "alt": "Fuel tanker truck.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "industrial-equipment",
+          "logistics-transport",
+          "oil-gas-energy"
+        ],
+        "reason": "Supply Chain and Logistics hub card"
+      },
+      "corporateCareers": {
+        "icon_id": "business-finance-analytics-036",
+        "semantic_name": "office-building",
+        "description": "Office building, representing workplace, corporate office, or facilities.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-036.png",
+        "alt": "Office building.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "design-creative-assets",
+          "digital-it-security",
+          "facilities-workplace",
+          "logistics-transport"
+        ],
+        "reason": "Corporate Careers hub card"
+      }
+    },
+    "hiringProcess": {
+      "searchApply": {
+        "icon_id": "business-finance-analytics-038",
+        "semantic_name": "candidate-search",
+        "description": "Magnifier over person, representing candidate search, recruitment screening, or people lookup.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-038.png",
+        "alt": "Magnifier over person.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "design-creative-assets",
+          "digital-it-security",
+          "logistics-transport",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Search and apply hiring step"
+      },
+      "applicationReview": {
+        "icon_id": "business-finance-analytics-017",
+        "semantic_name": "form-pencil",
+        "description": "Form with pencil, representing application forms, surveys, checklists, or data entry.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-017.png",
+        "alt": "Form with pencil.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "design-creative-assets",
+          "digital-it-security",
+          "documents-files-records",
+          "legal-compliance-governance",
+          "logistics-transport"
+        ],
+        "reason": "Application review hiring step"
+      },
+      "recruiterScreen": {
+        "icon_id": "people-work-management-013",
+        "semantic_name": "candidate-search",
+        "description": "Magnifier over person, representing candidate search, recruitment, or people lookup.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-013.png",
+        "alt": "Magnifier over person.",
+        "size": "lg",
+        "group": "design-creative-assets",
+        "use_groups": [
+          "design-creative-assets",
+          "digital-it-security",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Recruiter screen hiring step"
+      },
+      "interview": {
+        "icon_id": "people-work-management-010",
+        "semantic_name": "interview-discussion",
+        "description": "Two people in conversation, representing interview, coaching, mentoring, or discussion.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-010.png",
+        "alt": "Two people in conversation.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Interview hiring step"
+      },
+      "assessmentChecks": {
+        "icon_id": "education-science-general-014",
+        "semantic_name": "clipboard-check",
+        "description": "Clipboard with check, representing task completion, assessment, or approval.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/education-science-general/education-science-general-014.png",
+        "alt": "Clipboard with check.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "documents-files-records",
+          "learning-education",
+          "legal-compliance-governance",
+          "recruitment-talent"
+        ],
+        "reason": "Assessment checks hiring step"
+      },
+      "offerOnboarding": {
+        "icon_id": "people-work-management-017",
+        "semantic_name": "handshake-agreement",
+        "description": "Handshake, representing agreement, partnership, collaboration, or employment offer.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-017.png",
+        "alt": "Handshake.",
+        "size": "lg",
+        "group": "design-creative-assets",
+        "use_groups": [
+          "design-creative-assets",
+          "learning-education",
+          "logistics-transport",
+          "offshore-marine",
+          "people-hr-workforce"
+        ],
+        "reason": "Offer and onboarding hiring step"
+      }
+    },
+    "earlyCareers": {
+      "internships": {
+        "icon_id": "people-work-management-024",
+        "semantic_name": "presentation-chart",
+        "description": "Presentation board with bar chart, representing reporting, training, or performance review.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-024.png",
+        "alt": "Presentation board with bar chart.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "design-creative-assets",
+          "digital-it-security",
+          "documents-files-records",
+          "learning-education",
+          "people-hr-workforce"
+        ],
+        "reason": "Internship learning path"
+      },
+      "graduateProgram": {
+        "icon_id": "business-finance-analytics-022",
+        "semantic_name": "award-ribbon",
+        "description": "Award ribbon with star, representing recognition, awards, excellence, or achievement.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-022.png",
+        "alt": "Award ribbon with star.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "digital-it-security",
+          "logistics-transport",
+          "rewards-recognition"
+        ],
+        "reason": "Graduate program achievement path"
+      },
+      "entryLevelJobs": {
+        "icon_id": "business-finance-analytics-038",
+        "semantic_name": "candidate-search",
+        "description": "Magnifier over person, representing candidate search, recruitment screening, or people lookup.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-038.png",
+        "alt": "Magnifier over person.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "design-creative-assets",
+          "digital-it-security",
+          "logistics-transport",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Entry-level job search path"
+      }
+    },
+    "learningDevelopment": {
+      "learningExperience": {
+        "icon_id": "people-work-management-024",
+        "semantic_name": "presentation-chart",
+        "description": "Presentation board with bar chart, representing reporting, training, or performance review.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-024.png",
+        "alt": "Presentation board with bar chart.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "design-creative-assets",
+          "digital-it-security",
+          "documents-files-records",
+          "learning-education",
+          "people-hr-workforce"
+        ],
+        "reason": "Learning through experience"
+      },
+      "technicalTraining": {
+        "icon_id": "communication-hr-support-035",
+        "semantic_name": "tools-support",
+        "description": "Wrench and screwdriver, representing technical support, maintenance, or troubleshooting.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-035.png",
+        "alt": "Wrench and screwdriver.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "people-hr-workforce"
+        ],
+        "reason": "Technical training"
+      },
+      "safetyTraining": {
+        "icon_id": "people-work-management-006",
+        "semantic_name": "employee-shield",
+        "description": "Person inside shield, representing employee protection, trust, security, or compliance.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-006.png",
+        "alt": "Person inside shield.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "legal-compliance-governance",
+          "people-hr-workforce",
+          "safety-hse"
+        ],
+        "reason": "Safety training"
+      },
+      "leadershipDevelopment": {
+        "icon_id": "people-work-management-034",
+        "semantic_name": "leadership-group",
+        "description": "People, Work & Management icon for leadership group: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-034.png",
+        "alt": "People, Work & Management icon for leadership group: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+        "size": "lg",
+        "group": "office-corporate",
+        "use_groups": [
+          "office-corporate",
+          "offshore-marine",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Leadership development"
+      },
+      "mentoringFeedback": {
+        "icon_id": "people-work-management-010",
+        "semantic_name": "interview-discussion",
+        "description": "Two people in conversation, representing interview, coaching, mentoring, or discussion.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-010.png",
+        "alt": "Two people in conversation.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Mentoring and feedback"
+      },
+      "careerProgression": {
+        "icon_id": "energy-oil-gas-025",
+        "semantic_name": "growth-chart",
+        "description": "Upward chart, representing growth, production increase, progress, or performance improvement.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-025.png",
+        "alt": "Upward chart.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "design-creative-assets",
+          "documents-files-records",
+          "innovation-growth",
+          "oil-gas-energy"
+        ],
+        "reason": "Career progression"
+      }
+    },
+    "whyJoinAD": {
+      "safetyFirst": {
+        "icon_id": "people-work-management-006",
+        "semantic_name": "employee-shield",
+        "description": "Person inside shield, representing employee protection, trust, security, or compliance.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-006.png",
+        "alt": "Person inside shield.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "legal-compliance-governance",
+          "people-hr-workforce",
+          "safety-hse"
+        ],
+        "reason": "Safety First EVP pillar"
+      },
+      "growthThroughExperience": {
+        "icon_id": "energy-oil-gas-025",
+        "semantic_name": "growth-chart",
+        "description": "Upward chart, representing growth, production increase, progress, or performance improvement.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/energy-oil-gas/energy-oil-gas-025.png",
+        "alt": "Upward chart.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "design-creative-assets",
+          "documents-files-records",
+          "innovation-growth",
+          "oil-gas-energy"
+        ],
+        "reason": "Growth Through Experience EVP pillar"
+      },
+      "technicalExcellence": {
+        "icon_id": "communication-hr-support-035",
+        "semantic_name": "tools-support",
+        "description": "Wrench and screwdriver, representing technical support, maintenance, or troubleshooting.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-035.png",
+        "alt": "Wrench and screwdriver.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "people-hr-workforce"
+        ],
+        "reason": "Technical Excellence EVP pillar"
+      },
+      "nationalContribution": {
+        "icon_id": "industrial-energy-safety-014",
+        "semantic_name": "saudi-office-worker-shmagh",
+        "description": "Saudi office worker wearing traditional shmagh/head covering, representing Saudi employees, corporate staff, local talent, Saudization, or candidate profile.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/industrial-energy-safety/industrial-energy-safety-014.png",
+        "alt": "Saudi office worker wearing traditional shmagh.",
+        "size": "lg",
+        "group": "office-corporate",
+        "use_groups": [
+          "office-corporate",
+          "people-hr-workforce",
+          "recruitment-talent",
+          "saudization-local-talent"
+        ],
+        "reason": "National Contribution EVP pillar"
+      },
+      "teamworkHumanConnection": {
+        "icon_id": "people-work-management-007",
+        "semantic_name": "team-group",
+        "description": "Three-person team, representing teamwork, workforce, crew, or collaboration.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-007.png",
+        "alt": "Three-person team.",
+        "size": "lg",
+        "group": "learning-education",
+        "use_groups": [
+          "learning-education",
+          "people-hr-workforce"
+        ],
+        "reason": "Teamwork EVP pillar"
+      },
+      "wellbeingResilience": {
+        "icon_id": "education-science-general-021",
+        "semantic_name": "dumbbell",
+        "description": "Dumbbell, representing fitness, strength, or wellbeing.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/education-science-general/education-science-general-021.png",
+        "alt": "Dumbbell.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "drilling-rigs-wells",
+          "health-wellbeing-medical",
+          "learning-education"
+        ],
+        "reason": "Wellbeing and Resilience EVP pillar"
+      }
+    },
+    "talentCommunity": {
+      "profile": {
+        "icon_id": "people-work-management-035",
+        "semantic_name": "candidate-profile",
+        "description": "People, Work & Management icon for candidate profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-035.png",
+        "alt": "People, Work & Management icon for candidate profile: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+        "size": "lg",
+        "group": "documents-files-records",
+        "use_groups": [
+          "documents-files-records",
+          "office-corporate",
+          "offshore-marine",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Candidate profile"
+      },
+      "emailAlerts": {
+        "icon_id": "business-finance-analytics-030",
+        "semantic_name": "email-message",
+        "description": "Envelope, representing email communication, notifications, or candidate outreach.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-030.png",
+        "alt": "Envelope.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "communication-support",
+          "logistics-transport",
+          "marketing-seo-content",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Email job alerts"
+      },
+      "interests": {
+        "icon_id": "people-work-management-022",
+        "semantic_name": "candidate-target",
+        "description": "Person inside target, representing recruitment targeting, talent matching, or role fit.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-022.png",
+        "alt": "Person inside target.",
+        "size": "lg",
+        "group": "design-creative-assets",
+        "use_groups": [
+          "design-creative-assets",
+          "digital-it-security",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Career interests"
+      },
+      "cvUpload": {
+        "icon_id": "business-finance-analytics-003",
+        "semantic_name": "attached-document",
+        "description": "Document with paperclip, representing attached files, records, or supporting documentation.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/business-finance-analytics/business-finance-analytics-003.png",
+        "alt": "Document with paperclip.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "business-finance",
+          "communication-support",
+          "digital-it-security",
+          "documents-files-records",
+          "logistics-transport"
+        ],
+        "reason": "CV upload"
+      },
+      "contact": {
+        "icon_id": "communication-hr-support-001",
+        "semantic_name": "contact-book",
+        "description": "Contact book with person, representing contacts, directory, or candidate profile records.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-001.png",
+        "alt": "Contact book with person.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "digital-it-security",
+          "documents-files-records",
+          "learning-education",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Candidate contact"
+      }
+    },
+    "riskPrivacyFaq": {
+      "faq": {
+        "icon_id": "communication-hr-support-019",
+        "semantic_name": "question-search",
+        "description": "Magnifying glass with question mark, representing help search, FAQ lookup, or investigation.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-019.png",
+        "alt": "Magnifying glass with question mark.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "digital-it-security",
+          "people-hr-workforce"
+        ],
+        "reason": "FAQ and help"
+      },
+      "fraudWarning": {
+        "icon_id": "digital-marketing-security-018",
+        "semantic_name": "browser-security",
+        "description": "Browser with shield, representing web security, protected site, or cybersecurity.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/digital-marketing-security/digital-marketing-security-018.png",
+        "alt": "Browser with shield.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "legal-compliance-governance",
+          "marketing-seo-content",
+          "safety-hse"
+        ],
+        "reason": "Recruitment fraud protection"
+      },
+      "candidatePrivacy": {
+        "icon_id": "health-medical-wellbeing-021",
+        "semantic_name": "health-lock-heart",
+        "description": "Lock with heart, representing protected health data, medical privacy, or secure wellbeing.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/health-medical-wellbeing/health-medical-wellbeing-021.png",
+        "alt": "Lock with heart.",
+        "size": "lg",
+        "group": "analytics-reporting",
+        "use_groups": [
+          "analytics-reporting",
+          "design-creative-assets",
+          "digital-it-security",
+          "drilling-rigs-wells",
+          "health-wellbeing-medical",
+          "legal-compliance-governance",
+          "safety-hse"
+        ],
+        "reason": "Candidate privacy and data protection"
+      },
+      "ethicalAI": {
+        "icon_id": "digital-marketing-security-018",
+        "semantic_name": "browser-security",
+        "description": "Browser with shield, representing web security, protected site, or cybersecurity.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/digital-marketing-security/digital-marketing-security-018.png",
+        "alt": "Browser with shield.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "legal-compliance-governance",
+          "marketing-seo-content",
+          "safety-hse"
+        ],
+        "reason": "Ethical AI and transparency"
+      }
+    },
+    "awardsEventsLocations": {
+      "awards": {
+        "icon_id": "commerce-innovation-growth-007",
+        "semantic_name": "trophy-award",
+        "description": "Trophy with star, representing achievement, recognition, winning, or excellence.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/commerce-innovation-growth/commerce-innovation-growth-007.png",
+        "alt": "Trophy with star.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "innovation-growth",
+          "rewards-recognition"
+        ],
+        "reason": "Awards and recognition"
+      },
+      "events": {
+        "icon_id": "communication-hr-support-009",
+        "semantic_name": "calendar-appointment",
+        "description": "Calendar with clock, representing appointments, interviews, or scheduled events.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-009.png",
+        "alt": "Calendar with clock.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "digital-it-security",
+          "people-hr-workforce",
+          "recruitment-talent",
+          "time-scheduling"
+        ],
+        "reason": "Career events"
+      },
+      "locations": {
+        "icon_id": "people-work-management-015",
+        "semantic_name": "employee-location",
+        "description": "Person on map pin, representing employee location, site assignment, or job location.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/people-work-management/people-work-management-015.png",
+        "alt": "Person on map pin.",
+        "size": "lg",
+        "group": "digital-it-security",
+        "use_groups": [
+          "digital-it-security",
+          "people-hr-workforce",
+          "recruitment-talent"
+        ],
+        "reason": "Locations and site assignments"
+      },
+      "employeeStories": {
+        "icon_id": "communication-hr-support-024",
+        "semantic_name": "qa-chat",
+        "description": "Question and check speech bubbles, representing Q&A, resolved inquiry, or verified answer.",
+        "path": "design-system/assets/icons/ad-careers-icons-v4/png/512/communication-hr-support/communication-hr-support-024.png",
+        "alt": "Question and check speech bubbles.",
+        "size": "lg",
+        "group": "communication-support",
+        "use_groups": [
+          "communication-support",
+          "design-creative-assets",
+          "legal-compliance-governance",
+          "people-hr-workforce"
+        ],
+        "reason": "Employee stories and Q&A"
+      }
+    }
+  },
+  "groups_reviewed": {
+    "analytics-reporting": 99,
+    "business-finance": 78,
+    "communication-support": 74,
+    "design-creative-assets": 142,
+    "digital-it-security": 251,
+    "documents-files-records": 121,
+    "drilling-rigs-wells": 71,
+    "facilities-infrastructure": 26,
+    "facilities-workplace": 20,
+    "health-wellbeing-medical": 58,
+    "industrial-equipment": 64,
+    "innovation-growth": 107,
+    "learning-education": 85,
+    "legal-compliance-governance": 31,
+    "logistics-transport": 73,
+    "marketing-brand": 27,
+    "marketing-seo-content": 48,
+    "office-corporate": 26,
+    "offshore-marine": 32,
+    "oil-gas-energy": 96,
+    "people-hr-workforce": 137,
+    "recruitment-talent": 49,
+    "rewards-recognition": 24,
+    "safety-hse": 95,
+    "saudization-local-talent": 12,
+    "sustainability-environment": 12,
+    "time-scheduling": 16
+  }
+}

@@ -1,0 +1,4309 @@
+{
+  "group_slug": "business-finance",
+  "description": "Business, finance, money, banking, commercial, accounting, and procurement.",
+  "count": 78,
+  "icons": [
+    {
+      "id": "energy-oil-gas-008",
+      "name": "Cash And Banknote",
+      "semantic_name": "cash-and-banknote",
+      "description": "Cash banknote, representing cost, finance, revenue, or commercial value.",
+      "alt_text": "Cash banknote.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Group 11"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "banknote",
+        "business-finance",
+        "cash",
+        "cash-and-banknote",
+        "commercial",
+        "cost",
+        "energy-oil-gas",
+        "finance",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "revenue",
+        "value"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-008.png"
+      },
+      "bbox_emu": {
+        "x": 8536473,
+        "y": 822988,
+        "width": 846872,
+        "height": 1069998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-015",
+      "name": "Currency Exchange Cycle",
+      "semantic_name": "currency-exchange-cycle",
+      "description": "Currency exchange symbols in a cycle, representing financial exchange, pricing, or market movement.",
+      "alt_text": "Currency exchange symbols in a cycle.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Group 19"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "a",
+        "business-finance",
+        "currency",
+        "currency-exchange-cycle",
+        "cycle",
+        "energy-oil-gas",
+        "exchange",
+        "financial",
+        "in",
+        "market",
+        "movement",
+        "oil-gas-energy",
+        "or",
+        "pricing",
+        "representing",
+        "symbols"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-015.png"
+      },
+      "bbox_emu": {
+        "x": 5034910,
+        "y": 1940693,
+        "width": 1069997,
+        "height": 1034591
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-033",
+      "name": "Oil Barrel Finance",
+      "semantic_name": "oil-barrel-finance",
+      "description": "Oil barrel with dollar symbol, representing petroleum revenue, commodity value, or energy economics.",
+      "alt_text": "Oil barrel with dollar symbol.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Freeform 561",
+        "Group 41"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "barrel",
+        "business-finance",
+        "commodity",
+        "digital-it-security",
+        "dollar",
+        "economics",
+        "energy",
+        "energy-oil-gas",
+        "oil",
+        "oil-barrel-finance",
+        "oil-gas-energy",
+        "or",
+        "petroleum",
+        "representing",
+        "revenue",
+        "symbol",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-033.png"
+      },
+      "bbox_emu": {
+        "x": 2843029,
+        "y": 4122988,
+        "width": 933762,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-001",
+      "name": "Business Target",
+      "semantic_name": "business-target",
+      "description": "Target with center mark, representing goals, precision, objectives, or performance focus.",
+      "alt_text": "Target with center mark.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Group 5"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "business-target",
+        "center",
+        "digital-it-security",
+        "documents-files-records",
+        "focus",
+        "goals",
+        "logistics-transport",
+        "mark",
+        "objectives",
+        "or",
+        "performance",
+        "precision",
+        "representing",
+        "target",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-001.png"
+      },
+      "bbox_emu": {
+        "x": 518530,
+        "y": 931349,
+        "width": 1070000,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-002",
+      "name": "Idea Lightbulb",
+      "semantic_name": "idea-lightbulb",
+      "description": "Light bulb, representing business ideas, innovation, or problem solving.",
+      "alt_text": "Light bulb.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Group 6"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bulb",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "idea-lightbulb",
+        "ideas",
+        "innovation",
+        "innovation-growth",
+        "light",
+        "logistics-transport",
+        "or",
+        "problem",
+        "representing",
+        "solving"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-002.png"
+      },
+      "bbox_emu": {
+        "x": 1827477,
+        "y": 931349,
+        "width": 712105,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-003",
+      "name": "Attached Document",
+      "semantic_name": "attached-document",
+      "description": "Document with paperclip, representing attached files, records, or supporting documentation.",
+      "alt_text": "Document with paperclip.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Group 7"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "attached",
+        "attached-document",
+        "business-finance",
+        "business-finance-analytics",
+        "communication-support",
+        "digital-it-security",
+        "document",
+        "documentation",
+        "documents-files-records",
+        "files",
+        "logistics-transport",
+        "or",
+        "paperclip",
+        "records",
+        "representing",
+        "supporting",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-003.png"
+      },
+      "bbox_emu": {
+        "x": 2920748,
+        "y": 931349,
+        "width": 785563,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-004",
+      "name": "Bar Chart Axis",
+      "semantic_name": "bar-chart-axis",
+      "description": "Bar chart on an axis, representing analytics, metrics, or reporting.",
+      "alt_text": "Bar chart on an axis.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Group 8"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "an",
+        "analytics",
+        "analytics-reporting",
+        "axis",
+        "bar",
+        "bar-chart-axis",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "design-creative-assets",
+        "documents-files-records",
+        "logistics-transport",
+        "metrics",
+        "on",
+        "or",
+        "reporting",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-004.png"
+      },
+      "bbox_emu": {
+        "x": 3908869,
+        "y": 931349,
+        "width": 1069321,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-005",
+      "name": "Search Analytics",
+      "semantic_name": "search-analytics",
+      "description": "Magnifying glass over chart, representing analysis, investigation, or business insight.",
+      "alt_text": "Magnifying glass over chart.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Group 9",
+        "Freeform 417"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analysis",
+        "analytics-reporting",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "design-creative-assets",
+        "glass",
+        "insight",
+        "investigation",
+        "logistics-transport",
+        "magnifying",
+        "or",
+        "over",
+        "representing",
+        "search-analytics"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-005.png"
+      },
+      "bbox_emu": {
+        "x": 5038560,
+        "y": 931349,
+        "width": 1069940,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-006",
+      "name": "Hourglass Time",
+      "semantic_name": "hourglass-time",
+      "description": "Hourglass, representing timing, deadlines, waiting, or process duration.",
+      "alt_text": "Hourglass.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Group 10"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport",
+        "time-scheduling"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "deadlines",
+        "digital-it-security",
+        "duration",
+        "hourglass",
+        "hourglass-time",
+        "logistics-transport",
+        "or",
+        "process",
+        "representing",
+        "time-scheduling",
+        "timing",
+        "waiting"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-006.png"
+      },
+      "bbox_emu": {
+        "x": 6293759,
+        "y": 931349,
+        "width": 819541,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-007",
+      "name": "Finance Target",
+      "semantic_name": "finance-target",
+      "description": "Dollar target, representing financial goals, budget control, or revenue targets.",
+      "alt_text": "Dollar target.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Group 11"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "budget",
+        "business-finance",
+        "business-finance-analytics",
+        "control",
+        "dollar",
+        "finance-target",
+        "financial",
+        "goals",
+        "logistics-transport",
+        "or",
+        "representing",
+        "revenue",
+        "target",
+        "targets"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-007.png"
+      },
+      "bbox_emu": {
+        "x": 7298530,
+        "y": 931349,
+        "width": 1070000,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-008",
+      "name": "Document Transfer",
+      "semantic_name": "document-transfer",
+      "description": "Two documents with arrows, representing file transfer, workflow, or process exchange.",
+      "alt_text": "Two documents with arrows.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Group 12"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "arrows",
+        "business-finance",
+        "business-finance-analytics",
+        "digital-it-security",
+        "document-transfer",
+        "documents",
+        "documents-files-records",
+        "exchange",
+        "file",
+        "logistics-transport",
+        "or",
+        "process",
+        "representing",
+        "transfer",
+        "two",
+        "with",
+        "workflow"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-008.png"
+      },
+      "bbox_emu": {
+        "x": 8447241,
+        "y": 931349,
+        "width": 1032578,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-009",
+      "name": "Analytics Report",
+      "semantic_name": "analytics-report",
+      "description": "Report with chart and magnifier, representing business analysis or report review.",
+      "alt_text": "Report with chart and magnifier.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Group 13"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analysis",
+        "analytics-report",
+        "analytics-reporting",
+        "and",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport",
+        "magnifier",
+        "or",
+        "report",
+        "representing",
+        "review",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-009.png"
+      },
+      "bbox_emu": {
+        "x": 9628800,
+        "y": 931349,
+        "width": 929461,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-010",
+      "name": "Calculator Discount",
+      "semantic_name": "calculator-discount",
+      "description": "Calculator with percent symbol, representing pricing, discount, budgeting, or cost calculation.",
+      "alt_text": "Calculator with percent symbol.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Group 14"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "budgeting",
+        "business-finance",
+        "business-finance-analytics",
+        "calculation",
+        "calculator",
+        "calculator-discount",
+        "cost",
+        "digital-it-security",
+        "discount",
+        "logistics-transport",
+        "or",
+        "percent",
+        "pricing",
+        "representing",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-010.png"
+      },
+      "bbox_emu": {
+        "x": 10706501,
+        "y": 931349,
+        "width": 1034058,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-011",
+      "name": "Pie Chart Growth",
+      "semantic_name": "pie-chart-growth",
+      "description": "Pie chart with bar chart, representing business analytics, dashboards, or performance reports.",
+      "alt_text": "Pie chart with bar chart.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Group 24"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "bar",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "dashboards",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "logistics-transport",
+        "or",
+        "performance",
+        "pie",
+        "pie-chart-growth",
+        "reports",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-011.png"
+      },
+      "bbox_emu": {
+        "x": 518530,
+        "y": 2146473,
+        "width": 1070000,
+        "height": 839752
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-012",
+      "name": "Archive Box",
+      "semantic_name": "archive-box",
+      "description": "Open archive box, representing records, storage, document archive, or inventory.",
+      "alt_text": "Open archive box.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Group 23"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "documents-files-records",
+        "industrial-equipment",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "archive",
+        "archive-box",
+        "box",
+        "business-finance",
+        "business-finance-analytics",
+        "design-creative-assets",
+        "document",
+        "documents-files-records",
+        "industrial-equipment",
+        "inventory",
+        "logistics-transport",
+        "open",
+        "or",
+        "records",
+        "representing",
+        "storage"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-012.png"
+      },
+      "bbox_emu": {
+        "x": 1648530,
+        "y": 2123335,
+        "width": 1069999,
+        "height": 886029
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-013",
+      "name": "Bar Chart Trend",
+      "semantic_name": "bar-chart-trend",
+      "description": "Bar chart with line trend, representing analytics, KPI movement, or performance tracking.",
+      "alt_text": "Bar chart with line trend.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Group 22"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "bar",
+        "bar-chart-trend",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "kpi",
+        "line",
+        "logistics-transport",
+        "movement",
+        "or",
+        "performance",
+        "representing",
+        "tracking",
+        "trend",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-013.png"
+      },
+      "bbox_emu": {
+        "x": 2778530,
+        "y": 2073071,
+        "width": 911638,
+        "height": 842105
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-014",
+      "name": "Customer Target",
+      "semantic_name": "customer-target",
+      "description": "Person inside a target, representing audience targeting, candidate targeting, or customer focus.",
+      "alt_text": "Person inside a target.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Group 21"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "a",
+        "analytics-reporting",
+        "audience",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "customer",
+        "customer-target",
+        "focus",
+        "inside",
+        "logistics-transport",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "recruitment-talent",
+        "representing",
+        "target",
+        "targeting"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-014.png"
+      },
+      "bbox_emu": {
+        "x": 3925294,
+        "y": 2031349,
+        "width": 881165,
+        "height": 909011
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-015",
+      "name": "Business Gears",
+      "semantic_name": "business-gears",
+      "description": "Gears, representing operations, process improvement, automation, or configuration.",
+      "alt_text": "Gears.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Group 30"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "automation",
+        "business-finance",
+        "business-finance-analytics",
+        "business-gears",
+        "configuration",
+        "gears",
+        "improvement",
+        "innovation-growth",
+        "logistics-transport",
+        "operations",
+        "or",
+        "process",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-015.png"
+      },
+      "bbox_emu": {
+        "x": 5038530,
+        "y": 2035990,
+        "width": 912111,
+        "height": 904370
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-016",
+      "name": "Team Network",
+      "semantic_name": "team-network",
+      "description": "Connected people network, representing team structure, collaboration, or organizational relationships.",
+      "alt_text": "Connected people network.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Group 19"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "collaboration",
+        "connected",
+        "learning-education",
+        "logistics-transport",
+        "network",
+        "offshore-marine",
+        "or",
+        "organizational",
+        "people",
+        "people-hr-workforce",
+        "relationships",
+        "representing",
+        "structure",
+        "team",
+        "team-network"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-016.png"
+      },
+      "bbox_emu": {
+        "x": 6177313,
+        "y": 2031349,
+        "width": 975195,
+        "height": 991307
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-017",
+      "name": "Form Pencil",
+      "semantic_name": "form-pencil",
+      "description": "Form with pencil, representing application forms, surveys, checklists, or data entry.",
+      "alt_text": "Form with pencil.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Group 18"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "application",
+        "business-finance",
+        "business-finance-analytics",
+        "checklists",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "entry",
+        "form",
+        "form-pencil",
+        "forms",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "or",
+        "pencil",
+        "representing",
+        "surveys",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-017.png"
+      },
+      "bbox_emu": {
+        "x": 7298530,
+        "y": 2031349,
+        "width": 1070000,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-018",
+      "name": "Web Search Window",
+      "semantic_name": "web-search-window",
+      "description": "Browser window with magnifier, representing online search, site search, or digital lookup.",
+      "alt_text": "Browser window with magnifier.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Group 17"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "browser",
+        "business-finance",
+        "business-finance-analytics",
+        "digital",
+        "digital-it-security",
+        "logistics-transport",
+        "lookup",
+        "magnifier",
+        "online",
+        "or",
+        "representing",
+        "search",
+        "site",
+        "web-search-window",
+        "window",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-018.png"
+      },
+      "bbox_emu": {
+        "x": 8428530,
+        "y": 2031349,
+        "width": 1070000,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-019",
+      "name": "Financial Education",
+      "semantic_name": "financial-education",
+      "description": "Person and money board, representing finance training, compensation education, or payroll guidance.",
+      "alt_text": "Person and money board.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Group 16"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "learning-education",
+        "logistics-transport",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "and",
+        "board",
+        "business-finance",
+        "business-finance-analytics",
+        "compensation",
+        "design-creative-assets",
+        "education",
+        "finance",
+        "financial-education",
+        "guidance",
+        "learning-education",
+        "logistics-transport",
+        "money",
+        "or",
+        "payroll",
+        "people-hr-workforce",
+        "person",
+        "representing",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-019.png"
+      },
+      "bbox_emu": {
+        "x": 9564374,
+        "y": 2031349,
+        "width": 979473,
+        "height": 990179
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-020",
+      "name": "Calendar Time",
+      "semantic_name": "calendar-time",
+      "description": "Calendar with clock, representing schedule, deadlines, appointments, or planning.",
+      "alt_text": "Calendar with clock.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Group 15"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport",
+        "time-scheduling"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "appointments",
+        "business-finance",
+        "business-finance-analytics",
+        "calendar",
+        "calendar-time",
+        "clock",
+        "deadlines",
+        "digital-it-security",
+        "logistics-transport",
+        "or",
+        "planning",
+        "representing",
+        "schedule",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-020.png"
+      },
+      "bbox_emu": {
+        "x": 10726877,
+        "y": 2031349,
+        "width": 867042,
+        "height": 932647
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-021",
+      "name": "Award Certificate",
+      "semantic_name": "award-certificate",
+      "description": "Certificate with award seal and check mark, representing certification, approval, compliance, or achievement.",
+      "alt_text": "Certificate with award seal and check mark.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Group 25"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "analytics-reporting",
+        "and",
+        "approval",
+        "award",
+        "award-certificate",
+        "business-finance",
+        "business-finance-analytics",
+        "certificate",
+        "certification",
+        "check",
+        "compliance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "mark",
+        "or",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-021.png"
+      },
+      "bbox_emu": {
+        "x": 548878,
+        "y": 3131349,
+        "width": 1009304,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-022",
+      "name": "Award Ribbon",
+      "semantic_name": "award-ribbon",
+      "description": "Award ribbon with star, representing recognition, awards, excellence, or achievement.",
+      "alt_text": "Award ribbon with star.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Group 26"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "analytics-reporting",
+        "award",
+        "award-ribbon",
+        "awards",
+        "business-finance",
+        "business-finance-analytics",
+        "digital-it-security",
+        "excellence",
+        "logistics-transport",
+        "or",
+        "recognition",
+        "representing",
+        "rewards-recognition",
+        "ribbon",
+        "star",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-022.png"
+      },
+      "bbox_emu": {
+        "x": 1734709,
+        "y": 3131349,
+        "width": 897640,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-023",
+      "name": "Report Analysis",
+      "semantic_name": "report-analysis",
+      "description": "Report with pie chart and bars, representing data analysis, dashboards, or performance reporting.",
+      "alt_text": "Report with pie chart and bars.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Group 27"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analysis",
+        "analytics-reporting",
+        "and",
+        "bars",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "dashboards",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport",
+        "or",
+        "performance",
+        "pie",
+        "report",
+        "report-analysis",
+        "reporting",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-023.png"
+      },
+      "bbox_emu": {
+        "x": 2805734,
+        "y": 3131349,
+        "width": 1015591,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-024",
+      "name": "Finance Calculator Report",
+      "semantic_name": "finance-calculator-report",
+      "description": "Financial report with calculator and dollar, representing budgeting, accounting, or cost analysis.",
+      "alt_text": "Financial report with calculator and dollar.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Group 28"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "accounting",
+        "analysis",
+        "analytics-reporting",
+        "and",
+        "budgeting",
+        "business-finance",
+        "business-finance-analytics",
+        "calculator",
+        "cost",
+        "digital-it-security",
+        "documents-files-records",
+        "dollar",
+        "finance-calculator-report",
+        "financial",
+        "logistics-transport",
+        "or",
+        "report",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-024.png"
+      },
+      "bbox_emu": {
+        "x": 3908530,
+        "y": 3287044,
+        "width": 1069999,
+        "height": 758609
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-025",
+      "name": "Segmented Pie Chart",
+      "semantic_name": "segmented-pie-chart",
+      "description": "Pie chart segments, representing market share, analysis, allocation, or data distribution.",
+      "alt_text": "Pie chart segments.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Group 29"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "logistics-transport"
+      ],
+      "tags": [
+        "allocation",
+        "analysis",
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "data",
+        "design-creative-assets",
+        "distribution",
+        "logistics-transport",
+        "market",
+        "or",
+        "pie",
+        "representing",
+        "segmented-pie-chart",
+        "segments",
+        "share"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-025.png"
+      },
+      "bbox_emu": {
+        "x": 5038530,
+        "y": 3177158,
+        "width": 984385,
+        "height": 901025
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-026",
+      "name": "Financial Visibility",
+      "semantic_name": "financial-visibility",
+      "description": "Eye with dollar, representing financial visibility, cost transparency, or audit awareness.",
+      "alt_text": "Eye with dollar.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Group 35"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "audit",
+        "awareness",
+        "business-finance",
+        "business-finance-analytics",
+        "cost",
+        "digital-it-security",
+        "dollar",
+        "eye",
+        "financial",
+        "financial-visibility",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "or",
+        "representing",
+        "transparency",
+        "visibility",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-026.png"
+      },
+      "bbox_emu": {
+        "x": 6168530,
+        "y": 3383262,
+        "width": 1070000,
+        "height": 566174
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-027",
+      "name": "Chart Document",
+      "semantic_name": "chart-document",
+      "description": "Document with bar chart, representing report, dashboard, or business metrics.",
+      "alt_text": "Document with bar chart.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Group 34"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bar",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "chart-document",
+        "dashboard",
+        "design-creative-assets",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "logistics-transport",
+        "metrics",
+        "or",
+        "report",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-027.png"
+      },
+      "bbox_emu": {
+        "x": 7298530,
+        "y": 3158566,
+        "width": 1070000,
+        "height": 1015565
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-028",
+      "name": "Business Discussion",
+      "semantic_name": "business-discussion",
+      "description": "People with speech bubbles, representing meetings, collaboration, or team discussion.",
+      "alt_text": "People with speech bubbles.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 33",
+        "Freeform 628"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "learning-education",
+        "logistics-transport",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bubbles",
+        "business-discussion",
+        "business-finance",
+        "business-finance-analytics",
+        "collaboration",
+        "digital-it-security",
+        "discussion",
+        "learning-education",
+        "logistics-transport",
+        "meetings",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "representing",
+        "speech",
+        "team",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-028.png"
+      },
+      "bbox_emu": {
+        "x": 8428530,
+        "y": 3227302,
+        "width": 1070000,
+        "height": 878092
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-029",
+      "name": "Announcement Megaphone",
+      "semantic_name": "announcement-megaphone",
+      "description": "Megaphone, representing announcements, communications, or campaign messaging.",
+      "alt_text": "Megaphone.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Group 32"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "logistics-transport",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "announcement-megaphone",
+        "announcements",
+        "business-finance",
+        "business-finance-analytics",
+        "campaign",
+        "communication-support",
+        "communications",
+        "logistics-transport",
+        "marketing-seo-content",
+        "megaphone",
+        "messaging",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-029.png"
+      },
+      "bbox_emu": {
+        "x": 9643213,
+        "y": 3131349,
+        "width": 900634,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-030",
+      "name": "Email Message",
+      "semantic_name": "email-message",
+      "description": "Envelope, representing email communication, notifications, or candidate outreach.",
+      "alt_text": "Envelope.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Group 31"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "logistics-transport",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "communication",
+        "communication-support",
+        "email",
+        "email-message",
+        "envelope",
+        "logistics-transport",
+        "marketing-seo-content",
+        "notifications",
+        "or",
+        "outreach",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-030.png"
+      },
+      "bbox_emu": {
+        "x": 10688530,
+        "y": 3164940,
+        "width": 1070000,
+        "height": 1002819
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-031",
+      "name": "Lightbulb Idea",
+      "semantic_name": "lightbulb-idea",
+      "description": "Light bulb, representing creativity, insight, or innovation.",
+      "alt_text": "Light bulb.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Group 36"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bulb",
+        "business-finance",
+        "business-finance-analytics",
+        "creativity",
+        "digital-it-security",
+        "innovation",
+        "innovation-growth",
+        "insight",
+        "light",
+        "lightbulb-idea",
+        "logistics-transport",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-031.png"
+      },
+      "bbox_emu": {
+        "x": 656576,
+        "y": 4231349,
+        "width": 793906,
+        "height": 1073175
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-032",
+      "name": "Innovation Lightbulb",
+      "semantic_name": "innovation-lightbulb",
+      "description": "Large light bulb, representing innovation, ideas, and improvement.",
+      "alt_text": "Large light bulb.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Group 37"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "and",
+        "bulb",
+        "business-finance",
+        "business-finance-analytics",
+        "ideas",
+        "improvement",
+        "innovation",
+        "innovation-growth",
+        "innovation-lightbulb",
+        "large",
+        "light",
+        "logistics-transport",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-032.png"
+      },
+      "bbox_emu": {
+        "x": 1648530,
+        "y": 4338720,
+        "width": 1069999,
+        "height": 855256
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-033",
+      "name": "Growth Funnel",
+      "semantic_name": "growth-funnel",
+      "description": "Funnel with sprout, representing conversion, pipeline growth, or lead nurturing.",
+      "alt_text": "Funnel with sprout.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Group 38"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "industrial-equipment",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "conversion",
+        "digital-it-security",
+        "funnel",
+        "growth",
+        "growth-funnel",
+        "industrial-equipment",
+        "innovation-growth",
+        "lead",
+        "logistics-transport",
+        "nurturing",
+        "or",
+        "pipeline",
+        "representing",
+        "sprout",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-033.png"
+      },
+      "bbox_emu": {
+        "x": 2778530,
+        "y": 4376940,
+        "width": 1070001,
+        "height": 778819
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-034",
+      "name": "Businesswoman",
+      "semantic_name": "businesswoman",
+      "description": "Professional woman avatar, representing employee, manager, candidate, or business role.",
+      "alt_text": "Professional woman avatar.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Group 39"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "avatar",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "businesswoman",
+        "candidate",
+        "employee",
+        "logistics-transport",
+        "manager",
+        "or",
+        "people-hr-workforce",
+        "professional",
+        "recruitment-talent",
+        "representing",
+        "role",
+        "woman"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-034.png"
+      },
+      "bbox_emu": {
+        "x": 3911069,
+        "y": 4231349,
+        "width": 1064920,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-035",
+      "name": "Goal Path Flag",
+      "semantic_name": "goal-path-flag",
+      "description": "Path with flag and building, representing business goals, roadmap, or strategic milestones.",
+      "alt_text": "Path with flag and building.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Group 40"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "and",
+        "building",
+        "business",
+        "business-finance",
+        "business-finance-analytics",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "flag",
+        "goal-path-flag",
+        "goals",
+        "logistics-transport",
+        "milestones",
+        "or",
+        "path",
+        "representing",
+        "roadmap",
+        "strategic",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-035.png"
+      },
+      "bbox_emu": {
+        "x": 5201811,
+        "y": 4231349,
+        "width": 743438,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-036",
+      "name": "Office Building",
+      "semantic_name": "office-building",
+      "description": "Office building, representing workplace, corporate office, or facilities.",
+      "alt_text": "Office building.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Group 41"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "building",
+        "business-finance",
+        "business-finance-analytics",
+        "corporate",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities",
+        "facilities-workplace",
+        "logistics-transport",
+        "office",
+        "office-building",
+        "or",
+        "representing",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-036.png"
+      },
+      "bbox_emu": {
+        "x": 6321916,
+        "y": 4231349,
+        "width": 763227,
+        "height": 1070001
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-037",
+      "name": "Payment Card Wallet",
+      "semantic_name": "payment-card-wallet",
+      "description": "Payment card and wallet, representing expenses, payments, benefits, or financial services.",
+      "alt_text": "Payment card and wallet.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Group 42"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "and",
+        "benefits",
+        "business-finance",
+        "business-finance-analytics",
+        "card",
+        "design-creative-assets",
+        "digital-it-security",
+        "expenses",
+        "financial",
+        "logistics-transport",
+        "or",
+        "payment",
+        "payment-card-wallet",
+        "payments",
+        "representing",
+        "services",
+        "wallet"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-037.png"
+      },
+      "bbox_emu": {
+        "x": 7298530,
+        "y": 4242000,
+        "width": 1070000,
+        "height": 1048697
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-038",
+      "name": "Candidate Search",
+      "semantic_name": "candidate-search",
+      "description": "Magnifier over person, representing candidate search, recruitment screening, or people lookup.",
+      "alt_text": "Magnifier over person.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Group 43"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "candidate-search",
+        "design-creative-assets",
+        "digital-it-security",
+        "logistics-transport",
+        "lookup",
+        "magnifier",
+        "or",
+        "over",
+        "people",
+        "people-hr-workforce",
+        "person",
+        "recruitment",
+        "recruitment-talent",
+        "representing",
+        "screening",
+        "search"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-038.png"
+      },
+      "bbox_emu": {
+        "x": 8428530,
+        "y": 4262026,
+        "width": 1070000,
+        "height": 1008644
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-039",
+      "name": "Money Growth",
+      "semantic_name": "money-growth",
+      "description": "Banknote with sprout, representing financial growth, investment, or value creation.",
+      "alt_text": "Banknote with sprout.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Group 44"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "banknote",
+        "business-finance",
+        "business-finance-analytics",
+        "creation",
+        "digital-it-security",
+        "financial",
+        "growth",
+        "innovation-growth",
+        "investment",
+        "logistics-transport",
+        "money-growth",
+        "or",
+        "representing",
+        "sprout",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-039.png"
+      },
+      "bbox_emu": {
+        "x": 9558530,
+        "y": 4283303,
+        "width": 1070000,
+        "height": 966093
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-040",
+      "name": "Cash Medical Benefit",
+      "semantic_name": "cash-medical-benefit",
+      "description": "Banknote with cross, representing medical benefit, health expense, or insurance payment.",
+      "alt_text": "Banknote with cross.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Group 45"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "health-wellbeing-medical",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "banknote",
+        "benefit",
+        "business-finance",
+        "business-finance-analytics",
+        "cash-medical-benefit",
+        "cross",
+        "design-creative-assets",
+        "digital-it-security",
+        "expense",
+        "health",
+        "health-wellbeing-medical",
+        "insurance",
+        "logistics-transport",
+        "medical",
+        "or",
+        "payment",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-040.png"
+      },
+      "bbox_emu": {
+        "x": 10711149,
+        "y": 4231350,
+        "width": 1024761,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-041",
+      "name": "Creative Idea Cloud",
+      "semantic_name": "creative-idea-cloud",
+      "description": "Light bulb in thought cloud, representing ideation, creativity, or innovation mindset.",
+      "alt_text": "Light bulb in thought cloud.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Group 1"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bulb",
+        "business-finance",
+        "business-finance-analytics",
+        "cloud",
+        "creative-idea-cloud",
+        "creativity",
+        "design-creative-assets",
+        "digital-it-security",
+        "ideation",
+        "in",
+        "innovation",
+        "innovation-growth",
+        "light",
+        "logistics-transport",
+        "mindset",
+        "or",
+        "representing",
+        "thought"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-041.png"
+      },
+      "bbox_emu": {
+        "x": 518530,
+        "y": 5489755,
+        "width": 1069997,
+        "height": 753189
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-042",
+      "name": "Idea Speech Bubble",
+      "semantic_name": "idea-speech-bubble",
+      "description": "Light bulb in speech bubble, representing shared ideas, brainstorming, or feedback.",
+      "alt_text": "Light bulb in speech bubble.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Group 2"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "health-wellbeing-medical",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "brainstorming",
+        "bubble",
+        "bulb",
+        "business-finance",
+        "business-finance-analytics",
+        "feedback",
+        "health-wellbeing-medical",
+        "idea-speech-bubble",
+        "ideas",
+        "in",
+        "innovation-growth",
+        "light",
+        "logistics-transport",
+        "or",
+        "representing",
+        "shared",
+        "speech"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-042.png"
+      },
+      "bbox_emu": {
+        "x": 1648530,
+        "y": 5333539,
+        "width": 1070000,
+        "height": 1065619
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-043",
+      "name": "Notebook Pencil",
+      "semantic_name": "notebook-pencil",
+      "description": "Notebook with pencil, representing notes, planning, documentation, or learning.",
+      "alt_text": "Notebook with pencil.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Group 3"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "design-creative-assets",
+        "digital-it-security",
+        "documentation",
+        "documents-files-records",
+        "learning",
+        "learning-education",
+        "logistics-transport",
+        "notebook",
+        "notebook-pencil",
+        "notes",
+        "or",
+        "pencil",
+        "planning",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-043.png"
+      },
+      "bbox_emu": {
+        "x": 2924944,
+        "y": 5331349,
+        "width": 777173,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-044",
+      "name": "Report Check Analysis",
+      "semantic_name": "report-check-analysis",
+      "description": "Report with check mark and chart, representing verified analytics, audit, or approved report.",
+      "alt_text": "Report with check mark and chart.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Group 4"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "and",
+        "approved",
+        "audit",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "check",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "mark",
+        "or",
+        "report",
+        "report-check-analysis",
+        "representing",
+        "verified",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-044.png"
+      },
+      "bbox_emu": {
+        "x": 3931538,
+        "y": 5331350,
+        "width": 939239,
+        "height": 980938
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-045",
+      "name": "Hand Cash",
+      "semantic_name": "hand-cash",
+      "description": "Hand holding cash, representing payment, salary, allowance, or reimbursement.",
+      "alt_text": "Hand holding cash.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Group 51"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "allowance",
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "cash",
+        "hand",
+        "hand-cash",
+        "holding",
+        "logistics-transport",
+        "or",
+        "payment",
+        "reimbursement",
+        "representing",
+        "salary"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-045.png"
+      },
+      "bbox_emu": {
+        "x": 5054003,
+        "y": 5331349,
+        "width": 1039050,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-046",
+      "name": "Money Bag",
+      "semantic_name": "money-bag",
+      "description": "Money bag, representing payroll, savings, compensation, or financial value.",
+      "alt_text": "Money bag.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Group 50"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bag",
+        "business-finance",
+        "business-finance-analytics",
+        "compensation",
+        "design-creative-assets",
+        "financial",
+        "logistics-transport",
+        "money",
+        "money-bag",
+        "or",
+        "payroll",
+        "representing",
+        "savings",
+        "value"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-046.png"
+      },
+      "bbox_emu": {
+        "x": 6168530,
+        "y": 5375890,
+        "width": 1070000,
+        "height": 980918
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-047",
+      "name": "Calculator Money",
+      "semantic_name": "calculator-money",
+      "description": "Calculator with dollar, representing payroll, budgeting, accounting, or financial calculation.",
+      "alt_text": "Calculator with dollar.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Group 49"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport"
+      ],
+      "tags": [
+        "accounting",
+        "analytics-reporting",
+        "budgeting",
+        "business-finance",
+        "business-finance-analytics",
+        "calculation",
+        "calculator",
+        "calculator-money",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "logistics-transport",
+        "or",
+        "payroll",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-047.png"
+      },
+      "bbox_emu": {
+        "x": 7397596,
+        "y": 5331349,
+        "width": 871868,
+        "height": 1070001
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-048",
+      "name": "Cloud Workstation",
+      "semantic_name": "cloud-workstation",
+      "description": "Cloud with monitor, representing cloud computing, digital workspace, or online services.",
+      "alt_text": "Cloud with monitor.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Group 48"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "cloud",
+        "cloud-workstation",
+        "computing",
+        "digital",
+        "digital-it-security",
+        "logistics-transport",
+        "monitor",
+        "online",
+        "or",
+        "representing",
+        "services",
+        "with",
+        "workspace"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-048.png"
+      },
+      "bbox_emu": {
+        "x": 8428531,
+        "y": 5334161,
+        "width": 1069999,
+        "height": 1064374
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-049",
+      "name": "Cloud Server",
+      "semantic_name": "cloud-server",
+      "description": "Cloud server rack, representing cloud infrastructure, hosting, or data services.",
+      "alt_text": "Cloud server rack.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Freeform 1323",
+        "Freeform 1324",
+        "Freeform 1326",
+        "Freeform 1327",
+        "Group 47"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "cloud",
+        "cloud-server",
+        "data",
+        "digital-it-security",
+        "hosting",
+        "infrastructure",
+        "logistics-transport",
+        "or",
+        "rack",
+        "representing",
+        "server",
+        "services"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-049.png"
+      },
+      "bbox_emu": {
+        "x": 9558530,
+        "y": 5331350,
+        "width": 1070000,
+        "height": 1069998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-050",
+      "name": "Employee Rating",
+      "semantic_name": "employee-rating",
+      "description": "People with star ratings, representing performance rating, recognition, or talent assessment.",
+      "alt_text": "People with star ratings.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Group 46"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "assessment",
+        "business-finance",
+        "business-finance-analytics",
+        "digital-it-security",
+        "documents-files-records",
+        "employee-rating",
+        "logistics-transport",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "performance",
+        "rating",
+        "ratings",
+        "recognition",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "star",
+        "talent",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-050.png"
+      },
+      "bbox_emu": {
+        "x": 10688530,
+        "y": 5331350,
+        "width": 1070000,
+        "height": 1069998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-014",
+      "name": "Compensation Hand",
+      "semantic_name": "compensation-hand",
+      "description": "Hand with dollar, representing compensation, payroll, benefits, or reward.",
+      "alt_text": "Hand with dollar.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;8791;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "benefits",
+        "business-finance",
+        "compensation",
+        "compensation-hand",
+        "design-creative-assets",
+        "digital-it-security",
+        "dollar",
+        "hand",
+        "or",
+        "payroll",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing",
+        "reward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-014.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 2045876,
+        "width": 1107206,
+        "height": 1037240
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-023",
+      "name": "Money Timer",
+      "semantic_name": "money-timer",
+      "description": "Stopwatch with dollar, representing pay timing, cost tracking, or time-related compensation.",
+      "alt_text": "Stopwatch with dollar.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Google Shape;8774;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "business-finance",
+        "compensation",
+        "cost",
+        "design-creative-assets",
+        "digital-it-security",
+        "dollar",
+        "money-timer",
+        "or",
+        "pay",
+        "people-hr-workforce",
+        "people-work-management",
+        "related",
+        "representing",
+        "stopwatch",
+        "time",
+        "time-scheduling",
+        "timing",
+        "tracking",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-023.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 3096828,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-033",
+      "name": "Business Meeting",
+      "semantic_name": "business-meeting",
+      "description": "People, Work & Management icon for business meeting: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for business meeting: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;8739;p68"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "business",
+        "business-finance",
+        "business-meeting",
+        "candidate",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "meeting",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-033.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 4183131,
+        "width": 1107206,
+        "height": 1106454
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-022",
+      "name": "Digital Payment Touch",
+      "semantic_name": "digital-payment-touch",
+      "description": "Hand tapping infinity/payment symbol, representing digital transaction, seamless process, or automation.",
+      "alt_text": "Hand tapping infinity/payment symbol.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;8387;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "automation",
+        "business-finance",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-payment-touch",
+        "hand",
+        "infinity",
+        "marketing-seo-content",
+        "or",
+        "payment",
+        "process",
+        "representing",
+        "safety-hse",
+        "seamless",
+        "symbol",
+        "tapping",
+        "transaction"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-022.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 2035887,
+        "width": 1107206,
+        "height": 1028205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-032",
+      "name": "Mobile Payment",
+      "semantic_name": "mobile-payment",
+      "description": "Mobile phone with dollar bubble, representing mobile payment, monetization, or digital wallet.",
+      "alt_text": "Mobile phone with dollar bubble.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;8412;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "communication-support",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubble",
+        "business-finance",
+        "communication-support",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "dollar",
+        "marketing-seo-content",
+        "mobile",
+        "mobile-payment",
+        "monetization",
+        "or",
+        "payment",
+        "phone",
+        "representing",
+        "safety-hse",
+        "wallet",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-032.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 3103325,
+        "width": 1107206,
+        "height": 1065184
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-001",
+      "name": "Dollar Coin",
+      "semantic_name": "dollar-coin",
+      "description": "Dollar symbol in circle, representing money, revenue, finance, or price.",
+      "alt_text": "Dollar symbol in circle.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Group 2"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth"
+      ],
+      "tags": [
+        "business-finance",
+        "circle",
+        "commerce-innovation-growth",
+        "dollar",
+        "dollar-coin",
+        "finance",
+        "in",
+        "innovation-growth",
+        "money",
+        "or",
+        "price",
+        "representing",
+        "revenue",
+        "symbol"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-001.png"
+      },
+      "bbox_emu": {
+        "x": 98250,
+        "y": 939526,
+        "width": 1107207,
+        "height": 1107131
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-006",
+      "name": "Financial Shield",
+      "semantic_name": "financial-shield",
+      "description": "Shield with dollar, representing financial protection, insurance, or secure payment.",
+      "alt_text": "Shield with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;4736;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "safety-hse"
+      ],
+      "tags": [
+        "business-finance",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "financial-shield",
+        "innovation-growth",
+        "insurance",
+        "legal-compliance-governance",
+        "or",
+        "payment",
+        "protection",
+        "representing",
+        "safety-hse",
+        "secure",
+        "shield",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-006.png"
+      },
+      "bbox_emu": {
+        "x": 5527929,
+        "y": 939489,
+        "width": 1107115,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-017",
+      "name": "Money Plant",
+      "semantic_name": "money-plant",
+      "description": "Dollar coin with leaves, representing investment growth, value creation, or sustainable finance.",
+      "alt_text": "Dollar coin with leaves.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;4869;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "industrial-equipment",
+        "innovation-growth",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "business-finance",
+        "coin",
+        "commerce-innovation-growth",
+        "creation",
+        "digital-it-security",
+        "dollar",
+        "finance",
+        "growth",
+        "industrial-equipment",
+        "innovation-growth",
+        "investment",
+        "leaves",
+        "money-plant",
+        "or",
+        "representing",
+        "sustainability-environment",
+        "sustainable",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-017.png"
+      },
+      "bbox_emu": {
+        "x": 5532719,
+        "y": 2025463,
+        "width": 1097535,
+        "height": 1107214
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-018",
+      "name": "Cursor Money Growth",
+      "semantic_name": "cursor-money-growth",
+      "description": "Cursor arrow pointing to dollar, representing conversion, online revenue, or digital opportunity.",
+      "alt_text": "Cursor arrow pointing to dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;4730;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "arrow",
+        "business-finance",
+        "commerce-innovation-growth",
+        "conversion",
+        "cursor",
+        "cursor-money-growth",
+        "digital",
+        "digital-it-security",
+        "dollar",
+        "innovation-growth",
+        "online",
+        "opportunity",
+        "or",
+        "pointing",
+        "representing",
+        "revenue",
+        "to"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-018.png"
+      },
+      "bbox_emu": {
+        "x": 6613810,
+        "y": 2025416,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-022",
+      "name": "Location Money",
+      "semantic_name": "location-money",
+      "description": "Map pin with dollar, representing location-based pricing, regional finance, or market value.",
+      "alt_text": "Map pin with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;4883;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "based",
+        "business-finance",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "dollar",
+        "finance",
+        "innovation-growth",
+        "location",
+        "location-money",
+        "map",
+        "market",
+        "or",
+        "pin",
+        "pricing",
+        "regional",
+        "representing",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-022.png"
+      },
+      "bbox_emu": {
+        "x": 10957917,
+        "y": 2027232,
+        "width": 1107204,
+        "height": 1103574
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-027",
+      "name": "Invoice Writing",
+      "semantic_name": "invoice-writing",
+      "description": "Receipt or invoice with pen, representing billing, invoicing, or financial documentation.",
+      "alt_text": "Receipt or invoice with pen.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Group 1"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth"
+      ],
+      "tags": [
+        "billing",
+        "business-finance",
+        "commerce-innovation-growth",
+        "design-creative-assets",
+        "digital-it-security",
+        "documentation",
+        "documents-files-records",
+        "financial",
+        "innovation-growth",
+        "invoice",
+        "invoice-writing",
+        "invoicing",
+        "or",
+        "pen",
+        "receipt",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-027.png"
+      },
+      "bbox_emu": {
+        "x": 4441956,
+        "y": 3111343,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-028",
+      "name": "Dollar Lightbulb",
+      "semantic_name": "dollar-lightbulb",
+      "description": "Light bulb with dollar, representing monetization idea, commercial innovation, or value concept.",
+      "alt_text": "Light bulb with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;4748;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "bulb",
+        "business-finance",
+        "commerce-innovation-growth",
+        "commercial",
+        "concept",
+        "digital-it-security",
+        "dollar",
+        "dollar-lightbulb",
+        "idea",
+        "innovation",
+        "innovation-growth",
+        "light",
+        "monetization",
+        "or",
+        "representing",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-028.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 3151872,
+        "width": 1107206,
+        "height": 1026147
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-035",
+      "name": "Monitor Dollar",
+      "semantic_name": "monitor-dollar",
+      "description": "Monitor with dollar, representing online finance, e-commerce, or digital payment.",
+      "alt_text": "Monitor with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;4733;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "digital",
+        "digital-it-security",
+        "dollar",
+        "e",
+        "finance",
+        "innovation-growth",
+        "monitor",
+        "monitor-dollar",
+        "online",
+        "or",
+        "payment",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-035.png"
+      },
+      "bbox_emu": {
+        "x": 1193975,
+        "y": 4197270,
+        "width": 1087604,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-038",
+      "name": "Coins Dollar",
+      "semantic_name": "coins-dollar",
+      "description": "Coin stack with dollar, representing savings, investment, revenue, or budget.",
+      "alt_text": "Coin stack with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;4834;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "budget",
+        "business-finance",
+        "coin",
+        "coins-dollar",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "dollar",
+        "innovation-growth",
+        "investment",
+        "or",
+        "representing",
+        "revenue",
+        "savings",
+        "stack",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-038.png"
+      },
+      "bbox_emu": {
+        "x": 4581495,
+        "y": 4197268,
+        "width": 827919,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-039",
+      "name": "Calendar Finance",
+      "semantic_name": "calendar-finance",
+      "description": "Calendar with dollar, representing billing schedule, payroll date, or financial planning.",
+      "alt_text": "Calendar with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;4886;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "time-scheduling"
+      ],
+      "tags": [
+        "billing",
+        "business-finance",
+        "calendar",
+        "calendar-finance",
+        "commerce-innovation-growth",
+        "date",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "innovation-growth",
+        "or",
+        "payroll",
+        "planning",
+        "representing",
+        "schedule",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-039.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 4207767,
+        "width": 1107206,
+        "height": 1086213
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-040",
+      "name": "Bank Building",
+      "semantic_name": "bank-building",
+      "description": "Bank building, representing banking, finance, institution, or treasury.",
+      "alt_text": "Bank building.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;4740;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "innovation-growth"
+      ],
+      "tags": [
+        "bank",
+        "bank-building",
+        "banking",
+        "building",
+        "business-finance",
+        "commerce-innovation-growth",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "finance",
+        "innovation-growth",
+        "institution",
+        "or",
+        "representing",
+        "treasury"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-040.png"
+      },
+      "bbox_emu": {
+        "x": 6615050,
+        "y": 4197270,
+        "width": 1104723,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-041",
+      "name": "Payment Card",
+      "semantic_name": "payment-card",
+      "description": "Payment card, representing payment method, benefits card, or transaction.",
+      "alt_text": "Payment card.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;4776;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "benefits",
+        "business-finance",
+        "card",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "innovation-growth",
+        "method",
+        "or",
+        "payment",
+        "payment-card",
+        "representing",
+        "transaction"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-041.png"
+      },
+      "bbox_emu": {
+        "x": 7702187,
+        "y": 4197270,
+        "width": 1102307,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-042",
+      "name": "Insurance Umbrella",
+      "semantic_name": "insurance-umbrella",
+      "description": "Umbrella with dollar, representing insurance, protection, or financial coverage.",
+      "alt_text": "Umbrella with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;4811;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "safety-hse"
+      ],
+      "tags": [
+        "business-finance",
+        "commerce-innovation-growth",
+        "coverage",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "innovation-growth",
+        "insurance",
+        "insurance-umbrella",
+        "or",
+        "protection",
+        "representing",
+        "safety-hse",
+        "umbrella",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-042.png"
+      },
+      "bbox_emu": {
+        "x": 8785664,
+        "y": 4242447,
+        "width": 1107206,
+        "height": 1016852
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-043",
+      "name": "Financial Segmentation",
+      "semantic_name": "financial-segmentation",
+      "description": "Circular segments with dollar, representing budget allocation, portfolio, or cost distribution.",
+      "alt_text": "Circular segments with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;4846;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "allocation",
+        "budget",
+        "business-finance",
+        "circular",
+        "commerce-innovation-growth",
+        "cost",
+        "digital-it-security",
+        "distribution",
+        "dollar",
+        "financial-segmentation",
+        "innovation-growth",
+        "or",
+        "portfolio",
+        "representing",
+        "segments",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-043.png"
+      },
+      "bbox_emu": {
+        "x": 9874039,
+        "y": 4197220,
+        "width": 1102311,
+        "height": 1107200
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-045",
+      "name": "Commerce Innovation Growth Icon 045",
+      "semantic_name": "commerce-innovation-growth-icon-045",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 045: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 045: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;4752;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "045",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-045",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-045.png"
+      },
+      "bbox_emu": {
+        "x": 98247,
+        "y": 5283197,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-046",
+      "name": "Commerce Innovation Growth Icon 046",
+      "semantic_name": "commerce-innovation-growth-icon-046",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 046: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 046: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;4787;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "046",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-046",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-046.png"
+      },
+      "bbox_emu": {
+        "x": 1188783,
+        "y": 5283197,
+        "width": 1097989,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-047",
+      "name": "Commerce Innovation Growth Icon 047",
+      "semantic_name": "commerce-innovation-growth-icon-047",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 047: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 047: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;4821;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "047",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-047",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-047.png"
+      },
+      "bbox_emu": {
+        "x": 2270102,
+        "y": 5423139,
+        "width": 1107206,
+        "height": 827318
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-048",
+      "name": "Commerce Innovation Growth Icon 048",
+      "semantic_name": "commerce-innovation-growth-icon-048",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 048: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 048: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;4866;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "048",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-048",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-048.png"
+      },
+      "bbox_emu": {
+        "x": 3434015,
+        "y": 5283189,
+        "width": 951234,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-049",
+      "name": "Commerce Innovation Growth Icon 049",
+      "semantic_name": "commerce-innovation-growth-icon-049",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 049: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 049: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;4907;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "049",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-049",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-049.png"
+      },
+      "bbox_emu": {
+        "x": 4441769,
+        "y": 5287915,
+        "width": 1107207,
+        "height": 1097766
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-050",
+      "name": "Commerce Innovation Growth Icon 050",
+      "semantic_name": "commerce-innovation-growth-icon-050",
+      "description": "Commerce, Innovation & Growth icon for commerce innovation growth icon 050: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "alt_text": "Commerce, Innovation & Growth icon for commerce innovation growth icon 050: Commerce, growth, innovation, strategy, achievement, rewards, or business development icon.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Google Shape;4824;p59"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "innovation-growth",
+        "office-corporate",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "050",
+        "achievement",
+        "business",
+        "business-finance",
+        "commerce",
+        "commerce-innovation-growth",
+        "commerce-innovation-growth-icon-050",
+        "development",
+        "for",
+        "growth",
+        "icon",
+        "innovation",
+        "innovation-growth",
+        "office-corporate",
+        "or",
+        "rewards",
+        "rewards-recognition",
+        "strategy"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-050.png"
+      },
+      "bbox_emu": {
+        "x": 5540645,
+        "y": 5283239,
+        "width": 1085131,
+        "height": 1107211
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

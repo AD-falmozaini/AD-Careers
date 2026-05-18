@@ -1,0 +1,4392 @@
+{
+  "group_slug": "learning-education",
+  "description": "Learning, training, education, science, books, knowledge, and development.",
+  "count": 85,
+  "icons": [
+    {
+      "id": "energy-oil-gas-004",
+      "name": "Chemical Lab Vessels",
+      "semantic_name": "chemical-lab-vessels",
+      "description": "Laboratory flask and cylinder, representing chemical testing, fluid analysis, or lab operations.",
+      "alt_text": "Laboratory flask and cylinder.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Group 7"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "industrial-equipment",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "analysis",
+        "analytics-reporting",
+        "and",
+        "chemical",
+        "chemical-lab-vessels",
+        "cylinder",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "flask",
+        "fluid",
+        "industrial-equipment",
+        "lab",
+        "laboratory",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "representing",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-004.png"
+      },
+      "bbox_emu": {
+        "x": 3928986,
+        "y": 822988,
+        "width": 1021849,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-007",
+      "name": "Laboratory Flask",
+      "semantic_name": "laboratory-flask",
+      "description": "Chemistry flask with liquid, representing testing, analysis, or laboratory research.",
+      "alt_text": "Chemistry flask with liquid.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Group 10"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "analysis",
+        "analytics-reporting",
+        "chemistry",
+        "design-creative-assets",
+        "digital-it-security",
+        "energy-oil-gas",
+        "flask",
+        "laboratory",
+        "laboratory-flask",
+        "learning-education",
+        "liquid",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "research",
+        "testing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-007.png"
+      },
+      "bbox_emu": {
+        "x": 7294910,
+        "y": 992248,
+        "width": 1069998,
+        "height": 731480
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-010",
+      "name": "Partnership Handshake",
+      "semantic_name": "partnership-handshake",
+      "description": "Handshake, representing partnership, vendor relationship, collaboration, or agreement.",
+      "alt_text": "Handshake.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Group 13"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "agreement",
+        "collaboration",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "handshake",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "partnership",
+        "partnership-handshake",
+        "relationship",
+        "representing",
+        "vendor"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-010.png"
+      },
+      "bbox_emu": {
+        "x": 10684910,
+        "y": 877822,
+        "width": 1070001,
+        "height": 960332
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-026",
+      "name": "Molecule Network",
+      "semantic_name": "molecule-network",
+      "description": "Molecular network, representing chemistry, hydrocarbons, molecules, or process science.",
+      "alt_text": "Molecular network.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Group 29"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "chemistry",
+        "energy-oil-gas",
+        "hydrocarbons",
+        "learning-education",
+        "molecular",
+        "molecule-network",
+        "molecules",
+        "network",
+        "oil-gas-energy",
+        "or",
+        "process",
+        "representing",
+        "science"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-026.png"
+      },
+      "bbox_emu": {
+        "x": 6248318,
+        "y": 3022988,
+        "width": 903183,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-028",
+      "name": "Laboratory Shelf",
+      "semantic_name": "laboratory-shelf",
+      "description": "Lab shelf with flasks, representing laboratory testing, samples, or chemical storage.",
+      "alt_text": "Lab shelf with flasks.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 31"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "learning-education",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "chemical",
+        "digital-it-security",
+        "energy-oil-gas",
+        "flasks",
+        "industrial-equipment",
+        "lab",
+        "laboratory",
+        "laboratory-shelf",
+        "learning-education",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "samples",
+        "shelf",
+        "storage",
+        "testing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-028.png"
+      },
+      "bbox_emu": {
+        "x": 8497294,
+        "y": 3022988,
+        "width": 925233,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-045",
+      "name": "Oil Document Certificate",
+      "semantic_name": "oil-document-certificate",
+      "description": "Document with oil symbol, representing petroleum report, certificate, permit, or compliance record.",
+      "alt_text": "Document with oil symbol.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Group 48"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "certificate",
+        "compliance",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "energy-oil-gas",
+        "learning-education",
+        "legal-compliance-governance",
+        "oil",
+        "oil-document-certificate",
+        "oil-gas-energy",
+        "or",
+        "permit",
+        "petroleum",
+        "record",
+        "report",
+        "representing",
+        "rewards-recognition",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-045.png"
+      },
+      "bbox_emu": {
+        "x": 5044264,
+        "y": 5222988,
+        "width": 1051293,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-016",
+      "name": "Team Network",
+      "semantic_name": "team-network",
+      "description": "Connected people network, representing team structure, collaboration, or organizational relationships.",
+      "alt_text": "Connected people network.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Group 19"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "collaboration",
+        "connected",
+        "learning-education",
+        "logistics-transport",
+        "network",
+        "offshore-marine",
+        "or",
+        "organizational",
+        "people",
+        "people-hr-workforce",
+        "relationships",
+        "representing",
+        "structure",
+        "team",
+        "team-network"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-016.png"
+      },
+      "bbox_emu": {
+        "x": 6177313,
+        "y": 2031349,
+        "width": 975195,
+        "height": 991307
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-019",
+      "name": "Financial Education",
+      "semantic_name": "financial-education",
+      "description": "Person and money board, representing finance training, compensation education, or payroll guidance.",
+      "alt_text": "Person and money board.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Group 16"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "learning-education",
+        "logistics-transport",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "and",
+        "board",
+        "business-finance",
+        "business-finance-analytics",
+        "compensation",
+        "design-creative-assets",
+        "education",
+        "finance",
+        "financial-education",
+        "guidance",
+        "learning-education",
+        "logistics-transport",
+        "money",
+        "or",
+        "payroll",
+        "people-hr-workforce",
+        "person",
+        "representing",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-019.png"
+      },
+      "bbox_emu": {
+        "x": 9564374,
+        "y": 2031349,
+        "width": 979473,
+        "height": 990179
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-021",
+      "name": "Award Certificate",
+      "semantic_name": "award-certificate",
+      "description": "Certificate with award seal and check mark, representing certification, approval, compliance, or achievement.",
+      "alt_text": "Certificate with award seal and check mark.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Group 25"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "analytics-reporting",
+        "and",
+        "approval",
+        "award",
+        "award-certificate",
+        "business-finance",
+        "business-finance-analytics",
+        "certificate",
+        "certification",
+        "check",
+        "compliance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "mark",
+        "or",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-021.png"
+      },
+      "bbox_emu": {
+        "x": 548878,
+        "y": 3131349,
+        "width": 1009304,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-028",
+      "name": "Business Discussion",
+      "semantic_name": "business-discussion",
+      "description": "People with speech bubbles, representing meetings, collaboration, or team discussion.",
+      "alt_text": "People with speech bubbles.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 33",
+        "Freeform 628"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "learning-education",
+        "logistics-transport",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bubbles",
+        "business-discussion",
+        "business-finance",
+        "business-finance-analytics",
+        "collaboration",
+        "digital-it-security",
+        "discussion",
+        "learning-education",
+        "logistics-transport",
+        "meetings",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "representing",
+        "speech",
+        "team",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-028.png"
+      },
+      "bbox_emu": {
+        "x": 8428530,
+        "y": 3227302,
+        "width": 1070000,
+        "height": 878092
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-043",
+      "name": "Notebook Pencil",
+      "semantic_name": "notebook-pencil",
+      "description": "Notebook with pencil, representing notes, planning, documentation, or learning.",
+      "alt_text": "Notebook with pencil.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Group 3"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "design-creative-assets",
+        "digital-it-security",
+        "documentation",
+        "documents-files-records",
+        "learning",
+        "learning-education",
+        "logistics-transport",
+        "notebook",
+        "notebook-pencil",
+        "notes",
+        "or",
+        "pencil",
+        "planning",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-043.png"
+      },
+      "bbox_emu": {
+        "x": 2924944,
+        "y": 5331349,
+        "width": 777173,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-007",
+      "name": "Team Group",
+      "semantic_name": "team-group",
+      "description": "Three-person team, representing teamwork, workforce, crew, or collaboration.",
+      "alt_text": "Three-person team.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;8691;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "collaboration",
+        "crew",
+        "learning-education",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "representing",
+        "team",
+        "team-group",
+        "teamwork",
+        "three",
+        "workforce"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-007.png"
+      },
+      "bbox_emu": {
+        "x": 7585740,
+        "y": 924974,
+        "width": 997858,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-008",
+      "name": "Empowerment Fist",
+      "semantic_name": "empowerment-fist",
+      "description": "Raised fist, representing empowerment, strength, engagement, or labor voice.",
+      "alt_text": "Raised fist.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;8744;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "empowerment",
+        "empowerment-fist",
+        "engagement",
+        "fist",
+        "labor",
+        "learning-education",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "raised",
+        "representing",
+        "strength",
+        "voice"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-008.png"
+      },
+      "bbox_emu": {
+        "x": 8711155,
+        "y": 924974,
+        "width": 884109,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-017",
+      "name": "Handshake Agreement",
+      "semantic_name": "handshake-agreement",
+      "description": "Handshake, representing agreement, partnership, collaboration, or employment offer.",
+      "alt_text": "Handshake.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;8738;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "agreement",
+        "collaboration",
+        "design-creative-assets",
+        "employment",
+        "handshake",
+        "handshake-agreement",
+        "learning-education",
+        "logistics-transport",
+        "offer",
+        "offshore-marine",
+        "or",
+        "partnership",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-017.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 2014869,
+        "width": 1107206,
+        "height": 1099266
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-020",
+      "name": "Policy Book Info",
+      "semantic_name": "policy-book-info",
+      "description": "Book with information mark, representing policy, guidebook, handbook, or reference material.",
+      "alt_text": "Book with information mark.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;8694;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "book",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "guidebook",
+        "handbook",
+        "information",
+        "learning-education",
+        "legal-compliance-governance",
+        "mark",
+        "material",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "policy",
+        "policy-book-info",
+        "reference",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-020.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 2014798,
+        "width": 1107206,
+        "height": 1099412
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-024",
+      "name": "Presentation Chart",
+      "semantic_name": "presentation-chart",
+      "description": "Presentation board with bar chart, representing reporting, training, or performance review.",
+      "alt_text": "Presentation board with bar chart.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;8814;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "bar",
+        "board",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "performance",
+        "presentation",
+        "presentation-chart",
+        "reporting",
+        "representing",
+        "review",
+        "training",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-024.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 3096828,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-001",
+      "name": "Presenter Board",
+      "semantic_name": "presenter-board",
+      "description": "Person presenting chart, representing training, briefing, analytics presentation, or instructor.",
+      "alt_text": "Person presenting chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;8244;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "briefing",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "instructor",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "presentation",
+        "presenter-board",
+        "presenting",
+        "representing",
+        "safety-hse",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-001.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 922424,
+        "width": 1107206,
+        "height": 1083273
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-008",
+      "name": "Video Player",
+      "semantic_name": "video-player",
+      "description": "Screen with play button, representing video content, learning media, or digital campaign.",
+      "alt_text": "Screen with play button.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;8330;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "button",
+        "campaign",
+        "content",
+        "design-creative-assets",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "learning",
+        "learning-education",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "play",
+        "representing",
+        "safety-hse",
+        "screen",
+        "video",
+        "video-player",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-008.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 913123,
+        "width": 1107206,
+        "height": 1101880
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-009",
+      "name": "Lab Flask",
+      "semantic_name": "lab-flask",
+      "description": "Lab flask, representing testing, experimentation, or research.",
+      "alt_text": "Lab flask.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;8365;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "digital-it-security",
+        "digital-marketing-security",
+        "experimentation",
+        "flask",
+        "lab",
+        "lab-flask",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "research",
+        "safety-hse",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-009.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 913112,
+        "width": 1107206,
+        "height": 1101897
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-013",
+      "name": "Seo Tag",
+      "semantic_name": "seo-tag",
+      "description": "Tag labeled SEO, representing search engine optimization or metadata.",
+      "alt_text": "Tag labeled SEO.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;8341;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "digital-it-security",
+        "digital-marketing-security",
+        "engine",
+        "labeled",
+        "learning-education",
+        "marketing-seo-content",
+        "metadata",
+        "optimization",
+        "or",
+        "representing",
+        "safety-hse",
+        "search",
+        "seo",
+        "seo-tag",
+        "tag"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-013.png"
+      },
+      "bbox_emu": {
+        "x": 1226572,
+        "y": 1996387,
+        "width": 1051439,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-033",
+      "name": "Presentation Chart",
+      "semantic_name": "presentation-chart",
+      "description": "Presentation screen with upward chart, representing reporting, analytics, or performance review.",
+      "alt_text": "Presentation screen with upward chart.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;8311;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "marketing-seo-content",
+        "or",
+        "performance",
+        "presentation",
+        "presentation-chart",
+        "reporting",
+        "representing",
+        "review",
+        "safety-hse",
+        "screen",
+        "upward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-033.png"
+      },
+      "bbox_emu": {
+        "x": 10974297,
+        "y": 3082314,
+        "width": 1102664,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-011",
+      "name": "Book Bookmark",
+      "semantic_name": "book-bookmark",
+      "description": "Book with bookmark, representing knowledge, guide, catalog, or learning resource.",
+      "alt_text": "Book with bookmark.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;4743;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education"
+      ],
+      "tags": [
+        "book",
+        "book-bookmark",
+        "bookmark",
+        "catalog",
+        "commerce-innovation-growth",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "guide",
+        "innovation-growth",
+        "knowledge",
+        "learning",
+        "learning-education",
+        "or",
+        "representing",
+        "resource",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-011.png"
+      },
+      "bbox_emu": {
+        "x": 10957519,
+        "y": 942553,
+        "width": 1107206,
+        "height": 1101073
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-016",
+      "name": "Presentation Growth",
+      "semantic_name": "presentation-growth",
+      "description": "Presentation board with rising line, representing growth report, progress, or performance.",
+      "alt_text": "Presentation board with rising line.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;4758;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "board",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "documents-files-records",
+        "growth",
+        "innovation-growth",
+        "learning-education",
+        "line",
+        "or",
+        "performance",
+        "presentation",
+        "presentation-growth",
+        "progress",
+        "report",
+        "representing",
+        "rising",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-016.png"
+      },
+      "bbox_emu": {
+        "x": 4442731,
+        "y": 2025421,
+        "width": 1105652,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-037",
+      "name": "Certificate Award",
+      "semantic_name": "certificate-award",
+      "description": "Certificate with seal, representing certification, achievement, or qualification.",
+      "alt_text": "Certificate with seal.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;4804;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "legal-compliance-governance",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "certificate",
+        "certificate-award",
+        "certification",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "qualification",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-037.png"
+      },
+      "bbox_emu": {
+        "x": 3359694,
+        "y": 4197270,
+        "width": 1099872,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-001",
+      "name": "Contact Book",
+      "semantic_name": "contact-book",
+      "description": "Contact book with person, representing contacts, directory, or candidate profile records.",
+      "alt_text": "Contact book with person.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;6536;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "book",
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "contact",
+        "contact-book",
+        "contacts",
+        "digital-it-security",
+        "directory",
+        "documents-files-records",
+        "learning-education",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "profile",
+        "records",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-001.png"
+      },
+      "bbox_emu": {
+        "x": 186080,
+        "y": 895946,
+        "width": 931540,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-008",
+      "name": "Address Book",
+      "semantic_name": "address-book",
+      "description": "Address book with phone, representing contact directory, phone list, or HR records.",
+      "alt_text": "Address book with phone.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;6611;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "address",
+        "address-book",
+        "book",
+        "communication-hr-support",
+        "communication-support",
+        "contact",
+        "digital-it-security",
+        "directory",
+        "documents-files-records",
+        "hr",
+        "learning-education",
+        "list",
+        "or",
+        "people-hr-workforce",
+        "phone",
+        "records",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-008.png"
+      },
+      "bbox_emu": {
+        "x": 7723339,
+        "y": 895946,
+        "width": 1060003,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-031",
+      "name": "Support 24 Hours",
+      "semantic_name": "support-24-hours",
+      "description": "24-hour support cycle, representing always-on support, service availability, or round-the-clock help.",
+      "alt_text": "24-hour support cycle.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;6664;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "learning-education",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "24",
+        "always",
+        "availability",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "cycle",
+        "digital-it-security",
+        "help",
+        "hour",
+        "learning-education",
+        "on",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "round",
+        "service",
+        "support",
+        "support-24-hours",
+        "the",
+        "time-scheduling"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-031.png"
+      },
+      "bbox_emu": {
+        "x": 8785664,
+        "y": 3068350,
+        "width": 1107206,
+        "height": 1106105
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-005",
+      "name": "Notebook Design",
+      "semantic_name": "notebook-design",
+      "description": "Notebook with design mark, representing sketchbook, notes, or creative documentation.",
+      "alt_text": "Notebook with design mark.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Google Shape;5872;p61"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education"
+      ],
+      "tags": [
+        "creative",
+        "design",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "documentation",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "mark",
+        "notebook",
+        "notebook-design",
+        "notes",
+        "or",
+        "representing",
+        "sketchbook",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-005.png"
+      },
+      "bbox_emu": {
+        "x": 4470985,
+        "y": 866918,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-007",
+      "name": "Image Easel",
+      "semantic_name": "image-easel",
+      "description": "Picture on easel, representing artwork, presentation, visual design, or gallery.",
+      "alt_text": "Picture on easel.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;5763;p61"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education"
+      ],
+      "tags": [
+        "artwork",
+        "design",
+        "design-creative-assets",
+        "design-creative-files",
+        "documents-files-records",
+        "easel",
+        "gallery",
+        "image-easel",
+        "innovation-growth",
+        "learning-education",
+        "on",
+        "or",
+        "picture",
+        "presentation",
+        "representing",
+        "visual"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-007.png"
+      },
+      "bbox_emu": {
+        "x": 6642999,
+        "y": 870723,
+        "width": 1107205,
+        "height": 1099611
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-001",
+      "name": "Alarm Clock",
+      "semantic_name": "alarm-clock",
+      "description": "Alarm clock, representing time, reminders, or schedule.",
+      "alt_text": "Alarm clock.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;6251;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "time-scheduling"
+      ],
+      "tags": [
+        "alarm",
+        "alarm-clock",
+        "clock",
+        "education-science-general",
+        "learning-education",
+        "or",
+        "reminders",
+        "representing",
+        "schedule",
+        "time",
+        "time-scheduling"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-001.png"
+      },
+      "bbox_emu": {
+        "x": 178685,
+        "y": 968518,
+        "width": 975358,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-002",
+      "name": "Speech Bubble",
+      "semantic_name": "speech-bubble",
+      "description": "Speech bubble with dots, representing conversation, comments, or messaging.",
+      "alt_text": "Speech bubble with dots.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;6268;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "learning-education"
+      ],
+      "tags": [
+        "bubble",
+        "comments",
+        "communication-support",
+        "conversation",
+        "digital-it-security",
+        "dots",
+        "education-science-general",
+        "learning-education",
+        "messaging",
+        "or",
+        "representing",
+        "speech",
+        "speech-bubble",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-002.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 998095,
+        "width": 1107206,
+        "height": 1048048
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-003",
+      "name": "Video Player",
+      "semantic_name": "video-player",
+      "description": "Video player screen, representing e-learning, video content, or media.",
+      "alt_text": "Video player screen.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;6291;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "learning-education",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "content",
+        "design-creative-assets",
+        "e",
+        "education-science-general",
+        "learning",
+        "learning-education",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "player",
+        "representing",
+        "screen",
+        "video",
+        "video-player"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-003.png"
+      },
+      "bbox_emu": {
+        "x": 2284748,
+        "y": 979467,
+        "width": 1107205,
+        "height": 1085263
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-004",
+      "name": "Apple Education",
+      "semantic_name": "apple-education",
+      "description": "Apple, representing education, learning, health, or school.",
+      "alt_text": "Apple.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;6311;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "apple",
+        "apple-education",
+        "digital-it-security",
+        "education",
+        "education-science-general",
+        "health",
+        "health-wellbeing-medical",
+        "learning",
+        "learning-education",
+        "or",
+        "representing",
+        "school"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-004.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 972466,
+        "width": 1107206,
+        "height": 1099309
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-005",
+      "name": "Doorway",
+      "semantic_name": "doorway",
+      "description": "Doorway, representing entry, access, opening, or opportunity.",
+      "alt_text": "Doorway.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Google Shape;6340;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "access",
+        "design-creative-assets",
+        "digital-it-security",
+        "doorway",
+        "education-science-general",
+        "entry",
+        "learning-education",
+        "legal-compliance-governance",
+        "opening",
+        "opportunity",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-005.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 974586,
+        "width": 1107206,
+        "height": 1095070
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-006",
+      "name": "Lightbulb",
+      "semantic_name": "lightbulb",
+      "description": "Light bulb, representing idea, learning, or knowledge.",
+      "alt_text": "Light bulb.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;6254;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "innovation-growth",
+      "use_groups": [
+        "innovation-growth",
+        "learning-education"
+      ],
+      "tags": [
+        "bulb",
+        "education-science-general",
+        "idea",
+        "innovation-growth",
+        "knowledge",
+        "learning",
+        "learning-education",
+        "light",
+        "lightbulb",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-006.png"
+      },
+      "bbox_emu": {
+        "x": 5544887,
+        "y": 968518,
+        "width": 1102226,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-007",
+      "name": "Hand Cursor",
+      "semantic_name": "hand-cursor",
+      "description": "Hand cursor, representing click, selection, or digital interaction.",
+      "alt_text": "Hand cursor.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;6281;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education"
+      ],
+      "tags": [
+        "click",
+        "cursor",
+        "digital",
+        "digital-it-security",
+        "education-science-general",
+        "hand",
+        "hand-cursor",
+        "interaction",
+        "learning-education",
+        "or",
+        "representing",
+        "selection"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-007.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 971886,
+        "width": 1107206,
+        "height": 1100469
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-008",
+      "name": "Paint Palette",
+      "semantic_name": "paint-palette",
+      "description": "Paint palette, representing art, creativity, or design.",
+      "alt_text": "Paint palette.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;6298;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education"
+      ],
+      "tags": [
+        "art",
+        "creativity",
+        "design",
+        "design-creative-assets",
+        "digital-it-security",
+        "education-science-general",
+        "learning-education",
+        "or",
+        "paint",
+        "paint-palette",
+        "palette",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-008.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 1012641,
+        "width": 1107206,
+        "height": 1018956
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-009",
+      "name": "Atom Science",
+      "semantic_name": "atom-science",
+      "description": "Atom, representing science, research, or technology.",
+      "alt_text": "Atom.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;6316;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "atom",
+        "atom-science",
+        "education-science-general",
+        "learning-education",
+        "or",
+        "representing",
+        "research",
+        "science",
+        "technology"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-009.png"
+      },
+      "bbox_emu": {
+        "x": 8732174,
+        "y": 974373,
+        "width": 1006064,
+        "height": 1108132
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-010",
+      "name": "Medal Award",
+      "semantic_name": "medal-award",
+      "description": "Medal with star, representing achievement, award, or certification.",
+      "alt_text": "Medal with star.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;6348;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "award",
+        "certification",
+        "digital-it-security",
+        "education-science-general",
+        "learning-education",
+        "medal",
+        "medal-award",
+        "or",
+        "representing",
+        "rewards-recognition",
+        "star",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-010.png"
+      },
+      "bbox_emu": {
+        "x": 9929872,
+        "y": 968542,
+        "width": 1019401,
+        "height": 1107210
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-011",
+      "name": "Laptop Cursor",
+      "semantic_name": "laptop-cursor",
+      "description": "Laptop with cursor, representing online learning, digital work, or web interaction.",
+      "alt_text": "Laptop with cursor.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;6264;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education"
+      ],
+      "tags": [
+        "cursor",
+        "digital",
+        "digital-it-security",
+        "education-science-general",
+        "interaction",
+        "laptop",
+        "laptop-cursor",
+        "learning",
+        "learning-education",
+        "online",
+        "or",
+        "representing",
+        "web",
+        "with",
+        "work"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-011.png"
+      },
+      "bbox_emu": {
+        "x": 11158666,
+        "y": 968518,
+        "width": 733939,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-012",
+      "name": "Magnet",
+      "semantic_name": "magnet",
+      "description": "Magnet, representing attraction, talent attraction, or science.",
+      "alt_text": "Magnet.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;6284;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "attraction",
+        "education-science-general",
+        "learning-education",
+        "magnet",
+        "or",
+        "recruitment-talent",
+        "representing",
+        "science",
+        "talent"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-012.png"
+      },
+      "bbox_emu": {
+        "x": 248470,
+        "y": 2054445,
+        "width": 835789,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-013",
+      "name": "Laboratory Flask",
+      "semantic_name": "laboratory-flask",
+      "description": "Lab flask, representing science, chemistry, or experimentation.",
+      "alt_text": "Lab flask.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;6301;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "chemistry",
+        "education-science-general",
+        "experimentation",
+        "flask",
+        "lab",
+        "laboratory-flask",
+        "learning-education",
+        "or",
+        "representing",
+        "science"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-013.png"
+      },
+      "bbox_emu": {
+        "x": 1199927,
+        "y": 2054445,
+        "width": 1104729,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-014",
+      "name": "Clipboard Check",
+      "semantic_name": "clipboard-check",
+      "description": "Clipboard with check, representing task completion, assessment, or approval.",
+      "alt_text": "Clipboard with check.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;6329;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "approval",
+        "assessment",
+        "check",
+        "clipboard",
+        "clipboard-check",
+        "completion",
+        "digital-it-security",
+        "documents-files-records",
+        "education-science-general",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "recruitment-talent",
+        "representing",
+        "task",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-014.png"
+      },
+      "bbox_emu": {
+        "x": 2418107,
+        "y": 2054445,
+        "width": 840223,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-015",
+      "name": "Football",
+      "semantic_name": "football",
+      "description": "American football, representing sports, recreation, or teamwork.",
+      "alt_text": "American football.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;6355;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "american",
+        "education-science-general",
+        "football",
+        "learning-education",
+        "or",
+        "people-hr-workforce",
+        "recreation",
+        "representing",
+        "sports",
+        "teamwork"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-015.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 2069012,
+        "width": 1107206,
+        "height": 1078068
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-016",
+      "name": "Briefcase",
+      "semantic_name": "briefcase",
+      "description": "Briefcase, representing work, business, or career.",
+      "alt_text": "Briefcase.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;6267;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "health-wellbeing-medical",
+      "use_groups": [
+        "health-wellbeing-medical",
+        "learning-education",
+        "logistics-transport"
+      ],
+      "tags": [
+        "briefcase",
+        "business",
+        "career",
+        "education-science-general",
+        "health-wellbeing-medical",
+        "learning-education",
+        "logistics-transport",
+        "or",
+        "representing",
+        "work"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-016.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 2057508,
+        "width": 1107206,
+        "height": 1101079
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-017",
+      "name": "Bus",
+      "semantic_name": "bus",
+      "description": "Bus, representing transportation, commuting, or logistics.",
+      "alt_text": "Bus.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;6334;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "logistics-transport"
+      ],
+      "tags": [
+        "bus",
+        "commuting",
+        "education-science-general",
+        "learning-education",
+        "logistics",
+        "logistics-transport",
+        "or",
+        "representing",
+        "transportation"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-017.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 2067602,
+        "width": 1107206,
+        "height": 1080892
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-018",
+      "name": "Home Clock",
+      "semantic_name": "home-clock",
+      "description": "House with clock, representing time at home, remote schedule, or work-life timing.",
+      "alt_text": "House with clock.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;6252;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "facilities-workplace",
+        "learning-education",
+        "time-scheduling"
+      ],
+      "tags": [
+        "at",
+        "clock",
+        "digital-it-security",
+        "education-science-general",
+        "facilities-workplace",
+        "home",
+        "home-clock",
+        "house",
+        "learning-education",
+        "life",
+        "or",
+        "remote",
+        "representing",
+        "schedule",
+        "time",
+        "time-scheduling",
+        "timing",
+        "with",
+        "work"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-018.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 2111499,
+        "width": 1107206,
+        "height": 993097
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-019",
+      "name": "Trophy",
+      "semantic_name": "trophy",
+      "description": "Trophy, representing success, competition, or recognition.",
+      "alt_text": "Trophy.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;6272;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "learning-education",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "competition",
+        "digital-it-security",
+        "education-science-general",
+        "learning-education",
+        "or",
+        "recognition",
+        "representing",
+        "rewards-recognition",
+        "success",
+        "trophy"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-019.png"
+      },
+      "bbox_emu": {
+        "x": 7752942,
+        "y": 2054445,
+        "width": 1029820,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-020",
+      "name": "Certificate",
+      "semantic_name": "certificate",
+      "description": "Certificate card, representing qualification, completion, or credential.",
+      "alt_text": "Certificate card.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;6296;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "card",
+        "certificate",
+        "completion",
+        "credential",
+        "documents-files-records",
+        "education-science-general",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "qualification",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-020.png"
+      },
+      "bbox_emu": {
+        "x": 8864012,
+        "y": 2054445,
+        "width": 979534,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-021",
+      "name": "Dumbbell",
+      "semantic_name": "dumbbell",
+      "description": "Dumbbell, representing fitness, strength, or wellbeing.",
+      "alt_text": "Dumbbell.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;6312;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "dumbbell",
+        "education-science-general",
+        "fitness",
+        "health-wellbeing-medical",
+        "learning-education",
+        "or",
+        "representing",
+        "strength",
+        "wellbeing"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-021.png"
+      },
+      "bbox_emu": {
+        "x": 9886238,
+        "y": 2056461,
+        "width": 1107205,
+        "height": 1103174
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-022",
+      "name": "Magnifying Glass",
+      "semantic_name": "magnifying-glass",
+      "description": "Magnifying glass, representing search, discovery, or inspection.",
+      "alt_text": "Magnifying glass.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;6341;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "discovery",
+        "education-science-general",
+        "glass",
+        "inspection",
+        "learning-education",
+        "magnifying",
+        "magnifying-glass",
+        "or",
+        "representing",
+        "search"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-022.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 2161004,
+        "width": 1107206,
+        "height": 894083
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-023",
+      "name": "Education Science General Icon 023",
+      "semantic_name": "education-science-general-icon-023",
+      "description": "Education, Science & General Objects icon for education science general icon 023: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 023: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Google Shape;6259;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "023",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-023",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-023.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 3170029,
+        "width": 1107206,
+        "height": 1047891
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-024",
+      "name": "Education Science General Icon 024",
+      "semantic_name": "education-science-general-icon-024",
+      "description": "Education, Science & General Objects icon for education science general icon 024: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 024: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;6282;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "024",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-024",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-024.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 3221034,
+        "width": 1107206,
+        "height": 945882
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-025",
+      "name": "Education Science General Icon 025",
+      "semantic_name": "education-science-general-icon-025",
+      "description": "Education, Science & General Objects icon for education science general icon 025: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 025: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;6321;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "025",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-025",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-025.png"
+      },
+      "bbox_emu": {
+        "x": 2325007,
+        "y": 3140372,
+        "width": 1026148,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-026",
+      "name": "Education Science General Icon 026",
+      "semantic_name": "education-science-general-icon-026",
+      "description": "Education, Science & General Objects icon for education science general icon 026: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 026: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;6366;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "026",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-026",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-026.png"
+      },
+      "bbox_emu": {
+        "x": 3508930,
+        "y": 3140372,
+        "width": 830427,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-027",
+      "name": "Education Science General Icon 027",
+      "semantic_name": "education-science-general-icon-027",
+      "description": "Education, Science & General Objects icon for education science general icon 027: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 027: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Google Shape;6253;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "027",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-027",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-027.png"
+      },
+      "bbox_emu": {
+        "x": 4805915,
+        "y": 3133131,
+        "width": 1088525,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-028",
+      "name": "Education Science General Icon 028",
+      "semantic_name": "education-science-general-icon-028",
+      "description": "Education, Science & General Objects icon for education science general icon 028: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 028: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;6299;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "028",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-028",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-028.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 3147608,
+        "width": 1107206,
+        "height": 1092729
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-029",
+      "name": "Education Science General Icon 029",
+      "semantic_name": "education-science-general-icon-029",
+      "description": "Education, Science & General Objects icon for education science general icon 029: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 029: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;6351;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "029",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-029",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-029.png"
+      },
+      "bbox_emu": {
+        "x": 7780380,
+        "y": 3140380,
+        "width": 974944,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-030",
+      "name": "Education Science General Icon 030",
+      "semantic_name": "education-science-general-icon-030",
+      "description": "Education, Science & General Objects icon for education science general icon 030: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 030: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;6265;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "030",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-030",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-030.png"
+      },
+      "bbox_emu": {
+        "x": 8861567,
+        "y": 3140372,
+        "width": 984429,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-031",
+      "name": "Education Science General Icon 031",
+      "semantic_name": "education-science-general-icon-031",
+      "description": "Education, Science & General Objects icon for education science general icon 031: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 031: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;6286;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "031",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-031",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-031.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 3166728,
+        "width": 1107206,
+        "height": 1054505
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-032",
+      "name": "Education Science General Icon 032",
+      "semantic_name": "education-science-general-icon-032",
+      "description": "Education, Science & General Objects icon for education science general icon 032: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 032: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;6302;p62"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "032",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-032",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-032.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 3141387,
+        "width": 1107206,
+        "height": 1105176
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-033",
+      "name": "Education Science General Icon 033",
+      "semantic_name": "education-science-general-icon-033",
+      "description": "Education, Science & General Objects icon for education science general icon 033: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 033: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;6332;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "033",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-033",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-033.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 4227074,
+        "width": 1107206,
+        "height": 1105652
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-034",
+      "name": "Education Science General Icon 034",
+      "semantic_name": "education-science-general-icon-034",
+      "description": "Education, Science & General Objects icon for education science general icon 034: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 034: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;6359;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "034",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-034",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-034.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 4400557,
+        "width": 1107206,
+        "height": 758690
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-035",
+      "name": "Education Science General Icon 035",
+      "semantic_name": "education-science-general-icon-035",
+      "description": "Education, Science & General Objects icon for education science general icon 035: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 035: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;6290;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "035",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-035",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-035.png"
+      },
+      "bbox_emu": {
+        "x": 2396484,
+        "y": 4226299,
+        "width": 883470,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-036",
+      "name": "Education Science General Icon 036",
+      "semantic_name": "education-science-general-icon-036",
+      "description": "Education, Science & General Objects icon for education science general icon 036: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 036: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;6275;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "036",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-036",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-036.png"
+      },
+      "bbox_emu": {
+        "x": 3370677,
+        "y": 4227491,
+        "width": 1107205,
+        "height": 1104800
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-037",
+      "name": "Education Science General Icon 037",
+      "semantic_name": "education-science-general-icon-037",
+      "description": "Education, Science & General Objects icon for education science general icon 037: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 037: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;6297;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "037",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-037",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-037.png"
+      },
+      "bbox_emu": {
+        "x": 4459902,
+        "y": 4226299,
+        "width": 1100341,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-038",
+      "name": "Education Science General Icon 038",
+      "semantic_name": "education-science-general-icon-038",
+      "description": "Education, Science & General Objects icon for education science general icon 038: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 038: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;6315;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "038",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-038",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-038.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 4230330,
+        "width": 1107206,
+        "height": 1099144
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-039",
+      "name": "Education Science General Icon 039",
+      "semantic_name": "education-science-general-icon-039",
+      "description": "Education, Science & General Objects icon for education science general icon 039: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 039: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;6344;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "039",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-039",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-039.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 4228700,
+        "width": 1107206,
+        "height": 1102405
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-040",
+      "name": "Education Science General Icon 040",
+      "semantic_name": "education-science-general-icon-040",
+      "description": "Education, Science & General Objects icon for education science general icon 040: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 040: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;6263;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "040",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-040",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-040.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 4230312,
+        "width": 1107206,
+        "height": 1099181
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-041",
+      "name": "Education Science General Icon 041",
+      "semantic_name": "education-science-general-icon-041",
+      "description": "Education, Science & General Objects icon for education science general icon 041: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 041: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;6283;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "041",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-041",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-041.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 4230477,
+        "width": 1107206,
+        "height": 1098846
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-042",
+      "name": "Education Science General Icon 042",
+      "semantic_name": "education-science-general-icon-042",
+      "description": "Education, Science & General Objects icon for education science general icon 042: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 042: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;6300;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "042",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-042",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-042.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 4226341,
+        "width": 1107206,
+        "height": 1107123
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-043",
+      "name": "Education Science General Icon 043",
+      "semantic_name": "education-science-general-icon-043",
+      "description": "Education, Science & General Objects icon for education science general icon 043: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 043: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;6326;p62"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 11
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "043",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-043",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-043.png"
+      },
+      "bbox_emu": {
+        "x": 10972159,
+        "y": 4229949,
+        "width": 1107205,
+        "height": 1099926
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-044",
+      "name": "Education Science General Icon 044",
+      "semantic_name": "education-science-general-icon-044",
+      "description": "Education, Science & General Objects icon for education science general icon 044: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 044: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Google Shape;6354;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "044",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-044",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-044.png"
+      },
+      "bbox_emu": {
+        "x": 114549,
+        "y": 5312226,
+        "width": 1103627,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-045",
+      "name": "Education Science General Icon 045",
+      "semantic_name": "education-science-general-icon-045",
+      "description": "Education, Science & General Objects icon for education science general icon 045: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 045: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;6266;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "045",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-045",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-045.png"
+      },
+      "bbox_emu": {
+        "x": 1251312,
+        "y": 5306995,
+        "width": 1103944,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-046",
+      "name": "Education Science General Icon 046",
+      "semantic_name": "education-science-general-icon-046",
+      "description": "Education, Science & General Objects icon for education science general icon 046: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 046: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;6285;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "046",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-046",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-046.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 5312226,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-047",
+      "name": "Education Science General Icon 047",
+      "semantic_name": "education-science-general-icon-047",
+      "description": "Education, Science & General Objects icon for education science general icon 047: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 047: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;6289;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "047",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-047",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-047.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 5386725,
+        "width": 1107206,
+        "height": 958208
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-048",
+      "name": "Education Science General Icon 048",
+      "semantic_name": "education-science-general-icon-048",
+      "description": "Education, Science & General Objects icon for education science general icon 048: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 048: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;6305;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "048",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-048",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-048.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 5314703,
+        "width": 1107206,
+        "height": 1102253
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-049",
+      "name": "Education Science General Icon 049",
+      "semantic_name": "education-science-general-icon-049",
+      "description": "Education, Science & General Objects icon for education science general icon 049: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 049: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;6333;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "049",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-049",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-049.png"
+      },
+      "bbox_emu": {
+        "x": 5746410,
+        "y": 5312226,
+        "width": 699181,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-050",
+      "name": "Education Science General Icon 050",
+      "semantic_name": "education-science-general-icon-050",
+      "description": "Education, Science & General Objects icon for education science general icon 050: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 050: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Google Shape;6365;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 7
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "050",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-050",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-050.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 5326463,
+        "width": 1107206,
+        "height": 1078729
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-051",
+      "name": "Education Science General Icon 051",
+      "semantic_name": "education-science-general-icon-051",
+      "description": "Education, Science & General Objects icon for education science general icon 051: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "alt_text": "Education, Science & General Objects icon for education science general icon 051: Learning, education, science, training, knowledge, lab, or general object icon.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 51,
+      "source_shape_names": [
+        "Google Shape;6308;p62"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 8
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education"
+      ],
+      "tags": [
+        "051",
+        "education",
+        "education-science-general",
+        "education-science-general-icon-051",
+        "for",
+        "general",
+        "icon",
+        "knowledge",
+        "lab",
+        "learning",
+        "learning-education",
+        "object",
+        "objects",
+        "or",
+        "science",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-051.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 5330790,
+        "width": 1107206,
+        "height": 1070079
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-003",
+      "name": "Test Tube",
+      "semantic_name": "test-tube",
+      "description": "Test tube, representing lab testing, medical sample, or diagnostics.",
+      "alt_text": "Test tube.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;7069;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "diagnostics",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "lab",
+        "learning-education",
+        "medical",
+        "or",
+        "representing",
+        "sample",
+        "test",
+        "test-tube",
+        "testing",
+        "tube"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-003.png"
+      },
+      "bbox_emu": {
+        "x": 2342557,
+        "y": 924975,
+        "width": 991324,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-007",
+      "name": "Atom Medical Science",
+      "semantic_name": "atom-medical-science",
+      "description": "Atom symbol, representing medical science, research, or health technology.",
+      "alt_text": "Atom symbol.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;7035;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "atom",
+        "atom-medical-science",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "learning-education",
+        "medical",
+        "or",
+        "representing",
+        "research",
+        "science",
+        "symbol",
+        "technology"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-007.png"
+      },
+      "bbox_emu": {
+        "x": 6628590,
+        "y": 926311,
+        "width": 1107203,
+        "height": 1104534
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-025",
+      "name": "Lab Flask Medical",
+      "semantic_name": "lab-flask-medical",
+      "description": "Laboratory flask, representing medical testing, diagnostics, or lab research.",
+      "alt_text": "Laboratory flask.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;7078;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "diagnostics",
+        "drilling-rigs-wells",
+        "flask",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "lab",
+        "lab-flask-medical",
+        "laboratory",
+        "learning-education",
+        "medical",
+        "or",
+        "representing",
+        "research",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-025.png"
+      },
+      "bbox_emu": {
+        "x": 2656092,
+        "y": 3096829,
+        "width": 1107206,
+        "height": 1052036
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-027",
+      "name": "Medical Book",
+      "semantic_name": "medical-book",
+      "description": "Medical book with cross, representing health guidance, medical reference, or policy.",
+      "alt_text": "Medical book with cross.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Google Shape;7125;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "book",
+        "cross",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "guidance",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "learning-education",
+        "legal-compliance-governance",
+        "medical",
+        "medical-book",
+        "or",
+        "policy",
+        "reference",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-027.png"
+      },
+      "bbox_emu": {
+        "x": 5281680,
+        "y": 3096829,
+        "width": 1104617,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-012",
+      "name": "Trainer Presentation",
+      "semantic_name": "trainer-presentation",
+      "description": "Person presenting board, representing training, safety briefing, or instructor-led session.",
+      "alt_text": "Person presenting board.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Group 111"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "learning-education",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "board",
+        "briefing",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "instructor",
+        "learning-education",
+        "led",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "presenting",
+        "representing",
+        "safety",
+        "safety-hse",
+        "session",
+        "trainer-presentation",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-012.png"
+      },
+      "bbox_emu": {
+        "x": 1295169,
+        "y": 2864600,
+        "width": 1107207,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

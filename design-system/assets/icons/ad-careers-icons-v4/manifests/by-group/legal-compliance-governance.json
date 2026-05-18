@@ -1,0 +1,1730 @@
+{
+  "group_slug": "legal-compliance-governance",
+  "description": "Legal, compliance, governance, policies, approvals, and controls.",
+  "count": 31,
+  "icons": [
+    {
+      "id": "energy-oil-gas-045",
+      "name": "Oil Document Certificate",
+      "semantic_name": "oil-document-certificate",
+      "description": "Document with oil symbol, representing petroleum report, certificate, permit, or compliance record.",
+      "alt_text": "Document with oil symbol.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Group 48"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "certificate",
+        "compliance",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "energy-oil-gas",
+        "learning-education",
+        "legal-compliance-governance",
+        "oil",
+        "oil-document-certificate",
+        "oil-gas-energy",
+        "or",
+        "permit",
+        "petroleum",
+        "record",
+        "report",
+        "representing",
+        "rewards-recognition",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-045.png"
+      },
+      "bbox_emu": {
+        "x": 5044264,
+        "y": 5222988,
+        "width": 1051293,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-017",
+      "name": "Form Pencil",
+      "semantic_name": "form-pencil",
+      "description": "Form with pencil, representing application forms, surveys, checklists, or data entry.",
+      "alt_text": "Form with pencil.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Group 18"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "application",
+        "business-finance",
+        "business-finance-analytics",
+        "checklists",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "entry",
+        "form",
+        "form-pencil",
+        "forms",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "or",
+        "pencil",
+        "representing",
+        "surveys",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-017.png"
+      },
+      "bbox_emu": {
+        "x": 7298530,
+        "y": 2031349,
+        "width": 1070000,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-021",
+      "name": "Award Certificate",
+      "semantic_name": "award-certificate",
+      "description": "Certificate with award seal and check mark, representing certification, approval, compliance, or achievement.",
+      "alt_text": "Certificate with award seal and check mark.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Group 25"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "analytics-reporting",
+        "and",
+        "approval",
+        "award",
+        "award-certificate",
+        "business-finance",
+        "business-finance-analytics",
+        "certificate",
+        "certification",
+        "check",
+        "compliance",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "mark",
+        "or",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-021.png"
+      },
+      "bbox_emu": {
+        "x": 548878,
+        "y": 3131349,
+        "width": 1009304,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-026",
+      "name": "Financial Visibility",
+      "semantic_name": "financial-visibility",
+      "description": "Eye with dollar, representing financial visibility, cost transparency, or audit awareness.",
+      "alt_text": "Eye with dollar.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Group 35"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "audit",
+        "awareness",
+        "business-finance",
+        "business-finance-analytics",
+        "cost",
+        "digital-it-security",
+        "dollar",
+        "eye",
+        "financial",
+        "financial-visibility",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "or",
+        "representing",
+        "transparency",
+        "visibility",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-026.png"
+      },
+      "bbox_emu": {
+        "x": 6168530,
+        "y": 3383262,
+        "width": 1070000,
+        "height": 566174
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-044",
+      "name": "Report Check Analysis",
+      "semantic_name": "report-check-analysis",
+      "description": "Report with check mark and chart, representing verified analytics, audit, or approved report.",
+      "alt_text": "Report with check mark and chart.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Group 4"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics",
+        "analytics-reporting",
+        "and",
+        "approved",
+        "audit",
+        "business-finance",
+        "business-finance-analytics",
+        "chart",
+        "check",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "logistics-transport",
+        "mark",
+        "or",
+        "report",
+        "report-check-analysis",
+        "representing",
+        "verified",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-044.png"
+      },
+      "bbox_emu": {
+        "x": 3931538,
+        "y": 5331350,
+        "width": 939239,
+        "height": 980938
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-004",
+      "name": "Employee Id Card",
+      "semantic_name": "employee-id-card",
+      "description": "Printed employee ID card, representing identity, access, badge, or candidate profile.",
+      "alt_text": "Printed employee ID card.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;8761;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "candidate",
+        "card",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "employee-id-card",
+        "id",
+        "identity",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "printed",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-004.png"
+      },
+      "bbox_emu": {
+        "x": 3891851,
+        "y": 924981,
+        "width": 1099392,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-006",
+      "name": "Employee Shield",
+      "semantic_name": "employee-shield",
+      "description": "Person inside shield, representing employee protection, trust, security, or compliance.",
+      "alt_text": "Person inside shield.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;8796;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "compliance",
+        "digital-it-security",
+        "employee",
+        "employee-shield",
+        "inside",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "protection",
+        "representing",
+        "safety-hse",
+        "security",
+        "shield",
+        "trust"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-006.png"
+      },
+      "bbox_emu": {
+        "x": 6350983,
+        "y": 926297,
+        "width": 1107207,
+        "height": 1104545
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-009",
+      "name": "Id Badge",
+      "semantic_name": "id-badge",
+      "description": "ID badge, representing employee credentials, access, or official identification.",
+      "alt_text": "ID badge.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;8770;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "legal-compliance-governance",
+      "use_groups": [
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "credentials",
+        "employee",
+        "id",
+        "id-badge",
+        "identification",
+        "legal-compliance-governance",
+        "official",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-009.png"
+      },
+      "bbox_emu": {
+        "x": 9722822,
+        "y": 926265,
+        "width": 1107206,
+        "height": 1104624
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-011",
+      "name": "Checklist Document",
+      "semantic_name": "checklist-document",
+      "description": "Checklist document with pencil, representing tasks, assessment, onboarding, or compliance checklist.",
+      "alt_text": "Checklist document with pencil.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;8809;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "assessment",
+        "checklist",
+        "checklist-document",
+        "compliance",
+        "design-creative-assets",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "onboarding",
+        "or",
+        "pencil",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "tasks",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-011.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 2131332,
+        "width": 1107206,
+        "height": 866282
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-020",
+      "name": "Policy Book Info",
+      "semantic_name": "policy-book-info",
+      "description": "Book with information mark, representing policy, guidebook, handbook, or reference material.",
+      "alt_text": "Book with information mark.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;8694;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "book",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "guidebook",
+        "handbook",
+        "information",
+        "learning-education",
+        "legal-compliance-governance",
+        "mark",
+        "material",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "policy",
+        "policy-book-info",
+        "reference",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-020.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 2014798,
+        "width": 1107206,
+        "height": 1099412
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-029",
+      "name": "Strategy Checklist",
+      "semantic_name": "strategy-checklist",
+      "description": "Clipboard with strategy marks, representing planning, goals, or action checklist.",
+      "alt_text": "Clipboard with strategy marks.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;8730;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "action",
+        "checklist",
+        "clipboard",
+        "digital-it-security",
+        "documents-files-records",
+        "goals",
+        "legal-compliance-governance",
+        "marks",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "planning",
+        "representing",
+        "strategy",
+        "strategy-checklist",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-029.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 3098120,
+        "width": 1107206,
+        "height": 1104618
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-007",
+      "name": "Task Checklist",
+      "semantic_name": "task-checklist",
+      "description": "Clipboard checklist, representing tasks, QA, campaign checklist, or compliance steps.",
+      "alt_text": "Clipboard checklist.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;8283;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "campaign",
+        "checklist",
+        "clipboard",
+        "compliance",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "or",
+        "qa",
+        "representing",
+        "safety-hse",
+        "steps",
+        "task-checklist",
+        "tasks"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-007.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 910460,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-018",
+      "name": "Browser Security",
+      "semantic_name": "browser-security",
+      "description": "Browser with shield, representing web security, protected site, or cybersecurity.",
+      "alt_text": "Browser with shield.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;8245;p67"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "browser",
+        "browser-security",
+        "cybersecurity",
+        "digital-it-security",
+        "digital-marketing-security",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "or",
+        "protected",
+        "representing",
+        "safety-hse",
+        "security",
+        "shield",
+        "site",
+        "web",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-018.png"
+      },
+      "bbox_emu": {
+        "x": 6628370,
+        "y": 2002947,
+        "width": 1107204,
+        "height": 1094081
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-029",
+      "name": "Verified Database",
+      "semantic_name": "verified-database",
+      "description": "Database with check mark, representing verified data, data integrity, or approved records.",
+      "alt_text": "Database with check mark.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;8299;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "legal-compliance-governance",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "approved",
+        "check",
+        "data",
+        "database",
+        "digital-it-security",
+        "digital-marketing-security",
+        "documents-files-records",
+        "integrity",
+        "legal-compliance-governance",
+        "mark",
+        "marketing-seo-content",
+        "or",
+        "records",
+        "representing",
+        "safety-hse",
+        "verified",
+        "verified-database",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-029.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 3083667,
+        "width": 1107206,
+        "height": 1104499
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-006",
+      "name": "Financial Shield",
+      "semantic_name": "financial-shield",
+      "description": "Shield with dollar, representing financial protection, insurance, or secure payment.",
+      "alt_text": "Shield with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;4736;p59"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "safety-hse"
+      ],
+      "tags": [
+        "business-finance",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "financial-shield",
+        "innovation-growth",
+        "insurance",
+        "legal-compliance-governance",
+        "or",
+        "payment",
+        "protection",
+        "representing",
+        "safety-hse",
+        "secure",
+        "shield",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-006.png"
+      },
+      "bbox_emu": {
+        "x": 5527929,
+        "y": 939489,
+        "width": 1107115,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-023",
+      "name": "Shopping Cart",
+      "semantic_name": "shopping-cart",
+      "description": "Shopping cart with downward arrow, representing purchasing, procurement, or checkout.",
+      "alt_text": "Shopping cart with downward arrow.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Group 4"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "innovation-growth",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "arrow",
+        "cart",
+        "checkout",
+        "commerce-innovation-growth",
+        "design-creative-assets",
+        "digital-it-security",
+        "downward",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "or",
+        "procurement",
+        "purchasing",
+        "representing",
+        "shopping",
+        "shopping-cart",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-023.png"
+      },
+      "bbox_emu": {
+        "x": 98247,
+        "y": 3117211,
+        "width": 1107206,
+        "height": 1095465
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-029",
+      "name": "Id Badge",
+      "semantic_name": "id-badge",
+      "description": "Identification badge, representing employee ID, candidate profile, or access credential.",
+      "alt_text": "Identification badge.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;4780;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "access",
+        "badge",
+        "candidate",
+        "commerce-innovation-growth",
+        "credential",
+        "documents-files-records",
+        "employee",
+        "id",
+        "id-badge",
+        "identification",
+        "innovation-growth",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-029.png"
+      },
+      "bbox_emu": {
+        "x": 6613810,
+        "y": 3119912,
+        "width": 1107206,
+        "height": 1090063
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-033",
+      "name": "Gavel Legal",
+      "semantic_name": "gavel-legal",
+      "description": "Gavel, representing legal, compliance, decision, or governance.",
+      "alt_text": "Gavel.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;4790;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "innovation-growth",
+      "use_groups": [
+        "innovation-growth",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "commerce-innovation-growth",
+        "compliance",
+        "decision",
+        "gavel",
+        "gavel-legal",
+        "governance",
+        "innovation-growth",
+        "legal",
+        "legal-compliance-governance",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-033.png"
+      },
+      "bbox_emu": {
+        "x": 10957519,
+        "y": 3125964,
+        "width": 1107206,
+        "height": 1077960
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-037",
+      "name": "Certificate Award",
+      "semantic_name": "certificate-award",
+      "description": "Certificate with seal, representing certification, achievement, or qualification.",
+      "alt_text": "Certificate with seal.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;4804;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "legal-compliance-governance",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "achievement",
+        "certificate",
+        "certificate-award",
+        "certification",
+        "commerce-innovation-growth",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "qualification",
+        "representing",
+        "rewards-recognition",
+        "seal",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-037.png"
+      },
+      "bbox_emu": {
+        "x": 3359694,
+        "y": 4197270,
+        "width": 1099872,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-012",
+      "name": "Checklist Pencil",
+      "semantic_name": "checklist-pencil",
+      "description": "Checklist with pencil, representing tasks, application checklist, or service request tracking.",
+      "alt_text": "Checklist with pencil.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;6589;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "application",
+        "checklist",
+        "checklist-pencil",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "or",
+        "pencil",
+        "people-hr-workforce",
+        "representing",
+        "request",
+        "service",
+        "tasks",
+        "tracking",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-012.png"
+      },
+      "bbox_emu": {
+        "x": 131693,
+        "y": 1981880,
+        "width": 1040315,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-021",
+      "name": "Access Key",
+      "semantic_name": "access-key",
+      "description": "Key, representing access, permission, login, or security credential.",
+      "alt_text": "Key.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;6639;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "access",
+        "access-key",
+        "communication-hr-support",
+        "communication-support",
+        "credential",
+        "digital-it-security",
+        "key",
+        "legal-compliance-governance",
+        "login",
+        "or",
+        "people-hr-workforce",
+        "permission",
+        "representing",
+        "safety-hse",
+        "security"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-021.png"
+      },
+      "bbox_emu": {
+        "x": 9871592,
+        "y": 1983177,
+        "width": 1107206,
+        "height": 1104597
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-024",
+      "name": "Qa Chat",
+      "semantic_name": "qa-chat",
+      "description": "Question and check speech bubbles, representing Q&A, resolved inquiry, or verified answer.",
+      "alt_text": "Question and check speech bubbles.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;6582;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "a",
+        "and",
+        "answer",
+        "bubbles",
+        "check",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "inquiry",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "q",
+        "qa-chat",
+        "question",
+        "representing",
+        "resolved",
+        "speech",
+        "verified"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-024.png"
+      },
+      "bbox_emu": {
+        "x": 1184060,
+        "y": 3071771,
+        "width": 1107207,
+        "height": 1099264
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-005",
+      "name": "Doorway",
+      "semantic_name": "doorway",
+      "description": "Doorway, representing entry, access, opening, or opportunity.",
+      "alt_text": "Doorway.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Google Shape;6340;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "learning-education",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "access",
+        "design-creative-assets",
+        "digital-it-security",
+        "doorway",
+        "education-science-general",
+        "entry",
+        "learning-education",
+        "legal-compliance-governance",
+        "opening",
+        "opportunity",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-005.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 974586,
+        "width": 1107206,
+        "height": 1095070
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-014",
+      "name": "Clipboard Check",
+      "semantic_name": "clipboard-check",
+      "description": "Clipboard with check, representing task completion, assessment, or approval.",
+      "alt_text": "Clipboard with check.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;6329;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "approval",
+        "assessment",
+        "check",
+        "clipboard",
+        "clipboard-check",
+        "completion",
+        "digital-it-security",
+        "documents-files-records",
+        "education-science-general",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "recruitment-talent",
+        "representing",
+        "task",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-014.png"
+      },
+      "bbox_emu": {
+        "x": 2418107,
+        "y": 2054445,
+        "width": 840223,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-020",
+      "name": "Certificate",
+      "semantic_name": "certificate",
+      "description": "Certificate card, representing qualification, completion, or credential.",
+      "alt_text": "Certificate card.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;6296;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "documents-files-records",
+      "use_groups": [
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "card",
+        "certificate",
+        "completion",
+        "credential",
+        "documents-files-records",
+        "education-science-general",
+        "learning-education",
+        "legal-compliance-governance",
+        "or",
+        "qualification",
+        "representing",
+        "rewards-recognition"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-020.png"
+      },
+      "bbox_emu": {
+        "x": 8864012,
+        "y": 2054445,
+        "width": 979534,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-001",
+      "name": "Stethoscope",
+      "semantic_name": "stethoscope",
+      "description": "Stethoscope, representing health check, medical care, or occupational health.",
+      "alt_text": "Stethoscope.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;6978;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "care",
+        "check",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "medical",
+        "occupational",
+        "or",
+        "representing",
+        "stethoscope"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-001.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 1026460,
+        "width": 1107206,
+        "height": 999329
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-019",
+      "name": "Medical Checklist",
+      "semantic_name": "medical-checklist",
+      "description": "Clipboard with pencil, representing medical form, health assessment, or checklist.",
+      "alt_text": "Clipboard with pencil.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;7028;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "assessment",
+        "checklist",
+        "clipboard",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "form",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "medical",
+        "medical-checklist",
+        "or",
+        "pencil",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-019.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 2016426,
+        "width": 1107206,
+        "height": 1096153
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-021",
+      "name": "Health Lock Heart",
+      "semantic_name": "health-lock-heart",
+      "description": "Lock with heart, representing protected health data, medical privacy, or secure wellbeing.",
+      "alt_text": "Lock with heart.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;7101;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-lock-heart",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "heart",
+        "legal-compliance-governance",
+        "lock",
+        "medical",
+        "or",
+        "privacy",
+        "protected",
+        "representing",
+        "safety-hse",
+        "secure",
+        "wellbeing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-021.png"
+      },
+      "bbox_emu": {
+        "x": 9999346,
+        "y": 2010902,
+        "width": 880726,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-027",
+      "name": "Medical Book",
+      "semantic_name": "medical-book",
+      "description": "Medical book with cross, representing health guidance, medical reference, or policy.",
+      "alt_text": "Medical book with cross.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Google Shape;7125;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "book",
+        "cross",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "guidance",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "learning-education",
+        "legal-compliance-governance",
+        "medical",
+        "medical-book",
+        "or",
+        "policy",
+        "reference",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-027.png"
+      },
+      "bbox_emu": {
+        "x": 5281680,
+        "y": 3096829,
+        "width": 1104617,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-003",
+      "name": "Restricted Card",
+      "semantic_name": "restricted-card",
+      "description": "Card with diagonal slash, representing restricted access, blocked item, or prohibition.",
+      "alt_text": "Card with diagonal slash.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Group 6"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "access",
+        "blocked",
+        "card",
+        "diagonal",
+        "digital-it-security",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "item",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "or",
+        "prohibition",
+        "representing",
+        "restricted",
+        "restricted-card",
+        "safety-hse",
+        "slash",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-003.png"
+      },
+      "bbox_emu": {
+        "x": 2625784,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-009",
+      "name": "Oil Clipboard",
+      "semantic_name": "oil-clipboard",
+      "description": "Clipboard with oil drop, representing oil report, inspection checklist, or compliance document.",
+      "alt_text": "Clipboard with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Group 109"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "industrial-equipment",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "checklist",
+        "clipboard",
+        "compliance",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "drop",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inspection",
+        "legal-compliance-governance",
+        "oil",
+        "oil-clipboard",
+        "oil-gas-energy",
+        "or",
+        "report",
+        "representing",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-009.png"
+      },
+      "bbox_emu": {
+        "x": 9683344,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

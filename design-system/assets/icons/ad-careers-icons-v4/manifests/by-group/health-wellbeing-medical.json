@@ -1,0 +1,3072 @@
+{
+  "group_slug": "health-wellbeing-medical",
+  "description": "Health, medical, wellbeing, care, first aid, resilience, and employee wellness.",
+  "count": 58,
+  "icons": [
+    {
+      "id": "business-finance-analytics-040",
+      "name": "Cash Medical Benefit",
+      "semantic_name": "cash-medical-benefit",
+      "description": "Banknote with cross, representing medical benefit, health expense, or insurance payment.",
+      "alt_text": "Banknote with cross.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Group 45"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "health-wellbeing-medical",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "banknote",
+        "benefit",
+        "business-finance",
+        "business-finance-analytics",
+        "cash-medical-benefit",
+        "cross",
+        "design-creative-assets",
+        "digital-it-security",
+        "expense",
+        "health",
+        "health-wellbeing-medical",
+        "insurance",
+        "logistics-transport",
+        "medical",
+        "or",
+        "payment",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-040.png"
+      },
+      "bbox_emu": {
+        "x": 10711149,
+        "y": 4231350,
+        "width": 1024761,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-042",
+      "name": "Idea Speech Bubble",
+      "semantic_name": "idea-speech-bubble",
+      "description": "Light bulb in speech bubble, representing shared ideas, brainstorming, or feedback.",
+      "alt_text": "Light bulb in speech bubble.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Group 2"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "health-wellbeing-medical",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "brainstorming",
+        "bubble",
+        "bulb",
+        "business-finance",
+        "business-finance-analytics",
+        "feedback",
+        "health-wellbeing-medical",
+        "idea-speech-bubble",
+        "ideas",
+        "in",
+        "innovation-growth",
+        "light",
+        "logistics-transport",
+        "or",
+        "representing",
+        "shared",
+        "speech"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-042.png"
+      },
+      "bbox_emu": {
+        "x": 1648530,
+        "y": 5333539,
+        "width": 1070000,
+        "height": 1065619
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-021",
+      "name": "Briefcase Work",
+      "semantic_name": "briefcase-work",
+      "description": "Briefcase, representing work, career, business role, or employment.",
+      "alt_text": "Briefcase.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;8718;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "health-wellbeing-medical",
+      "use_groups": [
+        "health-wellbeing-medical",
+        "logistics-transport",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "briefcase",
+        "briefcase-work",
+        "business",
+        "career",
+        "employment",
+        "health-wellbeing-medical",
+        "logistics-transport",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing",
+        "role",
+        "work"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-021.png"
+      },
+      "bbox_emu": {
+        "x": 11034899,
+        "y": 2010901,
+        "width": 981470,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-012",
+      "name": "Coffee Cup",
+      "semantic_name": "coffee-cup",
+      "description": "Coffee cup, representing break, hospitality, wellbeing, or workplace culture.",
+      "alt_text": "Coffee cup.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;4779;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-workplace",
+        "health-wellbeing-medical",
+        "innovation-growth"
+      ],
+      "tags": [
+        "break",
+        "coffee",
+        "coffee-cup",
+        "commerce-innovation-growth",
+        "culture",
+        "cup",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-workplace",
+        "health-wellbeing-medical",
+        "hospitality",
+        "innovation-growth",
+        "or",
+        "representing",
+        "wellbeing",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-012.png"
+      },
+      "bbox_emu": {
+        "x": 98247,
+        "y": 2031377,
+        "width": 1107206,
+        "height": 1095284
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-008",
+      "name": "Coffee Cup",
+      "semantic_name": "coffee-cup",
+      "description": "Coffee cup, representing creative break, workplace culture, or hospitality.",
+      "alt_text": "Coffee cup.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;5799;p61"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "health-wellbeing-medical",
+        "innovation-growth"
+      ],
+      "tags": [
+        "break",
+        "coffee",
+        "coffee-cup",
+        "creative",
+        "culture",
+        "cup",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "health-wellbeing-medical",
+        "hospitality",
+        "innovation-growth",
+        "or",
+        "representing",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-008.png"
+      },
+      "bbox_emu": {
+        "x": 7728766,
+        "y": 868232,
+        "width": 1107206,
+        "height": 1104577
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-004",
+      "name": "Apple Education",
+      "semantic_name": "apple-education",
+      "description": "Apple, representing education, learning, health, or school.",
+      "alt_text": "Apple.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;6311;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "apple",
+        "apple-education",
+        "digital-it-security",
+        "education",
+        "education-science-general",
+        "health",
+        "health-wellbeing-medical",
+        "learning",
+        "learning-education",
+        "or",
+        "representing",
+        "school"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-004.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 972466,
+        "width": 1107206,
+        "height": 1099309
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-016",
+      "name": "Briefcase",
+      "semantic_name": "briefcase",
+      "description": "Briefcase, representing work, business, or career.",
+      "alt_text": "Briefcase.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;6267;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "health-wellbeing-medical",
+      "use_groups": [
+        "health-wellbeing-medical",
+        "learning-education",
+        "logistics-transport"
+      ],
+      "tags": [
+        "briefcase",
+        "business",
+        "career",
+        "education-science-general",
+        "health-wellbeing-medical",
+        "learning-education",
+        "logistics-transport",
+        "or",
+        "representing",
+        "work"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-016.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 2057508,
+        "width": 1107206,
+        "height": 1101079
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-021",
+      "name": "Dumbbell",
+      "semantic_name": "dumbbell",
+      "description": "Dumbbell, representing fitness, strength, or wellbeing.",
+      "alt_text": "Dumbbell.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;6312;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "dumbbell",
+        "education-science-general",
+        "fitness",
+        "health-wellbeing-medical",
+        "learning-education",
+        "or",
+        "representing",
+        "strength",
+        "wellbeing"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-021.png"
+      },
+      "bbox_emu": {
+        "x": 9886238,
+        "y": 2056461,
+        "width": 1107205,
+        "height": 1103174
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-001",
+      "name": "Stethoscope",
+      "semantic_name": "stethoscope",
+      "description": "Stethoscope, representing health check, medical care, or occupational health.",
+      "alt_text": "Stethoscope.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;6978;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "care",
+        "check",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "medical",
+        "occupational",
+        "or",
+        "representing",
+        "stethoscope"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-001.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 1026460,
+        "width": 1107206,
+        "height": 999329
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-002",
+      "name": "First Aid Kit",
+      "semantic_name": "first-aid-kit",
+      "description": "First aid kit, representing emergency care, first aid, or medical support.",
+      "alt_text": "First aid kit.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;7027;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "aid",
+        "care",
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "emergency",
+        "first",
+        "first-aid-kit",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "kit",
+        "medical",
+        "or",
+        "representing",
+        "safety-hse",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-002.png"
+      },
+      "bbox_emu": {
+        "x": 1253811,
+        "y": 924975,
+        "width": 996958,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-003",
+      "name": "Test Tube",
+      "semantic_name": "test-tube",
+      "description": "Test tube, representing lab testing, medical sample, or diagnostics.",
+      "alt_text": "Test tube.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;7069;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "diagnostics",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "lab",
+        "learning-education",
+        "medical",
+        "or",
+        "representing",
+        "sample",
+        "test",
+        "test-tube",
+        "testing",
+        "tube"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-003.png"
+      },
+      "bbox_emu": {
+        "x": 2342557,
+        "y": 924975,
+        "width": 991324,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-004",
+      "name": "Skin Treatment",
+      "semantic_name": "skin-treatment",
+      "description": "Medical treatment or injection into skin, representing healthcare procedure or treatment.",
+      "alt_text": "Medical treatment or injection into skin.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;7098;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "healthcare",
+        "injection",
+        "into",
+        "medical",
+        "or",
+        "procedure",
+        "representing",
+        "skin",
+        "skin-treatment",
+        "treatment"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-004.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 926263,
+        "width": 1107206,
+        "height": 1104626
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-005",
+      "name": "Blood Pressure Monitor",
+      "semantic_name": "blood-pressure-monitor",
+      "description": "Blood pressure monitor, representing health monitoring or medical screening.",
+      "alt_text": "Blood pressure monitor.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Google Shape;7114;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "blood",
+        "blood-pressure-monitor",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "monitor",
+        "monitoring",
+        "or",
+        "pressure",
+        "representing",
+        "screening"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-005.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 934301,
+        "width": 1107206,
+        "height": 1088553
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-006",
+      "name": "Hand Blood Drop",
+      "semantic_name": "hand-blood-drop",
+      "description": "Hand with blood drop, representing blood test, donation, or health sample.",
+      "alt_text": "Hand with blood drop.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;6986;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "blood",
+        "digital-it-security",
+        "donation",
+        "drilling-rigs-wells",
+        "drop",
+        "hand",
+        "hand-blood-drop",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "or",
+        "representing",
+        "sample",
+        "test",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-006.png"
+      },
+      "bbox_emu": {
+        "x": 5542667,
+        "y": 1102182,
+        "width": 1107203,
+        "height": 752769
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-007",
+      "name": "Atom Medical Science",
+      "semantic_name": "atom-medical-science",
+      "description": "Atom symbol, representing medical science, research, or health technology.",
+      "alt_text": "Atom symbol.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;7035;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "atom",
+        "atom-medical-science",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "learning-education",
+        "medical",
+        "or",
+        "representing",
+        "research",
+        "science",
+        "symbol",
+        "technology"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-007.png"
+      },
+      "bbox_emu": {
+        "x": 6628590,
+        "y": 926311,
+        "width": 1107203,
+        "height": 1104534
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-008",
+      "name": "Mobile Medical",
+      "semantic_name": "mobile-medical",
+      "description": "Mobile phone with medical cross, representing telehealth, mobile health, or health app.",
+      "alt_text": "Mobile phone with medical cross.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;7077;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "app",
+        "communication-support",
+        "cross",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "mobile",
+        "mobile-medical",
+        "or",
+        "phone",
+        "representing",
+        "telehealth",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-008.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 924975,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-009",
+      "name": "Hospital Building",
+      "semantic_name": "hospital-building",
+      "description": "Hospital building, representing healthcare facility, clinic, or medical services.",
+      "alt_text": "Hospital building.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;7103;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-workplace",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "building",
+        "clinic",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-workplace",
+        "facility",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "healthcare",
+        "hospital",
+        "hospital-building",
+        "medical",
+        "or",
+        "representing",
+        "services"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-009.png"
+      },
+      "bbox_emu": {
+        "x": 8842403,
+        "y": 924975,
+        "width": 1022756,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-010",
+      "name": "Ecg Monitor",
+      "semantic_name": "ecg-monitor",
+      "description": "Screen with heartbeat line, representing vital signs, health monitoring, or medical diagnostics.",
+      "alt_text": "Screen with heartbeat line.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;7124;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "diagnostics",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "ecg-monitor",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "heartbeat",
+        "line",
+        "medical",
+        "monitoring",
+        "or",
+        "representing",
+        "screen",
+        "signs",
+        "vital",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-010.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 924975,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-011",
+      "name": "Virus Microbe",
+      "semantic_name": "virus-microbe",
+      "description": "Virus or microbe, representing infection, disease, or health risk.",
+      "alt_text": "Virus or microbe.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;7011;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "disease",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "infection",
+        "microbe",
+        "or",
+        "representing",
+        "risk",
+        "safety-hse",
+        "virus",
+        "virus-microbe"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-011.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 926270,
+        "width": 1107206,
+        "height": 1104616
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-012",
+      "name": "Medicine Package",
+      "semantic_name": "medicine-package",
+      "description": "Medicine blister or package with cross, representing medication, pharmacy, or treatment.",
+      "alt_text": "Medicine blister or package with cross.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;7051;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "blister",
+        "cross",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medication",
+        "medicine",
+        "medicine-package",
+        "or",
+        "package",
+        "pharmacy",
+        "representing",
+        "treatment",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-012.png"
+      },
+      "bbox_emu": {
+        "x": 135028,
+        "y": 2010889,
+        "width": 1062501,
+        "height": 1107204
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-013",
+      "name": "Tooth",
+      "semantic_name": "tooth",
+      "description": "Tooth, representing dental health or dental care.",
+      "alt_text": "Tooth.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;7086;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "care",
+        "dental",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "or",
+        "representing",
+        "tooth"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-013.png"
+      },
+      "bbox_emu": {
+        "x": 1372427,
+        "y": 2010902,
+        "width": 759725,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-014",
+      "name": "Eye Health",
+      "semantic_name": "eye-health",
+      "description": "Eye, representing vision, eye care, or observation.",
+      "alt_text": "Eye.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;7108;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "care",
+        "drilling-rigs-wells",
+        "eye",
+        "eye-health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "observation",
+        "or",
+        "representing",
+        "vision"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-014.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 2012238,
+        "width": 1107206,
+        "height": 1104534
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-015",
+      "name": "Radiation Warning",
+      "semantic_name": "radiation-warning",
+      "description": "Radiation symbol, representing radiation hazard, safety, or medical imaging risk.",
+      "alt_text": "Radiation symbol.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;7136;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "drilling-rigs-wells",
+        "hazard",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "imaging",
+        "medical",
+        "or",
+        "radiation",
+        "radiation-warning",
+        "representing",
+        "risk",
+        "safety",
+        "safety-hse",
+        "symbol"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-015.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 2012190,
+        "width": 1107206,
+        "height": 1104626
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-016",
+      "name": "Toothbrush Toothpaste",
+      "semantic_name": "toothbrush-toothpaste",
+      "description": "Toothbrush and toothpaste, representing dental hygiene or oral care.",
+      "alt_text": "Toothbrush and toothpaste.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;7020;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "and",
+        "care",
+        "dental",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "hygiene",
+        "or",
+        "oral",
+        "representing",
+        "toothbrush",
+        "toothbrush-toothpaste",
+        "toothpaste"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-016.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 2021160,
+        "width": 1107206,
+        "height": 1086662
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-017",
+      "name": "Emergency Siren",
+      "semantic_name": "emergency-siren",
+      "description": "Emergency siren, representing alert, emergency response, or urgent medical support.",
+      "alt_text": "Emergency siren.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;7113;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "alert",
+        "communication-support",
+        "drilling-rigs-wells",
+        "emergency",
+        "emergency-siren",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "or",
+        "representing",
+        "response",
+        "safety-hse",
+        "siren",
+        "support",
+        "urgent"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-017.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 2013513,
+        "width": 1107206,
+        "height": 1101979
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-018",
+      "name": "Medical Record Folder",
+      "semantic_name": "medical-record-folder",
+      "description": "Medical folder with cross, representing health records, patient file, or documentation.",
+      "alt_text": "Medical folder with cross.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;6979;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "cross",
+        "digital-it-security",
+        "documentation",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "file",
+        "folder",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "medical-record-folder",
+        "or",
+        "patient",
+        "records",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-018.png"
+      },
+      "bbox_emu": {
+        "x": 6629655,
+        "y": 2010902,
+        "width": 1104544,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-019",
+      "name": "Medical Checklist",
+      "semantic_name": "medical-checklist",
+      "description": "Clipboard with pencil, representing medical form, health assessment, or checklist.",
+      "alt_text": "Clipboard with pencil.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;7028;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "assessment",
+        "checklist",
+        "clipboard",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "form",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "medical",
+        "medical-checklist",
+        "or",
+        "pencil",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-019.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 2016426,
+        "width": 1107206,
+        "height": 1096153
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-020",
+      "name": "Weight Scale",
+      "semantic_name": "weight-scale",
+      "description": "Scale, representing weight, wellbeing, or health measurement.",
+      "alt_text": "Scale.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;7072;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "measurement",
+        "or",
+        "representing",
+        "scale",
+        "weight",
+        "weight-scale",
+        "wellbeing"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-020.png"
+      },
+      "bbox_emu": {
+        "x": 8800457,
+        "y": 2184570,
+        "width": 1107203,
+        "height": 759895
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-021",
+      "name": "Health Lock Heart",
+      "semantic_name": "health-lock-heart",
+      "description": "Lock with heart, representing protected health data, medical privacy, or secure wellbeing.",
+      "alt_text": "Lock with heart.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;7101;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "legal-compliance-governance",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "data",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-lock-heart",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "heart",
+        "legal-compliance-governance",
+        "lock",
+        "medical",
+        "or",
+        "privacy",
+        "protected",
+        "representing",
+        "safety-hse",
+        "secure",
+        "wellbeing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-021.png"
+      },
+      "bbox_emu": {
+        "x": 9999346,
+        "y": 2010902,
+        "width": 880726,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-022",
+      "name": "Stomach",
+      "semantic_name": "stomach",
+      "description": "Stomach, representing digestive health or medical specialty.",
+      "alt_text": "Stomach.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;7118;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "digestive",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "or",
+        "representing",
+        "specialty",
+        "stomach"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-022.png"
+      },
+      "bbox_emu": {
+        "x": 11031278,
+        "y": 2010902,
+        "width": 988716,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-023",
+      "name": "Brain",
+      "semantic_name": "brain",
+      "description": "Brain, representing mental health, cognition, or wellbeing.",
+      "alt_text": "Brain.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Google Shape;6992;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "brain",
+        "cognition",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "mental",
+        "or",
+        "representing",
+        "wellbeing"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-023.png"
+      },
+      "bbox_emu": {
+        "x": 112851,
+        "y": 3096829,
+        "width": 1107205,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-024",
+      "name": "Healthy Apple",
+      "semantic_name": "healthy-apple",
+      "description": "Apple with heart, representing nutrition, healthy lifestyle, or wellbeing.",
+      "alt_text": "Apple with heart.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;7044;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "apple",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "healthy",
+        "healthy-apple",
+        "heart",
+        "lifestyle",
+        "nutrition",
+        "or",
+        "representing",
+        "sustainability-environment",
+        "wellbeing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-024.png"
+      },
+      "bbox_emu": {
+        "x": 1297410,
+        "y": 3104722,
+        "width": 1107206,
+        "height": 1099313
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-025",
+      "name": "Lab Flask Medical",
+      "semantic_name": "lab-flask-medical",
+      "description": "Laboratory flask, representing medical testing, diagnostics, or lab research.",
+      "alt_text": "Laboratory flask.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;7078;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education"
+      ],
+      "tags": [
+        "diagnostics",
+        "drilling-rigs-wells",
+        "flask",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "lab",
+        "lab-flask-medical",
+        "laboratory",
+        "learning-education",
+        "medical",
+        "or",
+        "representing",
+        "research",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-025.png"
+      },
+      "bbox_emu": {
+        "x": 2656092,
+        "y": 3096829,
+        "width": 1107206,
+        "height": 1052036
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-026",
+      "name": "Bandage",
+      "semantic_name": "bandage",
+      "description": "Bandage, representing injury care, treatment, or first aid.",
+      "alt_text": "Bandage.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;7104;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "aid",
+        "bandage",
+        "care",
+        "drilling-rigs-wells",
+        "first",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "injury",
+        "or",
+        "representing",
+        "treatment"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-026.png"
+      },
+      "bbox_emu": {
+        "x": 3864146,
+        "y": 3130687,
+        "width": 1107206,
+        "height": 1039490
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-027",
+      "name": "Medical Book",
+      "semantic_name": "medical-book",
+      "description": "Medical book with cross, representing health guidance, medical reference, or policy.",
+      "alt_text": "Medical book with cross.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Google Shape;7125;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "learning-education",
+        "legal-compliance-governance"
+      ],
+      "tags": [
+        "book",
+        "cross",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "guidance",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "learning-education",
+        "legal-compliance-governance",
+        "medical",
+        "medical-book",
+        "or",
+        "policy",
+        "reference",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-027.png"
+      },
+      "bbox_emu": {
+        "x": 5281680,
+        "y": 3096829,
+        "width": 1104617,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-028",
+      "name": "Ambulance",
+      "semantic_name": "ambulance",
+      "description": "Ambulance, representing emergency medical transport or response.",
+      "alt_text": "Ambulance.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;7054;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "logistics-transport",
+        "safety-hse"
+      ],
+      "tags": [
+        "ambulance",
+        "drilling-rigs-wells",
+        "emergency",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "logistics-transport",
+        "medical",
+        "or",
+        "representing",
+        "response",
+        "safety-hse",
+        "transport"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-028.png"
+      },
+      "bbox_emu": {
+        "x": 6657280,
+        "y": 3096829,
+        "width": 1049294,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-029",
+      "name": "Medical Cross Heart",
+      "semantic_name": "medical-cross-heart",
+      "description": "Medical cross with heart, representing care, health support, or wellbeing services.",
+      "alt_text": "Medical cross with heart.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;7090;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "care",
+        "communication-support",
+        "cross",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "heart",
+        "medical",
+        "medical-cross-heart",
+        "or",
+        "representing",
+        "services",
+        "support",
+        "wellbeing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-029.png"
+      },
+      "bbox_emu": {
+        "x": 7764128,
+        "y": 3096829,
+        "width": 1007452,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-030",
+      "name": "Xray Spine",
+      "semantic_name": "xray-spine",
+      "description": "X-ray image of spine, representing medical imaging, orthopedics, or diagnostic scan.",
+      "alt_text": "X-ray image of spine.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;7111;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "diagnostic",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "image",
+        "imaging",
+        "medical",
+        "of",
+        "or",
+        "orthopedics",
+        "ray",
+        "representing",
+        "scan",
+        "spine",
+        "x",
+        "xray-spine"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-030.png"
+      },
+      "bbox_emu": {
+        "x": 8802798,
+        "y": 3096829,
+        "width": 1101967,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-031",
+      "name": "Dental Tools",
+      "semantic_name": "dental-tools",
+      "description": "Dental tools, representing dentist, dental care, or oral health.",
+      "alt_text": "Dental tools.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;7141;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "care",
+        "dental",
+        "dental-tools",
+        "dentist",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "or",
+        "oral",
+        "representing",
+        "tools"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-031.png"
+      },
+      "bbox_emu": {
+        "x": 10003916,
+        "y": 3096829,
+        "width": 871585,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-032",
+      "name": "Capsule Pills",
+      "semantic_name": "capsule-pills",
+      "description": "Capsule pills, representing medication, pharmacy, or treatment.",
+      "alt_text": "Capsule pills.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;7065;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "capsule",
+        "capsule-pills",
+        "drilling-rigs-wells",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medication",
+        "or",
+        "pharmacy",
+        "pills",
+        "representing",
+        "treatment"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-032.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 3101111,
+        "width": 1107206,
+        "height": 1098642
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-033",
+      "name": "Health Medical Wellbeing Icon 033",
+      "semantic_name": "health-medical-wellbeing-icon-033",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 033: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 033: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;7147;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "033",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-033",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-033.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 4184092,
+        "width": 1107206,
+        "height": 1104534
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-034",
+      "name": "Health Medical Wellbeing Icon 034",
+      "semantic_name": "health-medical-wellbeing-icon-034",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 034: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 034: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;6982;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "034",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-034",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-034.png"
+      },
+      "bbox_emu": {
+        "x": 1234367,
+        "y": 4182747,
+        "width": 1035639,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-035",
+      "name": "Health Medical Wellbeing Icon 035",
+      "semantic_name": "health-medical-wellbeing-icon-035",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 035: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 035: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;7029;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "035",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-035",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-035.png"
+      },
+      "bbox_emu": {
+        "x": 2460528,
+        "y": 4182756,
+        "width": 755382,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-036",
+      "name": "Health Medical Wellbeing Icon 036",
+      "semantic_name": "health-medical-wellbeing-icon-036",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 036: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 036: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;7076;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "036",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-036",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-036.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 4203080,
+        "width": 1107206,
+        "height": 1066558
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-037",
+      "name": "Health Medical Wellbeing Icon 037",
+      "semantic_name": "health-medical-wellbeing-icon-037",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 037: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 037: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;7102;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "037",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-037",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-037.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 4184044,
+        "width": 1107206,
+        "height": 1104626
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-038",
+      "name": "Health Medical Wellbeing Icon 038",
+      "semantic_name": "health-medical-wellbeing-icon-038",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 038: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 038: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;7121;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "038",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-038",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-038.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 4269848,
+        "width": 1107206,
+        "height": 933019
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-039",
+      "name": "Health Medical Wellbeing Icon 039",
+      "semantic_name": "health-medical-wellbeing-icon-039",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 039: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 039: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;6998;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "039",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-039",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-039.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 4196474,
+        "width": 1107206,
+        "height": 1079767
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-040",
+      "name": "Health Medical Wellbeing Icon 040",
+      "semantic_name": "health-medical-wellbeing-icon-040",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 040: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 040: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;7047;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "040",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-040",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-040.png"
+      },
+      "bbox_emu": {
+        "x": 7801109,
+        "y": 4182756,
+        "width": 933491,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-041",
+      "name": "Health Medical Wellbeing Icon 041",
+      "semantic_name": "health-medical-wellbeing-icon-041",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 041: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 041: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;7085;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "041",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-041",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-041.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 4189542,
+        "width": 1107206,
+        "height": 1093634
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-042",
+      "name": "Health Medical Wellbeing Icon 042",
+      "semantic_name": "health-medical-wellbeing-icon-042",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 042: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 042: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;7107;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "042",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-042",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-042.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 4185166,
+        "width": 1107206,
+        "height": 1102383
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-043",
+      "name": "Health Medical Wellbeing Icon 043",
+      "semantic_name": "health-medical-wellbeing-icon-043",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 043: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 043: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;7135;p64"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 11
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "043",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-043",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-043.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 4311688,
+        "width": 1107206,
+        "height": 849342
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-044",
+      "name": "Health Medical Wellbeing Icon 044",
+      "semantic_name": "health-medical-wellbeing-icon-044",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 044: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 044: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Google Shape;7019;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "044",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-044",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-044.png"
+      },
+      "bbox_emu": {
+        "x": 202052,
+        "y": 5268683,
+        "width": 928625,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-045",
+      "name": "Health Medical Wellbeing Icon 045",
+      "semantic_name": "health-medical-wellbeing-icon-045",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 045: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 045: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;7062;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "045",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-045",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-045.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 5268674,
+        "width": 1107206,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-046",
+      "name": "Health Medical Wellbeing Icon 046",
+      "semantic_name": "health-medical-wellbeing-icon-046",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 046: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 046: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;7093;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "046",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-046",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-046.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 5295786,
+        "width": 1107206,
+        "height": 1053000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-047",
+      "name": "Health Medical Wellbeing Icon 047",
+      "semantic_name": "health-medical-wellbeing-icon-047",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 047: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 047: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;7112;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "047",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-047",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-047.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 5305049,
+        "width": 1107206,
+        "height": 1034474
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-048",
+      "name": "Health Medical Wellbeing Icon 048",
+      "semantic_name": "health-medical-wellbeing-icon-048",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 048: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 048: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;7144;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "048",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-048",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-048.png"
+      },
+      "bbox_emu": {
+        "x": 4456392,
+        "y": 5268683,
+        "width": 1107207,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-049",
+      "name": "Health Medical Wellbeing Icon 049",
+      "semantic_name": "health-medical-wellbeing-icon-049",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 049: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 049: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;7094;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "049",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-049",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-049.png"
+      },
+      "bbox_emu": {
+        "x": 5704437,
+        "y": 5268683,
+        "width": 783353,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-050",
+      "name": "Health Medical Wellbeing Icon 050",
+      "semantic_name": "health-medical-wellbeing-icon-050",
+      "description": "Health, Medical & Wellbeing icon for health medical wellbeing icon 050: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "alt_text": "Health, Medical & Wellbeing icon for health medical wellbeing icon 050: Health, medical, wellbeing, care, emergency, resilience, or employee wellness icon.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Google Shape;7014;p64"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "050",
+        "care",
+        "drilling-rigs-wells",
+        "emergency",
+        "employee",
+        "for",
+        "health",
+        "health-medical-wellbeing",
+        "health-medical-wellbeing-icon-050",
+        "health-wellbeing-medical",
+        "icon",
+        "medical",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "resilience",
+        "safety-hse",
+        "wellbeing",
+        "wellness"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-050.png"
+      },
+      "bbox_emu": {
+        "x": 6905477,
+        "y": 5319422,
+        "width": 928774,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

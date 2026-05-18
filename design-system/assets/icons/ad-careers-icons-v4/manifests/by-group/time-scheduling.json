@@ -1,0 +1,864 @@
+{
+  "group_slug": "time-scheduling",
+  "description": "",
+  "count": 16,
+  "icons": [
+    {
+      "id": "business-finance-analytics-006",
+      "name": "Hourglass Time",
+      "semantic_name": "hourglass-time",
+      "description": "Hourglass, representing timing, deadlines, waiting, or process duration.",
+      "alt_text": "Hourglass.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Group 10"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport",
+        "time-scheduling"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "deadlines",
+        "digital-it-security",
+        "duration",
+        "hourglass",
+        "hourglass-time",
+        "logistics-transport",
+        "or",
+        "process",
+        "representing",
+        "time-scheduling",
+        "timing",
+        "waiting"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-006.png"
+      },
+      "bbox_emu": {
+        "x": 6293759,
+        "y": 931349,
+        "width": 819541,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-020",
+      "name": "Calendar Time",
+      "semantic_name": "calendar-time",
+      "description": "Calendar with clock, representing schedule, deadlines, appointments, or planning.",
+      "alt_text": "Calendar with clock.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Group 15"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "logistics-transport",
+        "time-scheduling"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "appointments",
+        "business-finance",
+        "business-finance-analytics",
+        "calendar",
+        "calendar-time",
+        "clock",
+        "deadlines",
+        "digital-it-security",
+        "logistics-transport",
+        "or",
+        "planning",
+        "representing",
+        "schedule",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-020.png"
+      },
+      "bbox_emu": {
+        "x": 10726877,
+        "y": 2031349,
+        "width": 867042,
+        "height": 932647
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-003",
+      "name": "Time Cycle",
+      "semantic_name": "time-cycle",
+      "description": "Clock with circular arrows, representing shift cycles, schedules, rotation, or time management.",
+      "alt_text": "Clock with circular arrows.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;8735;p68"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "arrows",
+        "circular",
+        "clock",
+        "cycles",
+        "digital-it-security",
+        "management",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing",
+        "rotation",
+        "schedules",
+        "shift",
+        "time",
+        "time-cycle",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-003.png"
+      },
+      "bbox_emu": {
+        "x": 2657082,
+        "y": 927585,
+        "width": 1107205,
+        "height": 1101979
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-019",
+      "name": "Calendar Schedule",
+      "semantic_name": "calendar-schedule",
+      "description": "Calendar with clock, representing scheduling, interviews, roster, or appointments.",
+      "alt_text": "Calendar with clock.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;8801;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "time-scheduling"
+      ],
+      "tags": [
+        "appointments",
+        "calendar",
+        "calendar-schedule",
+        "clock",
+        "digital-it-security",
+        "interviews",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "roster",
+        "scheduling",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-019.png"
+      },
+      "bbox_emu": {
+        "x": 8800171,
+        "y": 2030743,
+        "width": 1107205,
+        "height": 1067538
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-023",
+      "name": "Money Timer",
+      "semantic_name": "money-timer",
+      "description": "Stopwatch with dollar, representing pay timing, cost tracking, or time-related compensation.",
+      "alt_text": "Stopwatch with dollar.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Google Shape;8774;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "design-creative-assets",
+        "digital-it-security",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "business-finance",
+        "compensation",
+        "cost",
+        "design-creative-assets",
+        "digital-it-security",
+        "dollar",
+        "money-timer",
+        "or",
+        "pay",
+        "people-hr-workforce",
+        "people-work-management",
+        "related",
+        "representing",
+        "stopwatch",
+        "time",
+        "time-scheduling",
+        "timing",
+        "tracking",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-023.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 3096828,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-031",
+      "name": "Stopwatch Analytics",
+      "semantic_name": "stopwatch-analytics",
+      "description": "Stopwatch with chart, representing time performance, productivity, or speed metrics.",
+      "alt_text": "Stopwatch with chart.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;4856;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "time-scheduling"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "chart",
+        "commerce-innovation-growth",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "metrics",
+        "or",
+        "performance",
+        "productivity",
+        "representing",
+        "speed",
+        "stopwatch",
+        "stopwatch-analytics",
+        "time",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-031.png"
+      },
+      "bbox_emu": {
+        "x": 8785625,
+        "y": 3111694,
+        "width": 1107201,
+        "height": 1106594
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-032",
+      "name": "Hourglass",
+      "semantic_name": "hourglass",
+      "description": "Hourglass, representing time, waiting, deadlines, or process duration.",
+      "alt_text": "Hourglass.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;4906;p59"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "innovation-growth",
+        "time-scheduling"
+      ],
+      "tags": [
+        "commerce-innovation-growth",
+        "deadlines",
+        "digital-it-security",
+        "duration",
+        "hourglass",
+        "innovation-growth",
+        "or",
+        "process",
+        "representing",
+        "time",
+        "time-scheduling",
+        "waiting"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-032.png"
+      },
+      "bbox_emu": {
+        "x": 9871592,
+        "y": 3220078,
+        "width": 1107206,
+        "height": 889735
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-039",
+      "name": "Calendar Finance",
+      "semantic_name": "calendar-finance",
+      "description": "Calendar with dollar, representing billing schedule, payroll date, or financial planning.",
+      "alt_text": "Calendar with dollar.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;4886;p59"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "innovation-growth",
+        "time-scheduling"
+      ],
+      "tags": [
+        "billing",
+        "business-finance",
+        "calendar",
+        "calendar-finance",
+        "commerce-innovation-growth",
+        "date",
+        "digital-it-security",
+        "dollar",
+        "financial",
+        "innovation-growth",
+        "or",
+        "payroll",
+        "planning",
+        "representing",
+        "schedule",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-039.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 4207767,
+        "width": 1107206,
+        "height": 1086213
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-009",
+      "name": "Calendar Appointment",
+      "semantic_name": "calendar-appointment",
+      "description": "Calendar with clock, representing appointments, interviews, or scheduled events.",
+      "alt_text": "Calendar with clock.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;6647;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "time-scheduling"
+      ],
+      "tags": [
+        "appointments",
+        "calendar",
+        "calendar-appointment",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "events",
+        "interviews",
+        "or",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "representing",
+        "scheduled",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-009.png"
+      },
+      "bbox_emu": {
+        "x": 8790929,
+        "y": 895946,
+        "width": 1096676,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-013",
+      "name": "Hand Watch",
+      "semantic_name": "hand-watch",
+      "description": "Hand holding watch, representing timekeeping, response time, punctuality, or service timing.",
+      "alt_text": "Hand holding watch.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;6617;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "hand",
+        "hand-watch",
+        "holding",
+        "or",
+        "people-hr-workforce",
+        "punctuality",
+        "representing",
+        "response",
+        "service",
+        "time",
+        "time-scheduling",
+        "timekeeping",
+        "timing",
+        "watch"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-013.png"
+      },
+      "bbox_emu": {
+        "x": 1184174,
+        "y": 1981917,
+        "width": 1107206,
+        "height": 1107113
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-020",
+      "name": "Support Desk Time",
+      "semantic_name": "support-desk-time",
+      "description": "Support person with clock, representing helpdesk timing, appointment, or SLA support.",
+      "alt_text": "Support person with clock.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;6601;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "facilities-workplace",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "appointment",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "facilities-workplace",
+        "helpdesk",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "representing",
+        "sla",
+        "support",
+        "support-desk-time",
+        "time-scheduling",
+        "timing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-020.png"
+      },
+      "bbox_emu": {
+        "x": 8786386,
+        "y": 1981873,
+        "width": 1105763,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-031",
+      "name": "Support 24 Hours",
+      "semantic_name": "support-24-hours",
+      "description": "24-hour support cycle, representing always-on support, service availability, or round-the-clock help.",
+      "alt_text": "24-hour support cycle.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;6664;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "learning-education",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "24",
+        "always",
+        "availability",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "cycle",
+        "digital-it-security",
+        "help",
+        "hour",
+        "learning-education",
+        "on",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "round",
+        "service",
+        "support",
+        "support-24-hours",
+        "the",
+        "time-scheduling"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-031.png"
+      },
+      "bbox_emu": {
+        "x": 8785664,
+        "y": 3068350,
+        "width": 1107206,
+        "height": 1106105
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-034",
+      "name": "Clock Time",
+      "semantic_name": "clock-time",
+      "description": "Clock, representing time, schedule, deadlines, or response time.",
+      "alt_text": "Clock.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;6703;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "clock",
+        "clock-time",
+        "communication-hr-support",
+        "communication-support",
+        "deadlines",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "response",
+        "schedule",
+        "time",
+        "time-scheduling"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-034.png"
+      },
+      "bbox_emu": {
+        "x": 98247,
+        "y": 4153727,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-019",
+      "name": "Document Time",
+      "semantic_name": "document-time",
+      "description": "Document with clock, representing timed file, deadline, or scheduled content.",
+      "alt_text": "Document with clock.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;5790;p61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth",
+        "marketing-seo-content",
+        "time-scheduling"
+      ],
+      "tags": [
+        "clock",
+        "content",
+        "deadline",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "document",
+        "document-time",
+        "documents-files-records",
+        "file",
+        "innovation-growth",
+        "marketing-seo-content",
+        "or",
+        "representing",
+        "scheduled",
+        "time-scheduling",
+        "timed",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-019.png"
+      },
+      "bbox_emu": {
+        "x": 9483277,
+        "y": 1955225,
+        "width": 1107206,
+        "height": 1102441
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-001",
+      "name": "Alarm Clock",
+      "semantic_name": "alarm-clock",
+      "description": "Alarm clock, representing time, reminders, or schedule.",
+      "alt_text": "Alarm clock.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;6251;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "learning-education",
+      "use_groups": [
+        "learning-education",
+        "time-scheduling"
+      ],
+      "tags": [
+        "alarm",
+        "alarm-clock",
+        "clock",
+        "education-science-general",
+        "learning-education",
+        "or",
+        "reminders",
+        "representing",
+        "schedule",
+        "time",
+        "time-scheduling"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-001.png"
+      },
+      "bbox_emu": {
+        "x": 178685,
+        "y": 968518,
+        "width": 975358,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-018",
+      "name": "Home Clock",
+      "semantic_name": "home-clock",
+      "description": "House with clock, representing time at home, remote schedule, or work-life timing.",
+      "alt_text": "House with clock.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;6252;p62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "facilities-workplace",
+        "learning-education",
+        "time-scheduling"
+      ],
+      "tags": [
+        "at",
+        "clock",
+        "digital-it-security",
+        "education-science-general",
+        "facilities-workplace",
+        "home",
+        "home-clock",
+        "house",
+        "learning-education",
+        "life",
+        "or",
+        "remote",
+        "representing",
+        "schedule",
+        "time",
+        "time-scheduling",
+        "timing",
+        "with",
+        "work"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-018.png"
+      },
+      "bbox_emu": {
+        "x": 6628324,
+        "y": 2111499,
+        "width": 1107206,
+        "height": 993097
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

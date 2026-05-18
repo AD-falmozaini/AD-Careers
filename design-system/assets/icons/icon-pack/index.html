@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Icon Pack — 148 icons</title>
+  <style>
+    @font-face { font-family: 'Aptos'; src: local('Aptos'), local('Aptos Display'); }
+    :root {
+      --ink: #113D34;
+      --bg: #F6F4EF;
+      --rule: #E2DDD2;
+      --muted: #7A746A;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); font-family: 'Aptos', system-ui, sans-serif; }
+    header {
+      padding: 32px 40px 20px;
+      border-bottom: 1px solid var(--rule);
+      display: flex; align-items: baseline; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+    }
+    h1 { margin: 0; font-size: 22px; font-weight: 600; letter-spacing: -0.01em; }
+    .meta { font-size: 12px; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; }
+    .controls { display: flex; gap: 16px; align-items: center; font-size: 13px; }
+    .controls label { display: flex; gap: 8px; align-items: center; cursor: pointer; }
+    .controls input[type=range] { width: 140px; }
+    .controls .swatch { width: 18px; height: 18px; border-radius: 50%; border: 1px solid var(--rule); cursor: pointer; }
+    .swatch.active { outline: 2px solid var(--ink); outline-offset: 2px; }
+    .grid {
+      padding: 24px 40px 60px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 12px;
+    }
+    .cell {
+      background: #fff;
+      border: 1px solid var(--rule);
+      border-radius: 8px;
+      aspect-ratio: 1;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      padding: 14px;
+      cursor: pointer;
+      transition: border-color .12s, transform .12s;
+      position: relative;
+    }
+    .cell:hover { border-color: var(--ink); transform: translateY(-1px); }
+    .cell svg, .cell img {
+      width: 100%; height: 60%;
+      object-fit: contain;
+    }
+    .cell .id {
+      font-size: 10px; color: var(--muted); margin-top: 6px;
+      font-variant-numeric: tabular-nums; letter-spacing: 0.04em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Icon pack</h1>
+      <div class="meta" id="count">148 icons · brand green</div>
+    </div>
+    <div class="controls">
+      <label>Size <input type="range" id="size" min="80" max="220" value="120" /></label>
+      <span style="display:flex; gap:6px; align-items:center;">
+        Color
+        <span class="swatch active" data-color="#113D34" style="background:#113D34"></span>
+        <span class="swatch" data-color="#0F0F0F" style="background:#0F0F0F"></span>
+        <span class="swatch" data-color="#C26B3E" style="background:#C26B3E"></span>
+        <span class="swatch" data-color="#7A746A" style="background:#7A746A"></span>
+      </span>
+    </div>
+  </header>
+  <div class="grid" id="grid"></div>
+
+<script>
+const grid = document.getElementById('grid');
+const ICONS = Array.from({length:148},(_,i)=>String(i+1).padStart(3,'0'));
+let currentColor = '#113D34';
+
+function makeCell(id, color) {
+  const cell = document.createElement('div');
+  cell.className = 'cell';
+  cell.dataset.id = id;
+  cell.innerHTML = `<div class="ico" style="width:100%;height:60%;display:flex;align-items:center;justify-content:center"></div><div class="id">${id}</div>`;
+  return cell;
+}
+
+async function loadAll() {
+  for (const id of ICONS) {
+    const cell = makeCell(id);
+    grid.appendChild(cell);
+    try {
+      const r = await fetch(`icon-${id}.svg`);
+      const txt = await r.text();
+      cell.querySelector('.ico').innerHTML = txt;
+    } catch(e) {}
+  }
+  recolor(currentColor);
+}
+
+function recolor(color) {
+  document.querySelectorAll('#grid svg path').forEach(p => p.setAttribute('fill', color));
+}
+
+document.getElementById('size').addEventListener('input', e => {
+  grid.style.gridTemplateColumns = `repeat(auto-fill, minmax(${e.target.value}px, 1fr))`;
+});
+
+document.querySelectorAll('.swatch').forEach(s => {
+  s.addEventListener('click', () => {
+    document.querySelectorAll('.swatch').forEach(x => x.classList.remove('active'));
+    s.classList.add('active');
+    currentColor = s.dataset.color;
+    recolor(currentColor);
+  });
+});
+
+document.addEventListener('click', e => {
+  const cell = e.target.closest('.cell');
+  if (!cell) return;
+  const svg = cell.querySelector('svg');
+  if (!svg) return;
+  navigator.clipboard.writeText(svg.outerHTML).then(() => {
+    const old = cell.querySelector('.id').textContent;
+    cell.querySelector('.id').textContent = 'COPIED';
+    setTimeout(() => cell.querySelector('.id').textContent = old, 900);
+  });
+});
+
+loadAll();
+</script>
+</body>
+</html>

@@ -1,0 +1,3592 @@
+{
+  "group_slug": "industrial-equipment",
+  "description": "Industrial machinery, tools, equipment, technical operations, and maintenance.",
+  "count": 64,
+  "icons": [
+    {
+      "id": "energy-oil-gas-001",
+      "name": "Oil Barrel Drop",
+      "semantic_name": "oil-barrel-drop",
+      "description": "Oil barrel with a single oil drop, representing crude oil storage or petroleum resources.",
+      "alt_text": "Oil barrel with a single oil drop.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Group 4"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "a",
+        "analytics-reporting",
+        "barrel",
+        "crude",
+        "digital-it-security",
+        "drop",
+        "energy-oil-gas",
+        "industrial-equipment",
+        "oil",
+        "oil-barrel-drop",
+        "oil-gas-energy",
+        "or",
+        "petroleum",
+        "representing",
+        "resources",
+        "single",
+        "storage",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-001.png"
+      },
+      "bbox_emu": {
+        "x": 634523,
+        "y": 822988,
+        "width": 830772,
+        "height": 1069998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-002",
+      "name": "Pumpjack Oil Well",
+      "semantic_name": "pumpjack-oil-well",
+      "description": "Pumpjack oil well, representing land drilling, oil extraction, or production operations.",
+      "alt_text": "Pumpjack oil well.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Group 5"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "drilling",
+        "drilling-rigs-wells",
+        "energy-oil-gas",
+        "extraction",
+        "industrial-equipment",
+        "land",
+        "oil",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "production",
+        "pumpjack",
+        "pumpjack-oil-well",
+        "representing",
+        "well"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-002.png"
+      },
+      "bbox_emu": {
+        "x": 1644910,
+        "y": 823875,
+        "width": 1069999,
+        "height": 1068225
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-004",
+      "name": "Chemical Lab Vessels",
+      "semantic_name": "chemical-lab-vessels",
+      "description": "Laboratory flask and cylinder, representing chemical testing, fluid analysis, or lab operations.",
+      "alt_text": "Laboratory flask and cylinder.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Group 7"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "industrial-equipment",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "analysis",
+        "analytics-reporting",
+        "and",
+        "chemical",
+        "chemical-lab-vessels",
+        "cylinder",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "flask",
+        "fluid",
+        "industrial-equipment",
+        "lab",
+        "laboratory",
+        "learning-education",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "representing",
+        "testing"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-004.png"
+      },
+      "bbox_emu": {
+        "x": 3928986,
+        "y": 822988,
+        "width": 1021849,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-009",
+      "name": "Oil Drums",
+      "semantic_name": "oil-drums",
+      "description": "Two oil drums, representing petroleum storage, fuel inventory, or industrial materials.",
+      "alt_text": "Two oil drums.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Group 12"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "drums",
+        "energy-oil-gas",
+        "fuel",
+        "industrial",
+        "industrial-equipment",
+        "inventory",
+        "materials",
+        "oil",
+        "oil-drums",
+        "oil-gas-energy",
+        "or",
+        "petroleum",
+        "representing",
+        "storage",
+        "two"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-009.png"
+      },
+      "bbox_emu": {
+        "x": 9589968,
+        "y": 822988,
+        "width": 999884,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-013",
+      "name": "Industrial Burner Nozzle",
+      "semantic_name": "industrial-burner-nozzle",
+      "description": "Industrial torch or burner nozzle, representing gas, heat, combustion, or process equipment.",
+      "alt_text": "Industrial torch or burner nozzle.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Group 21"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "logistics-transport",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "burner",
+        "combustion",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "equipment",
+        "gas",
+        "heat",
+        "industrial",
+        "industrial-burner-nozzle",
+        "industrial-equipment",
+        "logistics-transport",
+        "nozzle",
+        "oil-gas-energy",
+        "or",
+        "process",
+        "representing",
+        "torch"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-013.png"
+      },
+      "bbox_emu": {
+        "x": 2774910,
+        "y": 1957650,
+        "width": 1069999,
+        "height": 1000676
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-014",
+      "name": "Sustainability Hand Plant",
+      "semantic_name": "sustainability-hand-plant",
+      "description": "Hand holding a growing plant, representing sustainability, environmental responsibility, or growth.",
+      "alt_text": "Hand holding a growing plant.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Group 20"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "a",
+        "digital-it-security",
+        "energy-oil-gas",
+        "environmental",
+        "growing",
+        "growth",
+        "hand",
+        "holding",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "or",
+        "plant",
+        "representing",
+        "responsibility",
+        "sustainability",
+        "sustainability-environment",
+        "sustainability-hand-plant"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-014.png"
+      },
+      "bbox_emu": {
+        "x": 3913480,
+        "y": 1922988,
+        "width": 1052858,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-017",
+      "name": "Refinery Factory",
+      "semantic_name": "refinery-factory",
+      "description": "Industrial refinery building, representing processing facilities, plants, or production sites.",
+      "alt_text": "Industrial refinery building.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Group 17"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "building",
+        "design-creative-assets",
+        "digital-it-security",
+        "energy-oil-gas",
+        "facilities",
+        "facilities-workplace",
+        "industrial",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "plants",
+        "processing",
+        "production",
+        "refinery",
+        "refinery-factory",
+        "representing",
+        "sites",
+        "sustainability-environment"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-017.png"
+      },
+      "bbox_emu": {
+        "x": 7294910,
+        "y": 2080800,
+        "width": 1070000,
+        "height": 754377
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-018",
+      "name": "Industrial Faucet Spray",
+      "semantic_name": "industrial-faucet-spray",
+      "description": "Industrial faucet spraying liquid, representing fluid flow, water, chemicals, or process handling.",
+      "alt_text": "Industrial faucet spraying liquid.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Group 16"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "chemicals",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "faucet",
+        "flow",
+        "fluid",
+        "handling",
+        "industrial",
+        "industrial-equipment",
+        "industrial-faucet-spray",
+        "liquid",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "process",
+        "representing",
+        "spraying",
+        "water"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-018.png"
+      },
+      "bbox_emu": {
+        "x": 8505255,
+        "y": 1922988,
+        "width": 909309,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-020",
+      "name": "Storage Dome",
+      "semantic_name": "storage-dome",
+      "description": "Industrial storage dome or tank cap, representing storage infrastructure or terminal equipment.",
+      "alt_text": "Industrial storage dome or tank cap.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Group 14"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "cap",
+        "design-creative-assets",
+        "dome",
+        "energy-oil-gas",
+        "equipment",
+        "industrial",
+        "industrial-equipment",
+        "infrastructure",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "storage",
+        "storage-dome",
+        "tank",
+        "terminal"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-020.png"
+      },
+      "bbox_emu": {
+        "x": 10799373,
+        "y": 1922988,
+        "width": 841072,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-021",
+      "name": "Fire Extinguisher",
+      "semantic_name": "fire-extinguisher",
+      "description": "Fire extinguisher, representing fire safety, emergency readiness, or HSE equipment.",
+      "alt_text": "Fire extinguisher.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Group 24"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "emergency",
+        "energy-oil-gas",
+        "equipment",
+        "extinguisher",
+        "fire",
+        "fire-extinguisher",
+        "hse",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "readiness",
+        "representing",
+        "safety",
+        "safety-hse"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-021.png"
+      },
+      "bbox_emu": {
+        "x": 589977,
+        "y": 3022988,
+        "width": 919864,
+        "height": 1076350
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-022",
+      "name": "Fuel Station Pump",
+      "semantic_name": "fuel-station-pump",
+      "description": "Fuel station pump, representing fuel distribution, refueling, or downstream energy.",
+      "alt_text": "Fuel station pump.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Group 25"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "distribution",
+        "downstream",
+        "energy",
+        "energy-oil-gas",
+        "fuel",
+        "fuel-station-pump",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "pump",
+        "refueling",
+        "representing",
+        "station"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-022.png"
+      },
+      "bbox_emu": {
+        "x": 1644910,
+        "y": 3065841,
+        "width": 1070000,
+        "height": 984293
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-023",
+      "name": "Pressure Gauge",
+      "semantic_name": "pressure-gauge",
+      "description": "Pressure gauge, representing pressure monitoring, instrumentation, or operational control.",
+      "alt_text": "Pressure gauge.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Group 26"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "control",
+        "digital-it-security",
+        "energy-oil-gas",
+        "gauge",
+        "industrial-equipment",
+        "instrumentation",
+        "monitoring",
+        "oil-gas-energy",
+        "operational",
+        "or",
+        "pressure",
+        "pressure-gauge",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-023.png"
+      },
+      "bbox_emu": {
+        "x": 2774910,
+        "y": 3022989,
+        "width": 1070000,
+        "height": 1069998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-024",
+      "name": "Pipeline Valve",
+      "semantic_name": "pipeline-valve",
+      "description": "Pipe valve assembly, representing pipelines, flow control, or utility systems.",
+      "alt_text": "Pipe valve assembly.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Group 27"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "assembly",
+        "control",
+        "digital-it-security",
+        "energy-oil-gas",
+        "flow",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "pipe",
+        "pipeline-valve",
+        "pipelines",
+        "representing",
+        "systems",
+        "utility",
+        "valve"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-024.png"
+      },
+      "bbox_emu": {
+        "x": 3885454,
+        "y": 3128218,
+        "width": 1089456,
+        "height": 878997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-028",
+      "name": "Laboratory Shelf",
+      "semantic_name": "laboratory-shelf",
+      "description": "Lab shelf with flasks, representing laboratory testing, samples, or chemical storage.",
+      "alt_text": "Lab shelf with flasks.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 31"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "learning-education",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "chemical",
+        "digital-it-security",
+        "energy-oil-gas",
+        "flasks",
+        "industrial-equipment",
+        "lab",
+        "laboratory",
+        "laboratory-shelf",
+        "learning-education",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "samples",
+        "shelf",
+        "storage",
+        "testing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-028.png"
+      },
+      "bbox_emu": {
+        "x": 8497294,
+        "y": 3022988,
+        "width": 925233,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-029",
+      "name": "Industrial Drilling Table",
+      "semantic_name": "industrial-drilling-table",
+      "description": "Industrial equipment table or drill unit, representing machinery, process equipment, or drilling support.",
+      "alt_text": "Industrial equipment table or drill unit.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Group 32"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "drill",
+        "drilling",
+        "drilling-rigs-wells",
+        "energy-oil-gas",
+        "equipment",
+        "industrial",
+        "industrial-drilling-table",
+        "industrial-equipment",
+        "machinery",
+        "oil-gas-energy",
+        "or",
+        "process",
+        "representing",
+        "support",
+        "table",
+        "unit"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-029.png"
+      },
+      "bbox_emu": {
+        "x": 9787335,
+        "y": 3022988,
+        "width": 605148,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-030",
+      "name": "Fuel Nozzle",
+      "semantic_name": "fuel-nozzle",
+      "description": "Fuel nozzle, representing fueling, dispensing, diesel supply, or petroleum handling.",
+      "alt_text": "Fuel nozzle.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Group 33"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "diesel",
+        "dispensing",
+        "energy-oil-gas",
+        "fuel",
+        "fuel-nozzle",
+        "fueling",
+        "handling",
+        "industrial-equipment",
+        "nozzle",
+        "oil-gas-energy",
+        "or",
+        "petroleum",
+        "representing",
+        "supply"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-030.png"
+      },
+      "bbox_emu": {
+        "x": 10772390,
+        "y": 3022988,
+        "width": 895041,
+        "height": 1069997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-031",
+      "name": "Power Plant Emissions",
+      "semantic_name": "power-plant-emissions",
+      "description": "Power plant cooling towers, representing energy generation, emissions, or industrial utilities.",
+      "alt_text": "Power plant cooling towers.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Group 43"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "cooling",
+        "digital-it-security",
+        "emissions",
+        "energy",
+        "energy-oil-gas",
+        "generation",
+        "industrial",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "plant",
+        "power",
+        "power-plant-emissions",
+        "representing",
+        "sustainability-environment",
+        "towers",
+        "utilities"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-031.png"
+      },
+      "bbox_emu": {
+        "x": 518547,
+        "y": 4122988,
+        "width": 1062724,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-034",
+      "name": "Industrial Compressor Pump",
+      "semantic_name": "industrial-compressor-pump",
+      "description": "Industrial compressor or pump unit, representing mechanical equipment, pumping, or production systems.",
+      "alt_text": "Industrial compressor or pump unit.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Group 40"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "compressor",
+        "design-creative-assets",
+        "digital-it-security",
+        "energy-oil-gas",
+        "equipment",
+        "industrial",
+        "industrial-compressor-pump",
+        "industrial-equipment",
+        "mechanical",
+        "oil-gas-energy",
+        "or",
+        "production",
+        "pump",
+        "pumping",
+        "representing",
+        "systems",
+        "unit"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-034.png"
+      },
+      "bbox_emu": {
+        "x": 3904910,
+        "y": 4204503,
+        "width": 1070000,
+        "height": 906969
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-036",
+      "name": "Gas Cylinder",
+      "semantic_name": "gas-cylinder",
+      "description": "Gas cylinder or fuel canister, representing compressed gas, field utilities, or safety gas supply.",
+      "alt_text": "Gas cylinder or fuel canister.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Group 38"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "canister",
+        "compressed",
+        "cylinder",
+        "digital-it-security",
+        "energy-oil-gas",
+        "field",
+        "fuel",
+        "gas",
+        "gas-cylinder",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety",
+        "safety-hse",
+        "supply",
+        "utilities"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-036.png"
+      },
+      "bbox_emu": {
+        "x": 6164910,
+        "y": 4305936,
+        "width": 1070000,
+        "height": 704102
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-037",
+      "name": "Pipeline Hose Loop",
+      "semantic_name": "pipeline-hose-loop",
+      "description": "Pipeline or hose loop, representing flow lines, connections, or fluid transfer systems.",
+      "alt_text": "Pipeline or hose loop.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Group 37"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "connections",
+        "design-creative-assets",
+        "digital-it-security",
+        "energy-oil-gas",
+        "flow",
+        "fluid",
+        "hose",
+        "industrial-equipment",
+        "lines",
+        "loop",
+        "oil-gas-energy",
+        "or",
+        "pipeline",
+        "pipeline-hose-loop",
+        "representing",
+        "systems",
+        "transfer"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-037.png"
+      },
+      "bbox_emu": {
+        "x": 7294910,
+        "y": 4291310,
+        "width": 1069998,
+        "height": 730974
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-038",
+      "name": "Hazardous Chemical Plant",
+      "semantic_name": "hazardous-chemical-plant",
+      "description": "Industrial plant with hazard symbol, representing hazardous materials, chemical processing, or risk control.",
+      "alt_text": "Industrial plant with hazard symbol.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Group 36"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "chemical",
+        "control",
+        "digital-it-security",
+        "energy-oil-gas",
+        "hazard",
+        "hazardous",
+        "hazardous-chemical-plant",
+        "industrial",
+        "industrial-equipment",
+        "materials",
+        "oil-gas-energy",
+        "or",
+        "plant",
+        "processing",
+        "representing",
+        "risk",
+        "safety-hse",
+        "sustainability-environment",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-038.png"
+      },
+      "bbox_emu": {
+        "x": 8507345,
+        "y": 4122988,
+        "width": 905130,
+        "height": 1069999
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-039",
+      "name": "Fuel Tanker Truck",
+      "semantic_name": "fuel-tanker-truck",
+      "description": "Fuel tanker truck, representing fuel logistics, transport, or site delivery.",
+      "alt_text": "Fuel tanker truck.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Group 35"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "logistics-transport",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "delivery",
+        "digital-it-security",
+        "energy-oil-gas",
+        "fuel",
+        "fuel-tanker-truck",
+        "industrial-equipment",
+        "logistics",
+        "logistics-transport",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "site",
+        "tanker",
+        "transport",
+        "truck"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-039.png"
+      },
+      "bbox_emu": {
+        "x": 9554910,
+        "y": 4144482,
+        "width": 1070000,
+        "height": 1027011
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-040",
+      "name": "Pipe Gate Valve",
+      "semantic_name": "pipe-gate-valve",
+      "description": "Pipeline gate valve, representing pipeline isolation, flow control, or maintenance.",
+      "alt_text": "Pipeline gate valve.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Group 34"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "control",
+        "energy-oil-gas",
+        "flow",
+        "gate",
+        "industrial-equipment",
+        "isolation",
+        "maintenance",
+        "oil-gas-energy",
+        "or",
+        "pipe-gate-valve",
+        "pipeline",
+        "representing",
+        "valve"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-040.png"
+      },
+      "bbox_emu": {
+        "x": 10693758,
+        "y": 4122988,
+        "width": 1052305,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-041",
+      "name": "Marine Vessel",
+      "semantic_name": "marine-vessel",
+      "description": "Ship or tanker vessel, representing marine logistics, offshore transport, or shipping.",
+      "alt_text": "Ship or tanker vessel.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Group 44"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "energy-oil-gas",
+        "industrial-equipment",
+        "logistics",
+        "logistics-transport",
+        "marine",
+        "marine-vessel",
+        "offshore",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "ship",
+        "shipping",
+        "tanker",
+        "transport",
+        "vessel"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-041.png"
+      },
+      "bbox_emu": {
+        "x": 514910,
+        "y": 5247395,
+        "width": 1070000,
+        "height": 1021185
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-042",
+      "name": "Refinery Tank Flame",
+      "semantic_name": "refinery-tank-flame",
+      "description": "Refinery tank with flame, representing petroleum processing, gas handling, or industrial fuel systems.",
+      "alt_text": "Refinery tank with flame.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Group 45"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "digital-it-security",
+        "energy-oil-gas",
+        "flame",
+        "fuel",
+        "gas",
+        "handling",
+        "industrial",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "petroleum",
+        "processing",
+        "refinery",
+        "refinery-tank-flame",
+        "representing",
+        "systems",
+        "tank",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-042.png"
+      },
+      "bbox_emu": {
+        "x": 1644910,
+        "y": 5226120,
+        "width": 1070000,
+        "height": 1063735
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-043",
+      "name": "Processing Equipment",
+      "semantic_name": "processing-equipment",
+      "description": "Processing machine or pump skid, representing industrial equipment, refining, or production assets.",
+      "alt_text": "Processing machine or pump skid.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Group 46"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "assets",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "equipment",
+        "industrial",
+        "industrial-equipment",
+        "machine",
+        "oil-gas-energy",
+        "or",
+        "processing",
+        "processing-equipment",
+        "production",
+        "pump",
+        "refining",
+        "representing",
+        "skid"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-043.png"
+      },
+      "bbox_emu": {
+        "x": 2774910,
+        "y": 5242570,
+        "width": 1070000,
+        "height": 1030835
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-044",
+      "name": "Industrial Valve",
+      "semantic_name": "industrial-valve",
+      "description": "Large industrial valve, representing pressure control, pipeline operations, or flow isolation.",
+      "alt_text": "Large industrial valve.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Group 47"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "control",
+        "energy-oil-gas",
+        "flow",
+        "industrial",
+        "industrial-equipment",
+        "industrial-valve",
+        "isolation",
+        "large",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "pipeline",
+        "pressure",
+        "representing",
+        "valve"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-044.png"
+      },
+      "bbox_emu": {
+        "x": 3904910,
+        "y": 5322012,
+        "width": 1070000,
+        "height": 871950
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-047",
+      "name": "Pumpjack Production",
+      "semantic_name": "pumpjack-production",
+      "description": "Pumpjack, representing oil production, land well operations, or extraction.",
+      "alt_text": "Pumpjack.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Group 50"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 7
+      },
+      "primary_use_group": "drilling-rigs-wells",
+      "use_groups": [
+        "drilling-rigs-wells",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "drilling-rigs-wells",
+        "energy-oil-gas",
+        "extraction",
+        "industrial-equipment",
+        "land",
+        "oil",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "production",
+        "pumpjack",
+        "pumpjack-production",
+        "representing",
+        "well"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-047.png"
+      },
+      "bbox_emu": {
+        "x": 7411185,
+        "y": 5222988,
+        "width": 837451,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-050",
+      "name": "Storage Tank",
+      "semantic_name": "storage-tank",
+      "description": "Horizontal storage tank, representing bulk storage, petroleum tanks, or terminal assets.",
+      "alt_text": "Horizontal storage tank.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Group 53"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 10
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "assets",
+        "bulk",
+        "design-creative-assets",
+        "energy-oil-gas",
+        "horizontal",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "petroleum",
+        "representing",
+        "storage",
+        "storage-tank",
+        "tank",
+        "tanks",
+        "terminal"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-050.png"
+      },
+      "bbox_emu": {
+        "x": 10684933,
+        "y": 5222989,
+        "width": 1069954,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-012",
+      "name": "Archive Box",
+      "semantic_name": "archive-box",
+      "description": "Open archive box, representing records, storage, document archive, or inventory.",
+      "alt_text": "Open archive box.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Group 23"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "design-creative-assets",
+        "documents-files-records",
+        "industrial-equipment",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "archive",
+        "archive-box",
+        "box",
+        "business-finance",
+        "business-finance-analytics",
+        "design-creative-assets",
+        "document",
+        "documents-files-records",
+        "industrial-equipment",
+        "inventory",
+        "logistics-transport",
+        "open",
+        "or",
+        "records",
+        "representing",
+        "storage"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-012.png"
+      },
+      "bbox_emu": {
+        "x": 1648530,
+        "y": 2123335,
+        "width": 1069999,
+        "height": 886029
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-033",
+      "name": "Growth Funnel",
+      "semantic_name": "growth-funnel",
+      "description": "Funnel with sprout, representing conversion, pipeline growth, or lead nurturing.",
+      "alt_text": "Funnel with sprout.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Group 38"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "digital-it-security",
+        "industrial-equipment",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "conversion",
+        "digital-it-security",
+        "funnel",
+        "growth",
+        "growth-funnel",
+        "industrial-equipment",
+        "innovation-growth",
+        "lead",
+        "logistics-transport",
+        "nurturing",
+        "or",
+        "pipeline",
+        "representing",
+        "sprout",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-033.png"
+      },
+      "bbox_emu": {
+        "x": 2778530,
+        "y": 4376940,
+        "width": 1070001,
+        "height": 778819
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-024",
+      "name": "Printer",
+      "semantic_name": "printer",
+      "description": "Printer, representing printing, document output, or office equipment.",
+      "alt_text": "Printer.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;8286;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "document",
+        "documents-files-records",
+        "equipment",
+        "facilities-workplace",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "office",
+        "or",
+        "output",
+        "printer",
+        "printing",
+        "representing",
+        "safety-hse"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-024.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 3083612,
+        "width": 1107206,
+        "height": 1104606
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-026",
+      "name": "Compact Disc",
+      "semantic_name": "compact-disc",
+      "description": "Disc, representing media, storage, or software.",
+      "alt_text": "Disc.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;8368;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "compact-disc",
+        "design-creative-assets",
+        "digital-it-security",
+        "digital-marketing-security",
+        "disc",
+        "industrial-equipment",
+        "marketing-seo-content",
+        "media",
+        "or",
+        "representing",
+        "safety-hse",
+        "software",
+        "storage"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-026.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 3083659,
+        "width": 1107206,
+        "height": 1104515
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-013",
+      "name": "Factory Building",
+      "semantic_name": "factory-building",
+      "description": "Factory, representing manufacturing, operations, or industrial site.",
+      "alt_text": "Factory.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;4814;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "industrial-equipment",
+        "innovation-growth"
+      ],
+      "tags": [
+        "commerce-innovation-growth",
+        "design-creative-assets",
+        "digital-it-security",
+        "facilities-workplace",
+        "factory",
+        "factory-building",
+        "industrial",
+        "industrial-equipment",
+        "innovation-growth",
+        "manufacturing",
+        "operations",
+        "or",
+        "representing",
+        "site"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-013.png"
+      },
+      "bbox_emu": {
+        "x": 1259230,
+        "y": 2025416,
+        "width": 957095,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-017",
+      "name": "Money Plant",
+      "semantic_name": "money-plant",
+      "description": "Dollar coin with leaves, representing investment growth, value creation, or sustainable finance.",
+      "alt_text": "Dollar coin with leaves.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;4869;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "digital-it-security",
+        "industrial-equipment",
+        "innovation-growth",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "business-finance",
+        "coin",
+        "commerce-innovation-growth",
+        "creation",
+        "digital-it-security",
+        "dollar",
+        "finance",
+        "growth",
+        "industrial-equipment",
+        "innovation-growth",
+        "investment",
+        "leaves",
+        "money-plant",
+        "or",
+        "representing",
+        "sustainability-environment",
+        "sustainable",
+        "value",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-017.png"
+      },
+      "bbox_emu": {
+        "x": 5532719,
+        "y": 2025463,
+        "width": 1097535,
+        "height": 1107214
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-021",
+      "name": "Save Disk",
+      "semantic_name": "save-disk",
+      "description": "Floppy disk, representing save, file storage, or archived asset.",
+      "alt_text": "Floppy disk.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;5873;p61"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "documents-files-records",
+        "industrial-equipment",
+        "innovation-growth"
+      ],
+      "tags": [
+        "archived",
+        "asset",
+        "design-creative-assets",
+        "design-creative-files",
+        "disk",
+        "documents-files-records",
+        "file",
+        "floppy",
+        "industrial-equipment",
+        "innovation-growth",
+        "or",
+        "representing",
+        "save",
+        "save-disk",
+        "storage"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-021.png"
+      },
+      "bbox_emu": {
+        "x": 335420,
+        "y": 3038772,
+        "width": 1107115,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-030",
+      "name": "Cactus Plant",
+      "semantic_name": "cactus-plant",
+      "description": "Cactus plant, representing office decor, workspace, or general decorative object.",
+      "alt_text": "Cactus plant.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;5851;p61"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "innovation-growth",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "cactus",
+        "cactus-plant",
+        "decor",
+        "decorative",
+        "design-creative-assets",
+        "design-creative-files",
+        "documents-files-records",
+        "facilities-workplace",
+        "general",
+        "industrial-equipment",
+        "innovation-growth",
+        "object",
+        "office",
+        "or",
+        "plant",
+        "representing",
+        "sustainability-environment",
+        "workspace"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-030.png"
+      },
+      "bbox_emu": {
+        "x": 127276,
+        "y": 4184321,
+        "width": 1107206,
+        "height": 987962
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-001",
+      "name": "Offshore Platform",
+      "semantic_name": "offshore-platform",
+      "description": "Offshore platform or industrial water facility, representing offshore operations or marine energy asset.",
+      "alt_text": "Offshore platform or industrial water facility.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Group 19"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "facilities-workplace",
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "asset",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "energy",
+        "facilities-workplace",
+        "facility",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "offshore-platform",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "safety-hse",
+        "water"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-001.png"
+      },
+      "bbox_emu": {
+        "x": 177124,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-002",
+      "name": "Industrial Factory",
+      "semantic_name": "industrial-factory",
+      "description": "Factory, representing industrial facility, operations, or production plant.",
+      "alt_text": "Factory.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Group 5"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "facilities-workplace",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "facilities-workplace",
+        "facility",
+        "factory",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-factory",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "plant",
+        "production",
+        "representing",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-002.png"
+      },
+      "bbox_emu": {
+        "x": 1401454,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-003",
+      "name": "Restricted Card",
+      "semantic_name": "restricted-card",
+      "description": "Card with diagonal slash, representing restricted access, blocked item, or prohibition.",
+      "alt_text": "Card with diagonal slash.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Group 6"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "access",
+        "blocked",
+        "card",
+        "diagonal",
+        "digital-it-security",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "item",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "or",
+        "prohibition",
+        "representing",
+        "restricted",
+        "restricted-card",
+        "safety-hse",
+        "slash",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-003.png"
+      },
+      "bbox_emu": {
+        "x": 2625784,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-004",
+      "name": "Pipeline Valve",
+      "semantic_name": "pipeline-valve",
+      "description": "Pipeline valve, representing flow control, isolation, or industrial utilities.",
+      "alt_text": "Pipeline valve.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 4,
+      "source_shape_names": [
+        "object 35"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "control",
+        "digital-it-security",
+        "flow",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "isolation",
+        "oil-gas-energy",
+        "or",
+        "pipeline",
+        "pipeline-valve",
+        "representing",
+        "safety-hse",
+        "utilities",
+        "valve"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-004.png"
+      },
+      "bbox_emu": {
+        "x": 3850114,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-005",
+      "name": "Safety Workers",
+      "semantic_name": "safety-workers",
+      "description": "Workers in hand, representing workforce safety, crew protection, or HSE culture.",
+      "alt_text": "Workers in hand.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 5,
+      "source_shape_names": [
+        "object 34"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "crew",
+        "culture",
+        "hand",
+        "hse",
+        "in",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "protection",
+        "representing",
+        "safety",
+        "safety-hse",
+        "safety-workers",
+        "workers",
+        "workforce"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-005.png"
+      },
+      "bbox_emu": {
+        "x": 5074444,
+        "y": 1357483,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-006",
+      "name": "Globe Oil Drop",
+      "semantic_name": "globe-oil-drop",
+      "description": "Globe with oil drop, representing global energy, environment, or oil resources.",
+      "alt_text": "Globe with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Group 57"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drop",
+        "energy",
+        "environment",
+        "global",
+        "globe",
+        "globe-oil-drop",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "resources",
+        "safety-hse",
+        "sustainability-environment",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-006.png"
+      },
+      "bbox_emu": {
+        "x": 6101333,
+        "y": 1357481,
+        "width": 1107206,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-007",
+      "name": "Workboat Vessel",
+      "semantic_name": "workboat-vessel",
+      "description": "Small vessel or workboat, representing marine support, offshore logistics, or transport.",
+      "alt_text": "Small vessel or workboat.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Group 56"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "communication-support",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "logistics",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "small",
+        "support",
+        "transport",
+        "vessel",
+        "workboat",
+        "workboat-vessel"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-007.png"
+      },
+      "bbox_emu": {
+        "x": 7325663,
+        "y": 1357483,
+        "width": 1016227,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-008",
+      "name": "Flame Sign",
+      "semantic_name": "flame-sign",
+      "description": "Flame inside square, representing fire hazard, flammable material, or energy.",
+      "alt_text": "Flame inside square.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 8,
+      "source_shape_names": [
+        "object 60"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "energy",
+        "fire",
+        "flame",
+        "flame-sign",
+        "flammable",
+        "hazard",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inside",
+        "material",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "square"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-008.png"
+      },
+      "bbox_emu": {
+        "x": 8459014,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-009",
+      "name": "Oil Clipboard",
+      "semantic_name": "oil-clipboard",
+      "description": "Clipboard with oil drop, representing oil report, inspection checklist, or compliance document.",
+      "alt_text": "Clipboard with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Group 109"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "industrial-equipment",
+        "legal-compliance-governance",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "checklist",
+        "clipboard",
+        "compliance",
+        "digital-it-security",
+        "document",
+        "documents-files-records",
+        "drop",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inspection",
+        "legal-compliance-governance",
+        "oil",
+        "oil-clipboard",
+        "oil-gas-energy",
+        "or",
+        "report",
+        "representing",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-009.png"
+      },
+      "bbox_emu": {
+        "x": 9683344,
+        "y": 1357483,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-010",
+      "name": "Performance Speedometer",
+      "semantic_name": "performance-speedometer",
+      "description": "Speedometer with upward arrow, representing performance improvement, speed, or efficiency.",
+      "alt_text": "Speedometer with upward arrow.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Group 73"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "documents-files-records",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "arrow",
+        "digital-it-security",
+        "documents-files-records",
+        "efficiency",
+        "improvement",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "or",
+        "performance",
+        "performance-speedometer",
+        "representing",
+        "safety-hse",
+        "speed",
+        "speedometer",
+        "upward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-010.png"
+      },
+      "bbox_emu": {
+        "x": 10907674,
+        "y": 1498513,
+        "width": 1107206,
+        "height": 825147
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-011",
+      "name": "Recycle Oil Drop",
+      "semantic_name": "recycle-oil-drop",
+      "description": "Recycle symbol with oil drop, representing environmental management, recycling, or sustainability.",
+      "alt_text": "Recycle symbol with oil drop.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 11,
+      "source_shape_names": [
+        "object 64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "sustainability-environment"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drop",
+        "environmental",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "management",
+        "oil",
+        "oil-gas-energy",
+        "or",
+        "recycle",
+        "recycle-oil-drop",
+        "recycling",
+        "representing",
+        "safety-hse",
+        "sustainability",
+        "sustainability-environment",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-011.png"
+      },
+      "bbox_emu": {
+        "x": 222701,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-012",
+      "name": "Trainer Presentation",
+      "semantic_name": "trainer-presentation",
+      "description": "Person presenting board, representing training, safety briefing, or instructor-led session.",
+      "alt_text": "Person presenting board.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Group 111"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "industrial-equipment",
+      "use_groups": [
+        "industrial-equipment",
+        "learning-education",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "board",
+        "briefing",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "instructor",
+        "learning-education",
+        "led",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "presenting",
+        "representing",
+        "safety",
+        "safety-hse",
+        "session",
+        "trainer-presentation",
+        "training"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-012.png"
+      },
+      "bbox_emu": {
+        "x": 1295169,
+        "y": 2864600,
+        "width": 1107207,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-013",
+      "name": "Growth Bars",
+      "semantic_name": "growth-bars",
+      "description": "Bar chart with upward arrow, representing operational improvement, performance, or growth.",
+      "alt_text": "Bar chart with upward arrow.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 13,
+      "source_shape_names": [
+        "object 69"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "arrow",
+        "bar",
+        "chart",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "growth",
+        "growth-bars",
+        "improvement",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "innovation-growth",
+        "oil-gas-energy",
+        "operational",
+        "or",
+        "performance",
+        "representing",
+        "safety-hse",
+        "upward",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-013.png"
+      },
+      "bbox_emu": {
+        "x": 2565073,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-015",
+      "name": "Worker Question",
+      "semantic_name": "worker-question",
+      "description": "Person with question bubble, representing worker inquiry, help, or safety question.",
+      "alt_text": "Person with question bubble.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Group 62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubble",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "help",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inquiry",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "question",
+        "representing",
+        "safety",
+        "safety-hse",
+        "with",
+        "worker",
+        "worker-question"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-015.png"
+      },
+      "bbox_emu": {
+        "x": 4710005,
+        "y": 2864604,
+        "width": 1107206,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-016",
+      "name": "Offshore Rig Crane",
+      "semantic_name": "offshore-rig-crane",
+      "description": "Offshore rig with crane, representing offshore drilling, construction, or platform operations.",
+      "alt_text": "Offshore rig with crane.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 16,
+      "source_shape_names": [
+        "object 4",
+        "Group 64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "industrial-equipment",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "construction",
+        "crane",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling",
+        "drilling-rigs-wells",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "offshore",
+        "offshore-marine",
+        "offshore-rig-crane",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "rig",
+        "safety-hse",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-016.png"
+      },
+      "bbox_emu": {
+        "x": 5979938,
+        "y": 2946867,
+        "width": 1107208,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-017",
+      "name": "Crane Truck",
+      "semantic_name": "crane-truck",
+      "description": "Crane truck, representing heavy lifting, transport, logistics, or equipment mobilization.",
+      "alt_text": "Crane truck.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 17,
+      "source_shape_names": [
+        "object 3",
+        "object 21"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "industrial-equipment",
+        "logistics-transport",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "crane",
+        "crane-truck",
+        "design-creative-assets",
+        "equipment",
+        "heavy",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "lifting",
+        "logistics",
+        "logistics-transport",
+        "mobilization",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "transport",
+        "truck"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-017.png"
+      },
+      "bbox_emu": {
+        "x": 7249819,
+        "y": 2922369,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-018",
+      "name": "Site Operator",
+      "semantic_name": "site-operator",
+      "description": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Group 60"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operator",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "site",
+        "site-operator",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-018.png"
+      },
+      "bbox_emu": {
+        "x": 8519726,
+        "y": 2946867,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-019",
+      "name": "Drilling Equipment",
+      "semantic_name": "drilling-equipment",
+      "description": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Group 61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling",
+        "drilling-equipment",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-019.png"
+      },
+      "bbox_emu": {
+        "x": 9789660,
+        "y": 2864600,
+        "width": 1107208,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-020",
+      "name": "Industrial Network",
+      "semantic_name": "industrial-network",
+      "description": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Group 72"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-network",
+        "network",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-020.png"
+      },
+      "bbox_emu": {
+        "x": 11059540,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-021",
+      "name": "Energy Asset",
+      "semantic_name": "energy-asset",
+      "description": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;8681;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "asset",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "energy-asset",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-021.png"
+      },
+      "bbox_emu": {
+        "x": 413163,
+        "y": 4340516,
+        "width": 1107206,
+        "height": 1091622
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-022",
+      "name": "Facility Management",
+      "semantic_name": "facility-management",
+      "description": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 22,
+      "source_shape_names": [
+        "object 80"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "facility-management",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "management",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-022.png"
+      },
+      "bbox_emu": {
+        "x": 1873532,
+        "y": 4410336,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-023",
+      "name": "Operations Check",
+      "semantic_name": "operations-check",
+      "description": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Group 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "check",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "operations-check",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-023.png"
+      },
+      "bbox_emu": {
+        "x": 3136460,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-024",
+      "name": "Field Service",
+      "semantic_name": "field-service",
+      "description": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 24,
+      "source_shape_names": [
+        "object 15"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "field-service",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "service",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-024.png"
+      },
+      "bbox_emu": {
+        "x": 4596829,
+        "y": 4438184,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-025",
+      "name": "Equipment Reliability",
+      "semantic_name": "equipment-reliability",
+      "description": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 25,
+      "source_shape_names": [
+        "object 16"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "equipment-reliability",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "reliability",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-025.png"
+      },
+      "bbox_emu": {
+        "x": 5859757,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-026",
+      "name": "Plant Operations",
+      "semantic_name": "plant-operations",
+      "description": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 26,
+      "source_shape_names": [
+        "object 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "or",
+        "plant",
+        "plant-operations",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-026.png"
+      },
+      "bbox_emu": {
+        "x": 7320126,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-027",
+      "name": "Industrial Monitor",
+      "semantic_name": "industrial-monitor",
+      "description": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 27,
+      "source_shape_names": [
+        "object 19"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-monitor",
+        "monitor",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-027.png"
+      },
+      "bbox_emu": {
+        "x": 8780495,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-028",
+      "name": "Safety Readiness",
+      "semantic_name": "safety-readiness",
+      "description": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 110"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "readiness",
+        "safety",
+        "safety-hse",
+        "safety-readiness",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-028.png"
+      },
+      "bbox_emu": {
+        "x": 10240864,
+        "y": 4633903,
+        "width": 1537977,
+        "height": 907764
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

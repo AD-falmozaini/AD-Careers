@@ -1,0 +1,767 @@
+{
+  "group_slug": "saudization-local-talent",
+  "description": "Saudi workforce, local talent, nationalization, and Saudi employee representation.",
+  "count": 12,
+  "icons": [
+    {
+      "id": "industrial-energy-safety-014",
+      "name": "Saudi Office Worker Shmagh",
+      "semantic_name": "saudi-office-worker-shmagh",
+      "description": "Saudi office worker wearing traditional shmagh/head covering, representing Saudi employees, corporate staff, local talent, Saudization, or candidate profile.",
+      "alt_text": "Saudi office worker wearing traditional shmagh.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Group 105"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "office-corporate",
+      "use_groups": [
+        "office-corporate",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "candidate",
+        "corporate",
+        "covering",
+        "employees",
+        "head",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "local",
+        "office",
+        "office-corporate",
+        "or",
+        "people-hr-workforce",
+        "profile",
+        "recruitment-talent",
+        "representing",
+        "saudi",
+        "saudi-office-worker-shmagh",
+        "saudization",
+        "saudization-local-talent",
+        "shmagh",
+        "staff",
+        "talent",
+        "traditional",
+        "wearing",
+        "worker"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-014.png"
+      },
+      "bbox_emu": {
+        "x": 3637539,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-018",
+      "name": "Site Operator",
+      "semantic_name": "site-operator",
+      "description": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Group 60"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operator",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "site",
+        "site-operator",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-018.png"
+      },
+      "bbox_emu": {
+        "x": 8519726,
+        "y": 2946867,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-019",
+      "name": "Drilling Equipment",
+      "semantic_name": "drilling-equipment",
+      "description": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Group 61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling",
+        "drilling-equipment",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-019.png"
+      },
+      "bbox_emu": {
+        "x": 9789660,
+        "y": 2864600,
+        "width": 1107208,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-020",
+      "name": "Industrial Network",
+      "semantic_name": "industrial-network",
+      "description": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Group 72"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-network",
+        "network",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-020.png"
+      },
+      "bbox_emu": {
+        "x": 11059540,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-021",
+      "name": "Energy Asset",
+      "semantic_name": "energy-asset",
+      "description": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;8681;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "asset",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "energy-asset",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-021.png"
+      },
+      "bbox_emu": {
+        "x": 413163,
+        "y": 4340516,
+        "width": 1107206,
+        "height": 1091622
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-022",
+      "name": "Facility Management",
+      "semantic_name": "facility-management",
+      "description": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 22,
+      "source_shape_names": [
+        "object 80"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "facility-management",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "management",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-022.png"
+      },
+      "bbox_emu": {
+        "x": 1873532,
+        "y": 4410336,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-023",
+      "name": "Operations Check",
+      "semantic_name": "operations-check",
+      "description": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Group 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "check",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "operations-check",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-023.png"
+      },
+      "bbox_emu": {
+        "x": 3136460,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-024",
+      "name": "Field Service",
+      "semantic_name": "field-service",
+      "description": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 24,
+      "source_shape_names": [
+        "object 15"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "field-service",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "service",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-024.png"
+      },
+      "bbox_emu": {
+        "x": 4596829,
+        "y": 4438184,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-025",
+      "name": "Equipment Reliability",
+      "semantic_name": "equipment-reliability",
+      "description": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 25,
+      "source_shape_names": [
+        "object 16"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "equipment-reliability",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "reliability",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-025.png"
+      },
+      "bbox_emu": {
+        "x": 5859757,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-026",
+      "name": "Plant Operations",
+      "semantic_name": "plant-operations",
+      "description": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 26,
+      "source_shape_names": [
+        "object 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "or",
+        "plant",
+        "plant-operations",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-026.png"
+      },
+      "bbox_emu": {
+        "x": 7320126,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-027",
+      "name": "Industrial Monitor",
+      "semantic_name": "industrial-monitor",
+      "description": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 27,
+      "source_shape_names": [
+        "object 19"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-monitor",
+        "monitor",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-027.png"
+      },
+      "bbox_emu": {
+        "x": 8780495,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-028",
+      "name": "Safety Readiness",
+      "semantic_name": "safety-readiness",
+      "description": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 110"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "readiness",
+        "safety",
+        "safety-hse",
+        "safety-readiness",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-028.png"
+      },
+      "bbox_emu": {
+        "x": 10240864,
+        "y": 4633903,
+        "width": 1537977,
+        "height": 907764
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

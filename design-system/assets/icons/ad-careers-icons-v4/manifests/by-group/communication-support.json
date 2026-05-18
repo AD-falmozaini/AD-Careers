@@ -1,0 +1,3964 @@
+{
+  "group_slug": "communication-support",
+  "description": "Communication, chat, helpdesk, support, messages, phone, and service.",
+  "count": 74,
+  "icons": [
+    {
+      "id": "energy-oil-gas-029",
+      "name": "Industrial Drilling Table",
+      "semantic_name": "industrial-drilling-table",
+      "description": "Industrial equipment table or drill unit, representing machinery, process equipment, or drilling support.",
+      "alt_text": "Industrial equipment table or drill unit.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Group 32"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "industrial-equipment",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "drill",
+        "drilling",
+        "drilling-rigs-wells",
+        "energy-oil-gas",
+        "equipment",
+        "industrial",
+        "industrial-drilling-table",
+        "industrial-equipment",
+        "machinery",
+        "oil-gas-energy",
+        "or",
+        "process",
+        "representing",
+        "support",
+        "table",
+        "unit"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-029.png"
+      },
+      "bbox_emu": {
+        "x": 9787335,
+        "y": 3022988,
+        "width": 605148,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "energy-oil-gas-032",
+      "name": "Offshore Platform Crane",
+      "semantic_name": "offshore-platform-crane",
+      "description": "Offshore platform with crane, representing offshore drilling, marine operations, or platform support.",
+      "alt_text": "Offshore platform with crane.",
+      "category_slug": "energy-oil-gas",
+      "category": "Energy, Oil & Gas",
+      "source_slide": 1,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Group 42"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling-rigs-wells",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy"
+      ],
+      "tags": [
+        "communication-support",
+        "crane",
+        "digital-it-security",
+        "documents-files-records",
+        "drilling",
+        "drilling-rigs-wells",
+        "energy-oil-gas",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "offshore-platform-crane",
+        "oil-gas-energy",
+        "operations",
+        "or",
+        "platform",
+        "representing",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/energy-oil-gas/energy-oil-gas-032.png"
+      },
+      "bbox_emu": {
+        "x": 1644910,
+        "y": 4210305,
+        "width": 1069999,
+        "height": 895366
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-003",
+      "name": "Attached Document",
+      "semantic_name": "attached-document",
+      "description": "Document with paperclip, representing attached files, records, or supporting documentation.",
+      "alt_text": "Document with paperclip.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Group 7"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "logistics-transport"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "attached",
+        "attached-document",
+        "business-finance",
+        "business-finance-analytics",
+        "communication-support",
+        "digital-it-security",
+        "document",
+        "documentation",
+        "documents-files-records",
+        "files",
+        "logistics-transport",
+        "or",
+        "paperclip",
+        "records",
+        "representing",
+        "supporting",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-003.png"
+      },
+      "bbox_emu": {
+        "x": 2920748,
+        "y": 931349,
+        "width": 785563,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-029",
+      "name": "Announcement Megaphone",
+      "semantic_name": "announcement-megaphone",
+      "description": "Megaphone, representing announcements, communications, or campaign messaging.",
+      "alt_text": "Megaphone.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Group 32"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "logistics-transport",
+        "marketing-seo-content"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "announcement-megaphone",
+        "announcements",
+        "business-finance",
+        "business-finance-analytics",
+        "campaign",
+        "communication-support",
+        "communications",
+        "logistics-transport",
+        "marketing-seo-content",
+        "megaphone",
+        "messaging",
+        "or",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-029.png"
+      },
+      "bbox_emu": {
+        "x": 9643213,
+        "y": 3131349,
+        "width": 900634,
+        "height": 1070000
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "business-finance-analytics-030",
+      "name": "Email Message",
+      "semantic_name": "email-message",
+      "description": "Envelope, representing email communication, notifications, or candidate outreach.",
+      "alt_text": "Envelope.",
+      "category_slug": "business-finance-analytics",
+      "category": "Business, Finance & Analytics",
+      "source_slide": 2,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Group 31"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "business-finance",
+        "communication-support",
+        "logistics-transport",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "analytics-reporting",
+        "business-finance",
+        "business-finance-analytics",
+        "candidate",
+        "communication",
+        "communication-support",
+        "email",
+        "email-message",
+        "envelope",
+        "logistics-transport",
+        "marketing-seo-content",
+        "notifications",
+        "or",
+        "outreach",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/business-finance-analytics/business-finance-analytics-030.png"
+      },
+      "bbox_emu": {
+        "x": 10688530,
+        "y": 3164940,
+        "width": 1070000,
+        "height": 1002819
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-010",
+      "name": "Interview Discussion",
+      "semantic_name": "interview-discussion",
+      "description": "Two people in conversation, representing interview, coaching, mentoring, or discussion.",
+      "alt_text": "Two people in conversation.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Group 4"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "coaching",
+        "communication-support",
+        "conversation",
+        "discussion",
+        "in",
+        "interview",
+        "interview-discussion",
+        "mentoring",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "two"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-010.png"
+      },
+      "bbox_emu": {
+        "x": 10957598,
+        "y": 924975,
+        "width": 1046867,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-016",
+      "name": "Announcement Megaphone",
+      "semantic_name": "announcement-megaphone",
+      "description": "Megaphone, representing employee announcement, communication, or internal campaign.",
+      "alt_text": "Megaphone.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;8706;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "marketing-seo-content",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "announcement",
+        "announcement-megaphone",
+        "campaign",
+        "communication",
+        "communication-support",
+        "employee",
+        "internal",
+        "marketing-seo-content",
+        "megaphone",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-016.png"
+      },
+      "bbox_emu": {
+        "x": 5542404,
+        "y": 2016049,
+        "width": 1107208,
+        "height": 1096874
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-020",
+      "name": "Policy Book Info",
+      "semantic_name": "policy-book-info",
+      "description": "Book with information mark, representing policy, guidebook, handbook, or reference material.",
+      "alt_text": "Book with information mark.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;8694;p68"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "book",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "guidebook",
+        "handbook",
+        "information",
+        "learning-education",
+        "legal-compliance-governance",
+        "mark",
+        "material",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "policy",
+        "policy-book-info",
+        "reference",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-020.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 2014798,
+        "width": 1107206,
+        "height": 1099412
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-025",
+      "name": "Person Information",
+      "semantic_name": "person-information",
+      "description": "Person with info bubble, representing employee information, HR support, or candidate help.",
+      "alt_text": "Person with info bubble.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;8702;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "bubble",
+        "candidate",
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "help",
+        "hr",
+        "info",
+        "information",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "person",
+        "person-information",
+        "recruitment-talent",
+        "representing",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-025.png"
+      },
+      "bbox_emu": {
+        "x": 3370543,
+        "y": 3135684,
+        "width": 1107206,
+        "height": 1029489
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-028",
+      "name": "Support Agent",
+      "semantic_name": "support-agent",
+      "description": "Headset support agent, representing HR helpdesk, customer service, or candidate support.",
+      "alt_text": "Headset support agent.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;8836;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "facilities-workplace",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "agent",
+        "candidate",
+        "communication-support",
+        "customer",
+        "facilities-workplace",
+        "headset",
+        "helpdesk",
+        "hr",
+        "or",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "representing",
+        "service",
+        "support",
+        "support-agent"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-028.png"
+      },
+      "bbox_emu": {
+        "x": 6628461,
+        "y": 3096805,
+        "width": 1107213,
+        "height": 1107203
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-045",
+      "name": "Employee Support",
+      "semantic_name": "employee-support",
+      "description": "People, Work & Management icon for employee support: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for employee support: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;8754;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication-support",
+        "employee",
+        "employee-support",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "support",
+        "team",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-045.png"
+      },
+      "bbox_emu": {
+        "x": 1396129,
+        "y": 5268682,
+        "width": 712324,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "people-work-management-048",
+      "name": "Team Communication",
+      "semantic_name": "team-communication",
+      "description": "People, Work & Management icon for team communication: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "alt_text": "People, Work & Management icon for team communication: People, employee, team, leadership, workplace, office, candidate, or HR workforce icon.",
+      "category_slug": "people-work-management",
+      "category": "People, Work & Management",
+      "source_slide": 3,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;8842;p68"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "office-corporate",
+        "offshore-marine",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication",
+        "communication-support",
+        "employee",
+        "for",
+        "hr",
+        "icon",
+        "leadership",
+        "management",
+        "office",
+        "office-corporate",
+        "offshore-marine",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "people-work-management",
+        "recruitment-talent",
+        "team",
+        "team-communication",
+        "work",
+        "workforce",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/people-work-management/people-work-management-048.png"
+      },
+      "bbox_emu": {
+        "x": 4540421,
+        "y": 5268680,
+        "width": 1023255,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-011",
+      "name": "Chat User",
+      "semantic_name": "chat-user",
+      "description": "Chat bubbles with user, representing messaging, community, or customer conversation.",
+      "alt_text": "Chat bubbles with user.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;8256;p67"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubbles",
+        "chat",
+        "chat-user",
+        "communication-support",
+        "community",
+        "conversation",
+        "customer",
+        "digital-it-security",
+        "digital-marketing-security",
+        "marketing-seo-content",
+        "messaging",
+        "or",
+        "representing",
+        "safety-hse",
+        "user",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-011.png"
+      },
+      "bbox_emu": {
+        "x": 10972033,
+        "y": 969185,
+        "width": 1107206,
+        "height": 989752
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-032",
+      "name": "Mobile Payment",
+      "semantic_name": "mobile-payment",
+      "description": "Mobile phone with dollar bubble, representing mobile payment, monetization, or digital wallet.",
+      "alt_text": "Mobile phone with dollar bubble.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;8412;p67"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "business-finance",
+      "use_groups": [
+        "business-finance",
+        "communication-support",
+        "digital-it-security",
+        "marketing-seo-content",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubble",
+        "business-finance",
+        "communication-support",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "dollar",
+        "marketing-seo-content",
+        "mobile",
+        "mobile-payment",
+        "monetization",
+        "or",
+        "payment",
+        "phone",
+        "representing",
+        "safety-hse",
+        "wallet",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-032.png"
+      },
+      "bbox_emu": {
+        "x": 9886106,
+        "y": 3103325,
+        "width": 1107206,
+        "height": 1065184
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "commerce-innovation-growth-019",
+      "name": "Chat Window",
+      "semantic_name": "chat-window",
+      "description": "Speech bubble with interface panels, representing chat, messaging, or customer interaction.",
+      "alt_text": "Speech bubble with interface panels.",
+      "category_slug": "commerce-innovation-growth",
+      "category": "Commerce, Innovation & Growth",
+      "source_slide": 5,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;4765;p59"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "innovation-growth"
+      ],
+      "tags": [
+        "bubble",
+        "chat",
+        "chat-window",
+        "commerce-innovation-growth",
+        "communication-support",
+        "customer",
+        "digital-it-security",
+        "innovation-growth",
+        "interaction",
+        "interface",
+        "messaging",
+        "or",
+        "panels",
+        "representing",
+        "speech",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/commerce-innovation-growth/commerce-innovation-growth-019.png"
+      },
+      "bbox_emu": {
+        "x": 7704604,
+        "y": 2025416,
+        "width": 1097472,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-001",
+      "name": "Contact Book",
+      "semantic_name": "contact-book",
+      "description": "Contact book with person, representing contacts, directory, or candidate profile records.",
+      "alt_text": "Contact book with person.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 1,
+      "source_shape_names": [
+        "Google Shape;6536;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "book",
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "contact",
+        "contact-book",
+        "contacts",
+        "digital-it-security",
+        "directory",
+        "documents-files-records",
+        "learning-education",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "profile",
+        "records",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-001.png"
+      },
+      "bbox_emu": {
+        "x": 186080,
+        "y": 895946,
+        "width": 931540,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-002",
+      "name": "Phone Transfer",
+      "semantic_name": "phone-transfer",
+      "description": "Phone handset with arrows, representing call transfer, communication flow, or contact routing.",
+      "alt_text": "Phone handset with arrows.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;6567;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "arrows",
+        "call",
+        "communication",
+        "communication-hr-support",
+        "communication-support",
+        "contact",
+        "digital-it-security",
+        "flow",
+        "handset",
+        "or",
+        "people-hr-workforce",
+        "phone",
+        "phone-transfer",
+        "representing",
+        "routing",
+        "transfer",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-002.png"
+      },
+      "bbox_emu": {
+        "x": 1185644,
+        "y": 895946,
+        "width": 1104504,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-003",
+      "name": "Employee Question",
+      "semantic_name": "employee-question",
+      "description": "Person with question bubble, representing employee question, candidate inquiry, or support request.",
+      "alt_text": "Person with question bubble.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 3,
+      "source_shape_names": [
+        "Google Shape;6597;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 3
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "bubble",
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "employee",
+        "employee-question",
+        "inquiry",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "question",
+        "recruitment-talent",
+        "representing",
+        "request",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-003.png"
+      },
+      "bbox_emu": {
+        "x": 2271449,
+        "y": 895946,
+        "width": 1104505,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-004",
+      "name": "Profile Information",
+      "semantic_name": "profile-information",
+      "description": "Profile card with info bubble, representing candidate information or employee profile details.",
+      "alt_text": "Profile card with info bubble.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 4,
+      "source_shape_names": [
+        "Google Shape;6635;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "bubble",
+        "candidate",
+        "card",
+        "communication-hr-support",
+        "communication-support",
+        "details",
+        "digital-it-security",
+        "documents-files-records",
+        "employee",
+        "info",
+        "information",
+        "or",
+        "people-hr-workforce",
+        "profile",
+        "profile-information",
+        "recruitment-talent",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-004.png"
+      },
+      "bbox_emu": {
+        "x": 3386687,
+        "y": 895946,
+        "width": 1045889,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-005",
+      "name": "Outbound Call",
+      "semantic_name": "outbound-call",
+      "description": "Phone handset with arrow, representing outgoing call, outreach, or escalation.",
+      "alt_text": "Phone handset with arrow.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 5,
+      "source_shape_names": [
+        "Google Shape;6674;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "arrow",
+        "call",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "escalation",
+        "handset",
+        "or",
+        "outbound-call",
+        "outgoing",
+        "outreach",
+        "people-hr-workforce",
+        "phone",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-005.png"
+      },
+      "bbox_emu": {
+        "x": 4441956,
+        "y": 901545,
+        "width": 1107206,
+        "height": 1096007
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-006",
+      "name": "Document Email",
+      "semantic_name": "document-email",
+      "description": "Document with envelope, representing email attachment, correspondence, or notification.",
+      "alt_text": "Document with envelope.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 6,
+      "source_shape_names": [
+        "Google Shape;6549;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "marketing-seo-content",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "attachment",
+        "communication-hr-support",
+        "communication-support",
+        "correspondence",
+        "digital-it-security",
+        "document",
+        "document-email",
+        "documents-files-records",
+        "email",
+        "envelope",
+        "marketing-seo-content",
+        "notification",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-006.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 895946,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-007",
+      "name": "Headset Sync",
+      "semantic_name": "headset-sync",
+      "description": "Headset with circular arrows, representing support loop, call center, or service follow-up.",
+      "alt_text": "Headset with circular arrows.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Google Shape;6577;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "arrows",
+        "call",
+        "center",
+        "circular",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "follow",
+        "headset",
+        "headset-sync",
+        "loop",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "service",
+        "support",
+        "up",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-007.png"
+      },
+      "bbox_emu": {
+        "x": 6613578,
+        "y": 895946,
+        "width": 1107208,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-008",
+      "name": "Address Book",
+      "semantic_name": "address-book",
+      "description": "Address book with phone, representing contact directory, phone list, or HR records.",
+      "alt_text": "Address book with phone.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;6611;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "learning-education",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "address",
+        "address-book",
+        "book",
+        "communication-hr-support",
+        "communication-support",
+        "contact",
+        "digital-it-security",
+        "directory",
+        "documents-files-records",
+        "hr",
+        "learning-education",
+        "list",
+        "or",
+        "people-hr-workforce",
+        "phone",
+        "records",
+        "representing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-008.png"
+      },
+      "bbox_emu": {
+        "x": 7723339,
+        "y": 895946,
+        "width": 1060003,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-009",
+      "name": "Calendar Appointment",
+      "semantic_name": "calendar-appointment",
+      "description": "Calendar with clock, representing appointments, interviews, or scheduled events.",
+      "alt_text": "Calendar with clock.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 9,
+      "source_shape_names": [
+        "Google Shape;6647;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "time-scheduling"
+      ],
+      "tags": [
+        "appointments",
+        "calendar",
+        "calendar-appointment",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "events",
+        "interviews",
+        "or",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "representing",
+        "scheduled",
+        "time-scheduling",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-009.png"
+      },
+      "bbox_emu": {
+        "x": 8790929,
+        "y": 895946,
+        "width": 1096676,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-010",
+      "name": "Support Rating",
+      "semantic_name": "support-rating",
+      "description": "Headset with star rating, representing service quality, support satisfaction, or candidate experience.",
+      "alt_text": "Headset with star rating.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 10,
+      "source_shape_names": [
+        "Google Shape;6688;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "recruitment-talent",
+        "rewards-recognition"
+      ],
+      "tags": [
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "experience",
+        "headset",
+        "or",
+        "people-hr-workforce",
+        "quality",
+        "rating",
+        "recruitment-talent",
+        "representing",
+        "rewards-recognition",
+        "satisfaction",
+        "service",
+        "star",
+        "support",
+        "support-rating",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-010.png"
+      },
+      "bbox_emu": {
+        "x": 9872906,
+        "y": 895946,
+        "width": 1104577,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-011",
+      "name": "Fax Machine",
+      "semantic_name": "fax-machine",
+      "description": "Fax machine, representing office communication, forms, or legacy document transmission.",
+      "alt_text": "Fax machine.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 11,
+      "source_shape_names": [
+        "Google Shape;6559;p63"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "documents-files-records",
+        "facilities-workplace",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "communication",
+        "communication-hr-support",
+        "communication-support",
+        "document",
+        "documents-files-records",
+        "facilities-workplace",
+        "fax",
+        "fax-machine",
+        "forms",
+        "legacy",
+        "machine",
+        "office",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "transmission"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-011.png"
+      },
+      "bbox_emu": {
+        "x": 10957519,
+        "y": 901242,
+        "width": 1107206,
+        "height": 1096595
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-012",
+      "name": "Checklist Pencil",
+      "semantic_name": "checklist-pencil",
+      "description": "Checklist with pencil, representing tasks, application checklist, or service request tracking.",
+      "alt_text": "Checklist with pencil.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 12,
+      "source_shape_names": [
+        "Google Shape;6589;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "application",
+        "checklist",
+        "checklist-pencil",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "or",
+        "pencil",
+        "people-hr-workforce",
+        "representing",
+        "request",
+        "service",
+        "tasks",
+        "tracking",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-012.png"
+      },
+      "bbox_emu": {
+        "x": 131693,
+        "y": 1981880,
+        "width": 1040315,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-013",
+      "name": "Hand Watch",
+      "semantic_name": "hand-watch",
+      "description": "Hand holding watch, representing timekeeping, response time, punctuality, or service timing.",
+      "alt_text": "Hand holding watch.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 13,
+      "source_shape_names": [
+        "Google Shape;6617;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "hand",
+        "hand-watch",
+        "holding",
+        "or",
+        "people-hr-workforce",
+        "punctuality",
+        "representing",
+        "response",
+        "service",
+        "time",
+        "time-scheduling",
+        "timekeeping",
+        "timing",
+        "watch"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-013.png"
+      },
+      "bbox_emu": {
+        "x": 1184174,
+        "y": 1981917,
+        "width": 1107206,
+        "height": 1107113
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-014",
+      "name": "Group Chat",
+      "semantic_name": "group-chat",
+      "description": "People with speech bubble, representing group discussion, meeting, or team communication.",
+      "alt_text": "People with speech bubble.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 14,
+      "source_shape_names": [
+        "Google Shape;6652;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 3
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "bubble",
+        "communication",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "discussion",
+        "group",
+        "group-chat",
+        "meeting",
+        "or",
+        "people",
+        "people-hr-workforce",
+        "representing",
+        "speech",
+        "team",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-014.png"
+      },
+      "bbox_emu": {
+        "x": 2270102,
+        "y": 1985866,
+        "width": 1107206,
+        "height": 1099216
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-015",
+      "name": "Email Question",
+      "semantic_name": "email-question",
+      "description": "Envelope with question mark, representing inquiry email, help request, or candidate question.",
+      "alt_text": "Envelope with question mark.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Google Shape;6691;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "marketing-seo-content",
+        "people-hr-workforce",
+        "recruitment-talent"
+      ],
+      "tags": [
+        "candidate",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "email",
+        "email-question",
+        "envelope",
+        "help",
+        "inquiry",
+        "mark",
+        "marketing-seo-content",
+        "or",
+        "people-hr-workforce",
+        "question",
+        "recruitment-talent",
+        "representing",
+        "request",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-015.png"
+      },
+      "bbox_emu": {
+        "x": 3356029,
+        "y": 1983228,
+        "width": 1107206,
+        "height": 1104496
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-016",
+      "name": "Chat Bubbles",
+      "semantic_name": "chat-bubbles",
+      "description": "Two chat bubbles, representing messaging, conversation, or support dialogue.",
+      "alt_text": "Two chat bubbles.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 16,
+      "source_shape_names": [
+        "Google Shape;6969;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "bubbles",
+        "chat",
+        "chat-bubbles",
+        "communication-hr-support",
+        "communication-support",
+        "conversation",
+        "dialogue",
+        "messaging",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "support",
+        "two"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-016.png"
+      },
+      "bbox_emu": {
+        "x": 4441956,
+        "y": 1983261,
+        "width": 1107206,
+        "height": 1104448
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-017",
+      "name": "Chat Settings",
+      "semantic_name": "chat-settings",
+      "description": "Chat bubble with gear, representing support configuration, chatbot setup, or service process.",
+      "alt_text": "Chat bubble with gear.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;6673;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "bubble",
+        "chat",
+        "chat-settings",
+        "chatbot",
+        "communication-hr-support",
+        "communication-support",
+        "configuration",
+        "digital-it-security",
+        "gear",
+        "or",
+        "people-hr-workforce",
+        "process",
+        "representing",
+        "service",
+        "setup",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-017.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 1985876,
+        "width": 1107206,
+        "height": 1099200
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-018",
+      "name": "Document Maintenance",
+      "semantic_name": "document-maintenance",
+      "description": "Document with wrench, representing support ticket, repair request, or issue resolution.",
+      "alt_text": "Document with wrench.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Google Shape;6539;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "document",
+        "document-maintenance",
+        "documents-files-records",
+        "issue",
+        "or",
+        "people-hr-workforce",
+        "repair",
+        "representing",
+        "request",
+        "resolution",
+        "support",
+        "ticket",
+        "with",
+        "wrench"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-018.png"
+      },
+      "bbox_emu": {
+        "x": 6613810,
+        "y": 1984484,
+        "width": 1107206,
+        "height": 1101979
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-019",
+      "name": "Question Search",
+      "semantic_name": "question-search",
+      "description": "Magnifying glass with question mark, representing help search, FAQ lookup, or investigation.",
+      "alt_text": "Magnifying glass with question mark.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Google Shape;6571;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "faq",
+        "glass",
+        "help",
+        "investigation",
+        "lookup",
+        "magnifying",
+        "mark",
+        "or",
+        "people-hr-workforce",
+        "question",
+        "question-search",
+        "representing",
+        "search",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-019.png"
+      },
+      "bbox_emu": {
+        "x": 7699737,
+        "y": 1984520,
+        "width": 1107206,
+        "height": 1101911
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-020",
+      "name": "Support Desk Time",
+      "semantic_name": "support-desk-time",
+      "description": "Support person with clock, representing helpdesk timing, appointment, or SLA support.",
+      "alt_text": "Support person with clock.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;6601;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "facilities-workplace",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "appointment",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "facilities-workplace",
+        "helpdesk",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "representing",
+        "sla",
+        "support",
+        "support-desk-time",
+        "time-scheduling",
+        "timing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-020.png"
+      },
+      "bbox_emu": {
+        "x": 8786386,
+        "y": 1981873,
+        "width": 1105763,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-021",
+      "name": "Access Key",
+      "semantic_name": "access-key",
+      "description": "Key, representing access, permission, login, or security credential.",
+      "alt_text": "Key.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;6639;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "legal-compliance-governance",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "access",
+        "access-key",
+        "communication-hr-support",
+        "communication-support",
+        "credential",
+        "digital-it-security",
+        "key",
+        "legal-compliance-governance",
+        "login",
+        "or",
+        "people-hr-workforce",
+        "permission",
+        "representing",
+        "safety-hse",
+        "security"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-021.png"
+      },
+      "bbox_emu": {
+        "x": 9871592,
+        "y": 1983177,
+        "width": 1107206,
+        "height": 1104597
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-022",
+      "name": "Mailbox",
+      "semantic_name": "mailbox",
+      "description": "Mailbox, representing mail delivery, inbox, or postal communication.",
+      "alt_text": "Mailbox.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 22,
+      "source_shape_names": [
+        "Google Shape;6677;p63"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "logistics-transport",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "communication",
+        "communication-hr-support",
+        "communication-support",
+        "delivery",
+        "inbox",
+        "logistics-transport",
+        "mail",
+        "mailbox",
+        "or",
+        "people-hr-workforce",
+        "postal",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-022.png"
+      },
+      "bbox_emu": {
+        "x": 10957519,
+        "y": 1988398,
+        "width": 1107206,
+        "height": 1094151
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-023",
+      "name": "Translation Chat",
+      "semantic_name": "translation-chat",
+      "description": "Translation speech bubbles, representing language support, localization, or multilingual communication.",
+      "alt_text": "Translation speech bubbles.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Google Shape;6554;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "bubbles",
+        "communication",
+        "communication-hr-support",
+        "communication-support",
+        "language",
+        "localization",
+        "multilingual",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "speech",
+        "support",
+        "translation",
+        "translation-chat"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-023.png"
+      },
+      "bbox_emu": {
+        "x": 101147,
+        "y": 3067800,
+        "width": 1101406,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-024",
+      "name": "Qa Chat",
+      "semantic_name": "qa-chat",
+      "description": "Question and check speech bubbles, representing Q&A, resolved inquiry, or verified answer.",
+      "alt_text": "Question and check speech bubbles.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 24,
+      "source_shape_names": [
+        "Google Shape;6582;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "legal-compliance-governance",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "a",
+        "and",
+        "answer",
+        "bubbles",
+        "check",
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "inquiry",
+        "legal-compliance-governance",
+        "or",
+        "people-hr-workforce",
+        "q",
+        "qa-chat",
+        "question",
+        "representing",
+        "resolved",
+        "speech",
+        "verified"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-024.png"
+      },
+      "bbox_emu": {
+        "x": 1184060,
+        "y": 3071771,
+        "width": 1107207,
+        "height": 1099264
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-025",
+      "name": "Information Circle",
+      "semantic_name": "information-circle",
+      "description": "Information symbol, representing help, guidance, or general information.",
+      "alt_text": "Information symbol.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 25,
+      "source_shape_names": [
+        "Google Shape;6612;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 3
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "documents-files-records",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "communication-hr-support",
+        "communication-support",
+        "design-creative-assets",
+        "documents-files-records",
+        "general",
+        "guidance",
+        "help",
+        "information",
+        "information-circle",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "symbol"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-025.png"
+      },
+      "bbox_emu": {
+        "x": 2272827,
+        "y": 3067793,
+        "width": 1101978,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-026",
+      "name": "Phone Call",
+      "semantic_name": "phone-call",
+      "description": "Phone call bubble, representing voice call, contact, or hotline.",
+      "alt_text": "Phone call bubble.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 26,
+      "source_shape_names": [
+        "Google Shape;6650;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "bubble",
+        "call",
+        "communication-hr-support",
+        "communication-support",
+        "contact",
+        "hotline",
+        "or",
+        "people-hr-workforce",
+        "phone",
+        "phone-call",
+        "representing",
+        "voice"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-026.png"
+      },
+      "bbox_emu": {
+        "x": 3356029,
+        "y": 3069155,
+        "width": 1107206,
+        "height": 1104496
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-027",
+      "name": "Mobile Sync",
+      "semantic_name": "mobile-sync",
+      "description": "Two mobile devices with arrows, representing device sync, mobile transfer, or app connection.",
+      "alt_text": "Two mobile devices with arrows.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 27,
+      "source_shape_names": [
+        "Google Shape;6689;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "app",
+        "arrows",
+        "communication-hr-support",
+        "communication-support",
+        "connection",
+        "device",
+        "devices",
+        "digital-it-security",
+        "mobile",
+        "mobile-sync",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "sync",
+        "transfer",
+        "two",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-027.png"
+      },
+      "bbox_emu": {
+        "x": 4441956,
+        "y": 3067844,
+        "width": 1107206,
+        "height": 1107113
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-028",
+      "name": "Info Location Pin",
+      "semantic_name": "info-location-pin",
+      "description": "Location pin with info symbol, representing information point, branch location, or service location.",
+      "alt_text": "Location pin with info symbol.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Google Shape;6563;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "branch",
+        "communication-hr-support",
+        "communication-support",
+        "digital-it-security",
+        "documents-files-records",
+        "info",
+        "info-location-pin",
+        "information",
+        "location",
+        "or",
+        "people-hr-workforce",
+        "pin",
+        "point",
+        "representing",
+        "service",
+        "symbol",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-028.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 3085229,
+        "width": 1107206,
+        "height": 1072343
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-029",
+      "name": "Question Mark",
+      "semantic_name": "question-mark",
+      "description": "Question mark in circle, representing help, FAQ, or uncertainty.",
+      "alt_text": "Question mark in circle.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;6592;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "circle",
+        "communication-hr-support",
+        "communication-support",
+        "faq",
+        "help",
+        "in",
+        "mark",
+        "or",
+        "people-hr-workforce",
+        "question",
+        "question-mark",
+        "representing",
+        "uncertainty"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-029.png"
+      },
+      "bbox_emu": {
+        "x": 6672497,
+        "y": 3067800,
+        "width": 989832,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-030",
+      "name": "Megaphone Announcement",
+      "semantic_name": "megaphone-announcement",
+      "description": "Megaphone, representing announcement, broadcast, or public communication.",
+      "alt_text": "Megaphone.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 30,
+      "source_shape_names": [
+        "Google Shape;6629;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "marketing-seo-content",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "announcement",
+        "broadcast",
+        "communication",
+        "communication-hr-support",
+        "communication-support",
+        "marketing-seo-content",
+        "megaphone",
+        "megaphone-announcement",
+        "or",
+        "people-hr-workforce",
+        "public",
+        "representing"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-030.png"
+      },
+      "bbox_emu": {
+        "x": 7699737,
+        "y": 3070454,
+        "width": 1107206,
+        "height": 1101897
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-031",
+      "name": "Support 24 Hours",
+      "semantic_name": "support-24-hours",
+      "description": "24-hour support cycle, representing always-on support, service availability, or round-the-clock help.",
+      "alt_text": "24-hour support cycle.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 31,
+      "source_shape_names": [
+        "Google Shape;6664;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "learning-education",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "24",
+        "always",
+        "availability",
+        "clock",
+        "communication-hr-support",
+        "communication-support",
+        "cycle",
+        "digital-it-security",
+        "help",
+        "hour",
+        "learning-education",
+        "on",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "round",
+        "service",
+        "support",
+        "support-24-hours",
+        "the",
+        "time-scheduling"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-031.png"
+      },
+      "bbox_emu": {
+        "x": 8785664,
+        "y": 3068350,
+        "width": 1107206,
+        "height": 1106105
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-032",
+      "name": "Global Support Network",
+      "semantic_name": "global-support-network",
+      "description": "Globe with connected nodes and location pin, representing global support network or connected services.",
+      "alt_text": "Globe with connected nodes and location pin.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 32,
+      "source_shape_names": [
+        "Google Shape;6694;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "and",
+        "communication-hr-support",
+        "communication-support",
+        "connected",
+        "digital-it-security",
+        "global",
+        "global-support-network",
+        "globe",
+        "location",
+        "network",
+        "nodes",
+        "or",
+        "people-hr-workforce",
+        "pin",
+        "representing",
+        "services",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-032.png"
+      },
+      "bbox_emu": {
+        "x": 9872078,
+        "y": 3067809,
+        "width": 1105597,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-033",
+      "name": "Helpdesk Headset",
+      "semantic_name": "helpdesk-headset",
+      "description": "Headset with info, representing helpdesk, customer support, or HR service center.",
+      "alt_text": "Headset with info.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 33,
+      "source_shape_names": [
+        "Google Shape;6596;p63"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "facilities-workplace",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "center",
+        "communication-hr-support",
+        "communication-support",
+        "customer",
+        "digital-it-security",
+        "facilities-workplace",
+        "headset",
+        "helpdesk",
+        "helpdesk-headset",
+        "hr",
+        "info",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "service",
+        "support",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-033.png"
+      },
+      "bbox_emu": {
+        "x": 10957519,
+        "y": 3070402,
+        "width": 1107206,
+        "height": 1101998
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-034",
+      "name": "Clock Time",
+      "semantic_name": "clock-time",
+      "description": "Clock, representing time, schedule, deadlines, or response time.",
+      "alt_text": "Clock.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 34,
+      "source_shape_names": [
+        "Google Shape;6703;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce",
+        "time-scheduling"
+      ],
+      "tags": [
+        "clock",
+        "clock-time",
+        "communication-hr-support",
+        "communication-support",
+        "deadlines",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "response",
+        "schedule",
+        "time",
+        "time-scheduling"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-034.png"
+      },
+      "bbox_emu": {
+        "x": 98247,
+        "y": 4153727,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-035",
+      "name": "Tools Support",
+      "semantic_name": "tools-support",
+      "description": "Wrench and screwdriver, representing technical support, maintenance, or troubleshooting.",
+      "alt_text": "Wrench and screwdriver.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;6543;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "and",
+        "communication-hr-support",
+        "communication-support",
+        "maintenance",
+        "or",
+        "people-hr-workforce",
+        "representing",
+        "screwdriver",
+        "support",
+        "technical",
+        "tools-support",
+        "troubleshooting",
+        "wrench"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-035.png"
+      },
+      "bbox_emu": {
+        "x": 1184174,
+        "y": 4156320,
+        "width": 1107206,
+        "height": 1101997
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-036",
+      "name": "Communication Hr Support Icon 036",
+      "semantic_name": "communication-hr-support-icon-036",
+      "description": "Communication, HR & Support icon for communication hr support icon 036: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 036: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;6572;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "036",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-036",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-036.png"
+      },
+      "bbox_emu": {
+        "x": 2270102,
+        "y": 4155051,
+        "width": 1107206,
+        "height": 1104578
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-037",
+      "name": "Communication Hr Support Icon 037",
+      "semantic_name": "communication-hr-support-icon-037",
+      "description": "Communication, HR & Support icon for communication hr support icon 037: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 037: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;6606;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "037",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-037",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-037.png"
+      },
+      "bbox_emu": {
+        "x": 3473031,
+        "y": 4153673,
+        "width": 875083,
+        "height": 1107200
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-038",
+      "name": "Communication Hr Support Icon 038",
+      "semantic_name": "communication-hr-support-icon-038",
+      "description": "Communication, HR & Support icon for communication hr support icon 038: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 038: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;6643;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "038",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-038",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-038.png"
+      },
+      "bbox_emu": {
+        "x": 4441956,
+        "y": 4153727,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-039",
+      "name": "Communication Hr Support Icon 039",
+      "semantic_name": "communication-hr-support-icon-039",
+      "description": "Communication, HR & Support icon for communication hr support icon 039: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 039: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;6683;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "039",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-039",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-039.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 4160288,
+        "width": 1107206,
+        "height": 1094081
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-040",
+      "name": "Communication Hr Support Icon 040",
+      "semantic_name": "communication-hr-support-icon-040",
+      "description": "Communication, HR & Support icon for communication hr support icon 040: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 040: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;6555;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "040",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-040",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-040.png"
+      },
+      "bbox_emu": {
+        "x": 6613855,
+        "y": 4153727,
+        "width": 1107113,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-041",
+      "name": "Communication Hr Support Icon 041",
+      "semantic_name": "communication-hr-support-icon-041",
+      "description": "Communication, HR & Support icon for communication hr support icon 041: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 041: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;6586;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "041",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-041",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-041.png"
+      },
+      "bbox_emu": {
+        "x": 7701724,
+        "y": 4153727,
+        "width": 1103232,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-042",
+      "name": "Communication Hr Support Icon 042",
+      "semantic_name": "communication-hr-support-icon-042",
+      "description": "Communication, HR & Support icon for communication hr support icon 042: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 042: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;6616;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "042",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-042",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-042.png"
+      },
+      "bbox_emu": {
+        "x": 8785709,
+        "y": 4153727,
+        "width": 1107113,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-043",
+      "name": "Communication Hr Support Icon 043",
+      "semantic_name": "communication-hr-support-icon-043",
+      "description": "Communication, HR & Support icon for communication hr support icon 043: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 043: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;6651;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "043",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-043",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-043.png"
+      },
+      "bbox_emu": {
+        "x": 9871592,
+        "y": 4155031,
+        "width": 1107206,
+        "height": 1104595
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-044",
+      "name": "Communication Hr Support Icon 044",
+      "semantic_name": "communication-hr-support-icon-044",
+      "description": "Communication, HR & Support icon for communication hr support icon 044: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 044: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Google Shape;6690;p63"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "044",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-044",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-044.png"
+      },
+      "bbox_emu": {
+        "x": 10957519,
+        "y": 4176885,
+        "width": 1107206,
+        "height": 1060891
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-045",
+      "name": "Communication Hr Support Icon 045",
+      "semantic_name": "communication-hr-support-icon-045",
+      "description": "Communication, HR & Support icon for communication hr support icon 045: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 045: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;6566;p63"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "045",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-045",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-045.png"
+      },
+      "bbox_emu": {
+        "x": 98247,
+        "y": 5244949,
+        "width": 1107206,
+        "height": 1096617
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-046",
+      "name": "Communication Hr Support Icon 046",
+      "semantic_name": "communication-hr-support-icon-046",
+      "description": "Communication, HR & Support icon for communication hr support icon 046: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 046: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;6593;p63"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "046",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-046",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-046.png"
+      },
+      "bbox_emu": {
+        "x": 1184174,
+        "y": 5258751,
+        "width": 1107206,
+        "height": 1069012
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-047",
+      "name": "Communication Hr Support Icon 047",
+      "semantic_name": "communication-hr-support-icon-047",
+      "description": "Communication, HR & Support icon for communication hr support icon 047: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 047: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;6633;p63"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "047",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-047",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-047.png"
+      },
+      "bbox_emu": {
+        "x": 2270102,
+        "y": 5243615,
+        "width": 1107206,
+        "height": 1099284
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-048",
+      "name": "Communication Hr Support Icon 048",
+      "semantic_name": "communication-hr-support-icon-048",
+      "description": "Communication, HR & Support icon for communication hr support icon 048: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 048: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;6668;p63"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "048",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-048",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-048.png"
+      },
+      "bbox_emu": {
+        "x": 3355494,
+        "y": 5239609,
+        "width": 1107211,
+        "height": 1107201
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-049",
+      "name": "Communication Hr Support Icon 049",
+      "semantic_name": "communication-hr-support-icon-049",
+      "description": "Communication, HR & Support icon for communication hr support icon 049: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 049: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;6699;p63"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "049",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-049",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-049.png"
+      },
+      "bbox_emu": {
+        "x": 4441956,
+        "y": 5239654,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "communication-hr-support-050",
+      "name": "Communication Hr Support Icon 050",
+      "semantic_name": "communication-hr-support-icon-050",
+      "description": "Communication, HR & Support icon for communication hr support icon 050: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "alt_text": "Communication, HR & Support icon for communication hr support icon 050: Communication, HR, service, support, helpdesk, message, employee engagement, or contact icon.",
+      "category_slug": "communication-hr-support",
+      "category": "Communication, HR & Support",
+      "source_slide": 6,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Google Shape;6634;p63"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "people-hr-workforce"
+      ],
+      "tags": [
+        "050",
+        "communication",
+        "communication-hr-support",
+        "communication-hr-support-icon-050",
+        "communication-support",
+        "contact",
+        "employee",
+        "engagement",
+        "for",
+        "helpdesk",
+        "hr",
+        "icon",
+        "message",
+        "or",
+        "people-hr-workforce",
+        "service",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/communication-hr-support/communication-hr-support-050.png"
+      },
+      "bbox_emu": {
+        "x": 5527883,
+        "y": 5240969,
+        "width": 1107206,
+        "height": 1104577
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-020",
+      "name": "Music Headphones",
+      "semantic_name": "music-headphones",
+      "description": "Headphones with music note, representing audio, media, or sound design.",
+      "alt_text": "Headphones with music note.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Google Shape;6235;p61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 11
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "documents-files-records",
+        "innovation-growth"
+      ],
+      "tags": [
+        "audio",
+        "communication-support",
+        "design",
+        "design-creative-assets",
+        "design-creative-files",
+        "digital-it-security",
+        "documents-files-records",
+        "headphones",
+        "innovation-growth",
+        "media",
+        "music",
+        "music-headphones",
+        "note",
+        "or",
+        "representing",
+        "sound",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-020.png"
+      },
+      "bbox_emu": {
+        "x": 10814896,
+        "y": 2028017,
+        "width": 1107206,
+        "height": 956862
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "design-creative-files-035",
+      "name": "Paper Plane",
+      "semantic_name": "paper-plane",
+      "description": "Paper plane, representing sending, launch, communication, or lightweight delivery.",
+      "alt_text": "Paper plane.",
+      "category_slug": "design-creative-files",
+      "category": "Design, Creative & Files",
+      "source_slide": 7,
+      "slide_order": 35,
+      "source_shape_names": [
+        "Google Shape;5760;p61"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "documents-files-records",
+        "innovation-growth",
+        "logistics-transport"
+      ],
+      "tags": [
+        "communication",
+        "communication-support",
+        "delivery",
+        "design-creative-assets",
+        "design-creative-files",
+        "documents-files-records",
+        "innovation-growth",
+        "launch",
+        "lightweight",
+        "logistics-transport",
+        "or",
+        "paper",
+        "paper-plane",
+        "plane",
+        "representing",
+        "sending"
+      ],
+      "paths": {
+        "png_512": "png/512/design-creative-files/design-creative-files-035.png"
+      },
+      "bbox_emu": {
+        "x": 5556912,
+        "y": 4138278,
+        "width": 1107206,
+        "height": 1080049
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "education-science-general-002",
+      "name": "Speech Bubble",
+      "semantic_name": "speech-bubble",
+      "description": "Speech bubble with dots, representing conversation, comments, or messaging.",
+      "alt_text": "Speech bubble with dots.",
+      "category_slug": "education-science-general",
+      "category": "Education, Science & General Objects",
+      "source_slide": 8,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;6268;p62"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "learning-education"
+      ],
+      "tags": [
+        "bubble",
+        "comments",
+        "communication-support",
+        "conversation",
+        "digital-it-security",
+        "dots",
+        "education-science-general",
+        "learning-education",
+        "messaging",
+        "or",
+        "representing",
+        "speech",
+        "speech-bubble",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/education-science-general/education-science-general-002.png"
+      },
+      "bbox_emu": {
+        "x": 1198688,
+        "y": 998095,
+        "width": 1107206,
+        "height": 1048048
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-002",
+      "name": "First Aid Kit",
+      "semantic_name": "first-aid-kit",
+      "description": "First aid kit, representing emergency care, first aid, or medical support.",
+      "alt_text": "First aid kit.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 2,
+      "source_shape_names": [
+        "Google Shape;7027;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 2
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "aid",
+        "care",
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "emergency",
+        "first",
+        "first-aid-kit",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "kit",
+        "medical",
+        "or",
+        "representing",
+        "safety-hse",
+        "support"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-002.png"
+      },
+      "bbox_emu": {
+        "x": 1253811,
+        "y": 924975,
+        "width": 996958,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-008",
+      "name": "Mobile Medical",
+      "semantic_name": "mobile-medical",
+      "description": "Mobile phone with medical cross, representing telehealth, mobile health, or health app.",
+      "alt_text": "Mobile phone with medical cross.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 8,
+      "source_shape_names": [
+        "Google Shape;7077;p64"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "app",
+        "communication-support",
+        "cross",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "mobile",
+        "mobile-medical",
+        "or",
+        "phone",
+        "representing",
+        "telehealth",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-008.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 924975,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-017",
+      "name": "Emergency Siren",
+      "semantic_name": "emergency-siren",
+      "description": "Emergency siren, representing alert, emergency response, or urgent medical support.",
+      "alt_text": "Emergency siren.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 17,
+      "source_shape_names": [
+        "Google Shape;7113;p64"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 6
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical",
+        "safety-hse"
+      ],
+      "tags": [
+        "alert",
+        "communication-support",
+        "drilling-rigs-wells",
+        "emergency",
+        "emergency-siren",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "medical",
+        "or",
+        "representing",
+        "response",
+        "safety-hse",
+        "siren",
+        "support",
+        "urgent"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-017.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 2013513,
+        "width": 1107206,
+        "height": 1101979
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "health-medical-wellbeing-029",
+      "name": "Medical Cross Heart",
+      "semantic_name": "medical-cross-heart",
+      "description": "Medical cross with heart, representing care, health support, or wellbeing services.",
+      "alt_text": "Medical cross with heart.",
+      "category_slug": "health-medical-wellbeing",
+      "category": "Health, Medical & Wellbeing",
+      "source_slide": 9,
+      "slide_order": 29,
+      "source_shape_names": [
+        "Google Shape;7090;p64"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health-wellbeing-medical"
+      ],
+      "tags": [
+        "care",
+        "communication-support",
+        "cross",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "health",
+        "health-medical-wellbeing",
+        "health-wellbeing-medical",
+        "heart",
+        "medical",
+        "medical-cross-heart",
+        "or",
+        "representing",
+        "services",
+        "support",
+        "wellbeing",
+        "with"
+      ],
+      "paths": {
+        "png_512": "png/512/health-medical-wellbeing/health-medical-wellbeing-029.png"
+      },
+      "bbox_emu": {
+        "x": 7764128,
+        "y": 3096829,
+        "width": 1007452,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-007",
+      "name": "Workboat Vessel",
+      "semantic_name": "workboat-vessel",
+      "description": "Small vessel or workboat, representing marine support, offshore logistics, or transport.",
+      "alt_text": "Small vessel or workboat.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 7,
+      "source_shape_names": [
+        "Group 56"
+      ],
+      "grid_cell": {
+        "row": 1,
+        "column": 7
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "industrial-equipment",
+        "logistics-transport",
+        "offshore-marine",
+        "oil-gas-energy",
+        "safety-hse"
+      ],
+      "tags": [
+        "communication-support",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "logistics",
+        "logistics-transport",
+        "marine",
+        "offshore",
+        "offshore-marine",
+        "oil-gas-energy",
+        "or",
+        "representing",
+        "safety-hse",
+        "small",
+        "support",
+        "transport",
+        "vessel",
+        "workboat",
+        "workboat-vessel"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-007.png"
+      },
+      "bbox_emu": {
+        "x": 7325663,
+        "y": 1357483,
+        "width": 1016227,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-015",
+      "name": "Worker Question",
+      "semantic_name": "worker-question",
+      "description": "Person with question bubble, representing worker inquiry, help, or safety question.",
+      "alt_text": "Person with question bubble.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 15,
+      "source_shape_names": [
+        "Group 62"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 5
+      },
+      "primary_use_group": "communication-support",
+      "use_groups": [
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "people-hr-workforce",
+        "safety-hse"
+      ],
+      "tags": [
+        "bubble",
+        "communication-support",
+        "design-creative-assets",
+        "digital-it-security",
+        "help",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "inquiry",
+        "oil-gas-energy",
+        "or",
+        "people-hr-workforce",
+        "person",
+        "question",
+        "representing",
+        "safety",
+        "safety-hse",
+        "with",
+        "worker",
+        "worker-question"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-015.png"
+      },
+      "bbox_emu": {
+        "x": 4710005,
+        "y": 2864604,
+        "width": 1107206,
+        "height": 1107207
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}

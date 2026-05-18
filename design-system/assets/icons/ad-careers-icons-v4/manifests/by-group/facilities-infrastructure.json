@@ -1,0 +1,1545 @@
+{
+  "group_slug": "facilities-infrastructure",
+  "description": "Buildings, facilities, offices, infrastructure, sites, and locations.",
+  "count": 26,
+  "icons": [
+    {
+      "id": "digital-marketing-security-036",
+      "name": "Digital Marketing Security Icon 036",
+      "semantic_name": "digital-marketing-security-icon-036",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 036: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 036: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 36,
+      "source_shape_names": [
+        "Google Shape;8278;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "036",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-036",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-036.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 4168241,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-037",
+      "name": "Digital Marketing Security Icon 037",
+      "semantic_name": "digital-marketing-security-icon-037",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 037: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 037: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 37,
+      "source_shape_names": [
+        "Google Shape;8320;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "037",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-037",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-037.png"
+      },
+      "bbox_emu": {
+        "x": 3398498,
+        "y": 4168241,
+        "width": 1051295,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-038",
+      "name": "Digital Marketing Security Icon 038",
+      "semantic_name": "digital-marketing-security-icon-038",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 038: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 038: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 38,
+      "source_shape_names": [
+        "Google Shape;8362;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "038",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-038",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-038.png"
+      },
+      "bbox_emu": {
+        "x": 4456470,
+        "y": 4169548,
+        "width": 1107206,
+        "height": 1104593
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-039",
+      "name": "Digital Marketing Security Icon 039",
+      "semantic_name": "digital-marketing-security-icon-039",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 039: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 039: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 39,
+      "source_shape_names": [
+        "Google Shape;8388;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "039",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-039",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-039.png"
+      },
+      "bbox_emu": {
+        "x": 5542397,
+        "y": 4169595,
+        "width": 1107206,
+        "height": 1104499
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-040",
+      "name": "Digital Marketing Security Icon 040",
+      "semantic_name": "digital-marketing-security-icon-040",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 040: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 040: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 40,
+      "source_shape_names": [
+        "Google Shape;8253;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 7
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "040",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-040",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-040.png"
+      },
+      "bbox_emu": {
+        "x": 6628308,
+        "y": 4170875,
+        "width": 1107207,
+        "height": 1101895
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-041",
+      "name": "Digital Marketing Security Icon 041",
+      "semantic_name": "digital-marketing-security-icon-041",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 041: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 041: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 41,
+      "source_shape_names": [
+        "Google Shape;8289;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 8
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "041",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-041",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-041.png"
+      },
+      "bbox_emu": {
+        "x": 7714251,
+        "y": 4168286,
+        "width": 1107206,
+        "height": 1107113
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-042",
+      "name": "Digital Marketing Security Icon 042",
+      "semantic_name": "digital-marketing-security-icon-042",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 042: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 042: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 42,
+      "source_shape_names": [
+        "Google Shape;8337;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 9
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "042",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-042",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-042.png"
+      },
+      "bbox_emu": {
+        "x": 8800178,
+        "y": 4197624,
+        "width": 1107206,
+        "height": 1048440
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-043",
+      "name": "Digital Marketing Security Icon 043",
+      "semantic_name": "digital-marketing-security-icon-043",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 043: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 043: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 43,
+      "source_shape_names": [
+        "Google Shape;8371;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 10
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "043",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-043",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-043.png"
+      },
+      "bbox_emu": {
+        "x": 9888717,
+        "y": 4168241,
+        "width": 1101979,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-044",
+      "name": "Digital Marketing Security Icon 044",
+      "semantic_name": "digital-marketing-security-icon-044",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 044: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 044: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 44,
+      "source_shape_names": [
+        "Google Shape;8402;p67"
+      ],
+      "grid_cell": {
+        "row": 4,
+        "column": 11
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "044",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-044",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-044.png"
+      },
+      "bbox_emu": {
+        "x": 11147620,
+        "y": 4168241,
+        "width": 756031,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-045",
+      "name": "Digital Marketing Security Icon 045",
+      "semantic_name": "digital-marketing-security-icon-045",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 045: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 045: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 45,
+      "source_shape_names": [
+        "Google Shape;8266;p67"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 1
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "045",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-045",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-045.png"
+      },
+      "bbox_emu": {
+        "x": 112761,
+        "y": 5311541,
+        "width": 1107206,
+        "height": 992457
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-046",
+      "name": "Digital Marketing Security Icon 046",
+      "semantic_name": "digital-marketing-security-icon-046",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 046: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 046: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 46,
+      "source_shape_names": [
+        "Google Shape;8307;p67"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 2
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "046",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-046",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-046.png"
+      },
+      "bbox_emu": {
+        "x": 1198750,
+        "y": 5256812,
+        "width": 1107199,
+        "height": 1101878
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-047",
+      "name": "Digital Marketing Security Icon 047",
+      "semantic_name": "digital-marketing-security-icon-047",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 047: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 047: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 47,
+      "source_shape_names": [
+        "Google Shape;8350;p67"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 3
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "047",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-047",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-047.png"
+      },
+      "bbox_emu": {
+        "x": 2284616,
+        "y": 5255471,
+        "width": 1107206,
+        "height": 1104600
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-048",
+      "name": "Digital Marketing Security Icon 048",
+      "semantic_name": "digital-marketing-security-icon-048",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 048: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 048: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 48,
+      "source_shape_names": [
+        "Google Shape;8376;p67"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 4
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "048",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-048",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-048.png"
+      },
+      "bbox_emu": {
+        "x": 3371855,
+        "y": 5254168,
+        "width": 1104581,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-049",
+      "name": "Digital Marketing Security Icon 049",
+      "semantic_name": "digital-marketing-security-icon-049",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 049: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 049: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 49,
+      "source_shape_names": [
+        "Google Shape;8413;p67"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 5
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "049",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-049",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-049.png"
+      },
+      "bbox_emu": {
+        "x": 4457782,
+        "y": 5254168,
+        "width": 1104581,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "digital-marketing-security-050",
+      "name": "Digital Marketing Security Icon 050",
+      "semantic_name": "digital-marketing-security-icon-050",
+      "description": "Digital, Marketing & Security icon for digital marketing security icon 050: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "alt_text": "Digital, Marketing & Security icon for digital marketing security icon 050: Digital, IT, cyber security, website, cloud, data, marketing, or technology icon.",
+      "category_slug": "digital-marketing-security",
+      "category": "Digital, Marketing & Security",
+      "source_slide": 4,
+      "slide_order": 50,
+      "source_shape_names": [
+        "Google Shape;8351;p67"
+      ],
+      "grid_cell": {
+        "row": 5,
+        "column": 6
+      },
+      "primary_use_group": "analytics-reporting",
+      "use_groups": [
+        "analytics-reporting",
+        "digital-it-security",
+        "facilities-infrastructure",
+        "marketing-brand"
+      ],
+      "tags": [
+        "050",
+        "analytics-reporting",
+        "cloud",
+        "cyber",
+        "data",
+        "digital",
+        "digital-it-security",
+        "digital-marketing-security",
+        "digital-marketing-security-icon-050",
+        "facilities-infrastructure",
+        "for",
+        "icon",
+        "it",
+        "marketing",
+        "marketing-brand",
+        "or",
+        "security",
+        "technology",
+        "website"
+      ],
+      "paths": {
+        "png_512": "png/512/digital-marketing-security/digital-marketing-security-050.png"
+      },
+      "bbox_emu": {
+        "x": 5543710,
+        "y": 5254158,
+        "width": 1104581,
+        "height": 1107205
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-018",
+      "name": "Site Operator",
+      "semantic_name": "site-operator",
+      "description": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for site operator: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 18,
+      "source_shape_names": [
+        "Group 60"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operator",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "site",
+        "site-operator",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-018.png"
+      },
+      "bbox_emu": {
+        "x": 8519726,
+        "y": 2946867,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-019",
+      "name": "Drilling Equipment",
+      "semantic_name": "drilling-equipment",
+      "description": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for drilling equipment: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 19,
+      "source_shape_names": [
+        "Group 61"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 9
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling",
+        "drilling-equipment",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-019.png"
+      },
+      "bbox_emu": {
+        "x": 9789660,
+        "y": 2864600,
+        "width": 1107208,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-020",
+      "name": "Industrial Network",
+      "semantic_name": "industrial-network",
+      "description": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial network: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 20,
+      "source_shape_names": [
+        "Group 72"
+      ],
+      "grid_cell": {
+        "row": 2,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-network",
+        "network",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-020.png"
+      },
+      "bbox_emu": {
+        "x": 11059540,
+        "y": 2864600,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-021",
+      "name": "Energy Asset",
+      "semantic_name": "energy-asset",
+      "description": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for energy asset: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 21,
+      "source_shape_names": [
+        "Google Shape;8681;p68"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 1
+      },
+      "primary_use_group": "design-creative-assets",
+      "use_groups": [
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "asset",
+        "design-creative-assets",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "energy-asset",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-021.png"
+      },
+      "bbox_emu": {
+        "x": 413163,
+        "y": 4340516,
+        "width": 1107206,
+        "height": 1091622
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-022",
+      "name": "Facility Management",
+      "semantic_name": "facility-management",
+      "description": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for facility management: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 22,
+      "source_shape_names": [
+        "object 80"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 2
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "facility-management",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "management",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-022.png"
+      },
+      "bbox_emu": {
+        "x": 1873532,
+        "y": 4410336,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-023",
+      "name": "Operations Check",
+      "semantic_name": "operations-check",
+      "description": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for operations check: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 23,
+      "source_shape_names": [
+        "Group 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 4
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "check",
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "operations-check",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-023.png"
+      },
+      "bbox_emu": {
+        "x": 3136460,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-024",
+      "name": "Field Service",
+      "semantic_name": "field-service",
+      "description": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for field service: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 24,
+      "source_shape_names": [
+        "object 15"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 5
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "field-service",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "service",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-024.png"
+      },
+      "bbox_emu": {
+        "x": 4596829,
+        "y": 4438184,
+        "width": 909765,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-025",
+      "name": "Equipment Reliability",
+      "semantic_name": "equipment-reliability",
+      "description": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for equipment reliability: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 25,
+      "source_shape_names": [
+        "object 16"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 6
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "equipment-reliability",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "reliability",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-025.png"
+      },
+      "bbox_emu": {
+        "x": 5859757,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-026",
+      "name": "Plant Operations",
+      "semantic_name": "plant-operations",
+      "description": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for plant operations: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 26,
+      "source_shape_names": [
+        "object 17"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 7
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "operations",
+        "or",
+        "plant",
+        "plant-operations",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-026.png"
+      },
+      "bbox_emu": {
+        "x": 7320126,
+        "y": 4520451,
+        "width": 1107206,
+        "height": 942671
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-027",
+      "name": "Industrial Monitor",
+      "semantic_name": "industrial-monitor",
+      "description": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for industrial monitor: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 27,
+      "source_shape_names": [
+        "object 19"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 8
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "industrial-monitor",
+        "monitor",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "safety",
+        "safety-hse",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-027.png"
+      },
+      "bbox_emu": {
+        "x": 8780495,
+        "y": 4438184,
+        "width": 1107206,
+        "height": 1107206
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    },
+    {
+      "id": "industrial-energy-safety-028",
+      "name": "Safety Readiness",
+      "semantic_name": "safety-readiness",
+      "description": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "alt_text": "Industrial, Energy & Safety icon for safety readiness: Industrial, safety, field operation, equipment, energy system, facility, or Saudi workplace icon.",
+      "category_slug": "industrial-energy-safety",
+      "category": "Industrial, Energy & Safety",
+      "source_slide": 10,
+      "slide_order": 28,
+      "source_shape_names": [
+        "Group 110"
+      ],
+      "grid_cell": {
+        "row": 3,
+        "column": 10
+      },
+      "primary_use_group": "digital-it-security",
+      "use_groups": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "facilities-infrastructure",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "safety-hse",
+        "saudization-local-talent"
+      ],
+      "tags": [
+        "digital-it-security",
+        "drilling-rigs-wells",
+        "energy",
+        "equipment",
+        "facilities-infrastructure",
+        "facility",
+        "field",
+        "for",
+        "icon",
+        "industrial",
+        "industrial-energy-safety",
+        "industrial-equipment",
+        "oil-gas-energy",
+        "operation",
+        "or",
+        "readiness",
+        "safety",
+        "safety-hse",
+        "safety-readiness",
+        "saudi",
+        "saudization-local-talent",
+        "system",
+        "workplace"
+      ],
+      "paths": {
+        "png_512": "png/512/industrial-energy-safety/industrial-energy-safety-028.png"
+      },
+      "bbox_emu": {
+        "x": 10240864,
+        "y": 4633903,
+        "width": 1537977,
+        "height": 907764
+      },
+      "crop_notes": "Full icon crop produced by merging all top-level shapes in the same visual grid cell."
+    }
+  ]
+}
