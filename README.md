@@ -16,6 +16,12 @@ You can also open `index.html` directly in a browser because the site has no bui
 
 This is a static site and can be published directly from the repository root on the `main` branch. The `.nojekyll` file is included so GitHub Pages serves all folders and assets without Jekyll processing.
 
+Expected GitHub Pages URL:
+
+<https://ad-falmozaini.github.io/AD-Careers/>
+
+The repository includes a GitHub Actions workflow at `.github/workflows/pages.yml`. In GitHub, confirm `Settings > Pages > Source` is set to `GitHub Actions`.
+
 ## Project Contents
 
 - Careers homepage
