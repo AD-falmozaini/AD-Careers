@@ -1308,7 +1308,7 @@ main > .section:nth-of-type(odd){
   position:relative;
   overflow:hidden;
   width:100%;
-  background-image:linear-gradient(147deg,rgba(0,42,36,.96) 20%,rgba(0,60,52,.72) 100%),url("design-system/corporate/images/home-hero.png");
+  background-image:linear-gradient(147deg,rgba(0,42,36,.96) 20%,rgba(0,60,52,.72) 100%),url("design-system/assets/images/jackup-tugs-deploy.jpg");
   background-position:center;
   background-size:cover;
   color:#fff;
