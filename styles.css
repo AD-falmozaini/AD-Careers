@@ -7263,7 +7263,7 @@ body[class*="page-"] .page-hero{
   background-size:cover,cover !important;
 }
 
-body.page-index{--ad-hero-image:url("design-system/corporate/images/home-hero.png");--ad-hero-position:center;--ad-hero-overlay:linear-gradient(147deg,rgba(0,14,13,.92) 16%,rgba(0,60,52,.34) 100%)}
+body.page-index{--ad-hero-image:url("design-system/assets/images/sf-current-home-hero.jpg");--ad-hero-position:center;--ad-hero-overlay:linear-gradient(147deg,rgba(0,14,13,.9) 16%,rgba(0,60,52,.36) 100%)}
 body.page-about-ad{--ad-hero-image:url("design-system/assets/images/araborill-150-tower.jpg");--ad-hero-position:center 30%;--ad-hero-overlay:linear-gradient(147deg,rgba(0,20,18,.9) 20%,rgba(0,60,52,.42) 100%)}
 body.page-apply-hse-officer{--ad-hero-image:url("design-system/assets/images/safety-man-green.png");--ad-hero-position:center 38%;--ad-hero-overlay:linear-gradient(147deg,rgba(0,36,31,.9) 22%,rgba(0,60,52,.5) 100%)}
 body.page-arabic{--ad-hero-image:url("design-system/assets/images/jackup-horizon-blue.jpg");--ad-hero-position:right center;--ad-hero-overlay:linear-gradient(147deg,rgba(0,18,16,.92) 18%,rgba(0,60,52,.42) 100%)}
