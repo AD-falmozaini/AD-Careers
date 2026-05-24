@@ -1,6 +1,7 @@
 @import url("design-system/colors_and_type.css");
 
 *{box-sizing:border-box}
+html,body{max-width:100%;overflow-x:hidden}
 html,body{margin:0;background:var(--adc-surface-alt);color:var(--adc-ink);font-family:var(--adc-font-body);font-size:15px;line-height:var(--adc-lh-body)}
 html{scroll-behavior:smooth}
 a{color:inherit;text-decoration:none}
