@@ -9500,9 +9500,169 @@ body .story-section-head p{
   line-height:1.45 !important;
 }
 
+/* BHP-inspired candidate guidance enhancements. */
+.grid.cols-5{
+  grid-template-columns:repeat(5,minmax(0,1fr));
+}
+
+.employee-proof-home{
+  background:#f4f6f5;
+}
+
+.employee-proof-card{
+  border-left:4px solid var(--corp-gold);
+  min-height:260px;
+}
+
+.employee-proof-card span{
+  color:var(--ad-orange);
+  display:block;
+  font-size:14px;
+  font-weight:600;
+  margin-bottom:22px;
+  text-transform:uppercase;
+}
+
+.employee-proof-card h3{
+  color:var(--corp-green);
+  font-size:28px;
+  line-height:1.1;
+  margin-bottom:14px;
+}
+
+.employee-proof-card p{
+  color:var(--ad-text);
+  font-size:19px;
+  line-height:1.45;
+}
+
+.stage-checklist{
+  display:grid;
+  gap:8px;
+  list-style:none;
+  margin:16px 0 0;
+  padding:0;
+}
+
+.stage-checklist li{
+  color:var(--ad-text);
+  font-size:15px;
+  line-height:1.45;
+  padding-left:18px;
+  position:relative;
+}
+
+.stage-checklist li::before{
+  background:var(--ad-orange);
+  content:"";
+  height:7px;
+  left:0;
+  position:absolute;
+  top:.62em;
+  width:7px;
+}
+
+.hiring-stage-list .stage-checklist li{
+  color:inherit;
+}
+
+.job-candidate-guidance{
+  background:#fff;
+  border-top:1px solid rgba(0,69,61,.14);
+}
+
+.job-guidance-grid{
+  border:1px solid rgba(0,69,61,.16);
+  gap:0;
+}
+
+.job-guidance-card{
+  border-left:1px solid rgba(0,69,61,.16);
+  min-height:230px;
+  padding:28px 22px;
+}
+
+.job-guidance-card:first-child{
+  border-left:4px solid var(--corp-gold);
+}
+
+.job-guidance-card h3{
+  color:var(--corp-green);
+  font-size:24px;
+  line-height:1.1;
+  margin-bottom:14px;
+}
+
+.job-guidance-card p{
+  color:var(--ad-text);
+  font-size:18px;
+  line-height:1.45;
+}
+
+.graduate-detail-grid .card{
+  min-height:260px;
+}
+
+.benefits-detail-grid{
+  border:1px solid rgba(0,69,61,.16);
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  margin-top:34px;
+}
+
+.benefits-detail-grid article{
+  border-left:1px solid rgba(0,69,61,.16);
+  border-top:1px solid rgba(0,69,61,.16);
+  min-height:230px;
+  padding:30px 28px;
+}
+
+.benefits-detail-grid article:nth-child(-n+3){
+  border-top:0;
+}
+
+.benefits-detail-grid article:nth-child(3n+1){
+  border-left:4px solid var(--corp-gold);
+}
+
+.benefits-detail-grid h3{
+  color:var(--corp-green);
+  font-size:26px;
+  line-height:1.1;
+  margin-bottom:14px;
+}
+
+.benefits-detail-grid p{
+  color:var(--ad-text);
+  font-size:18px;
+  line-height:1.45;
+}
+
 @media(max-width:1100px){
   .talent-pool-grid{
     grid-template-columns:repeat(3,minmax(0,1fr));
+  }
+
+  .grid.cols-5,
+  .job-guidance-grid,
+  .benefits-detail-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+
+  .benefits-detail-grid article:nth-child(-n+3){
+    border-top:1px solid rgba(0,69,61,.16);
+  }
+
+  .benefits-detail-grid article:nth-child(-n+2){
+    border-top:0;
+  }
+
+  .benefits-detail-grid article:nth-child(3n+1){
+    border-left:1px solid rgba(0,69,61,.16);
+  }
+
+  .benefits-detail-grid article:nth-child(2n+1){
+    border-left:4px solid var(--corp-gold);
   }
 
   .talent-pool-jobs-panel{
@@ -9631,5 +9791,24 @@ body .story-section-head p{
 
   .talent-pool-jobs-panel p{
     font-size:18px;
+  }
+
+  .grid.cols-5,
+  .job-guidance-grid,
+  .benefits-detail-grid{
+    grid-template-columns:1fr;
+  }
+
+  .job-guidance-card,
+  .benefits-detail-grid article,
+  .benefits-detail-grid article:nth-child(-n+2),
+  .benefits-detail-grid article:nth-child(2n+1){
+    border-left:4px solid var(--corp-gold);
+    border-top:1px solid rgba(0,69,61,.16);
+  }
+
+  .job-guidance-card:first-child,
+  .benefits-detail-grid article:first-child{
+    border-top:0;
   }
 }
