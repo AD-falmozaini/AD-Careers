@@ -4530,6 +4530,9 @@ a:focus{
   min-height:430px;
   padding:56px;
 }
+.ad-split-image.home-resource-image{
+  background-position:center 18%;
+}
 .ad-split-image > div{
   max-width:620px;
 }
