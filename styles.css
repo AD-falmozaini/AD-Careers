@@ -3487,7 +3487,7 @@ main > .section:nth-of-type(odd){
   text-transform:uppercase;
 }
 .corporate-contact-form-layout .form .btn.primary::after{
-  content:"→";
+  content:"";
   font-size:24px;
   line-height:1;
 }
@@ -4579,7 +4579,7 @@ a:focus{
   padding-top:28px;
 }
 .ad-arrow-link::after{
-  content:" →";
+  content:"";
 }
 .ad-tab-bar{
   align-items:center;
@@ -4835,7 +4835,7 @@ a:focus{
   text-decoration:none;
 }
 .ad-award-card a::after{
-  content:" →";
+  content:"";
   padding-left:8px;
 }
 .ad-award-card.is-dark{
@@ -4992,7 +4992,7 @@ button.btn.primary::after,
 .explore-cta-actions .btn.primary::after,
 .job-hero-actions .btn.primary::after,
 .nav-actions .btn.primary::after{
-  content:" →";
+  content:"";
   font-weight:700;
   line-height:1;
   margin-left:6px;
@@ -6281,7 +6281,7 @@ main:has(.function-page) > .page-hero .breadcrumb{
 }
 .faq-help-links a::after{
   color:var(--corp-gold);
-  content:" →";
+  content:"";
 }
 .faq-list{
   display:grid;
@@ -6586,7 +6586,7 @@ main:has(.function-page) > .page-hero .breadcrumb{
   transition:max-height .22s ease,opacity .22s ease,transform .22s ease;
 }
 .hiring-stage-interactions a::after{
-  content:" →";
+  content:"";
 }
 .hiring-stage-interactions li:hover .stage-note,
 .hiring-stage-interactions li:focus .stage-note,
@@ -9952,4 +9952,186 @@ body .story-section-head p{
   .benefits-detail-grid article:first-child{
     border-top:0;
   }
+}
+
+/* Final active-site standards: keep typography, icons, and high-density rendering consistent. */
+html{
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  text-rendering:optimizeLegibility;
+}
+
+body,
+body input,
+body select,
+body textarea,
+body button{
+  font-family:"Certo Sans", var(--adc-font-body), Arial, sans-serif !important;
+  letter-spacing:0 !important;
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body .nav-links a,
+body .mega-trigger,
+body .btn,
+body .badge,
+body .job-meta span,
+body .job-hero-meta span,
+body .talent-pool-functions li,
+body .kicker,
+body .form label,
+body .form-eyebrow,
+body .job-hero-panel dt,
+body .job-hero-panel dd,
+body .job-fact-list dt,
+body .job-fact-list dd,
+body .sf-job-facts-card dt,
+body .sf-job-facts-card dd,
+body .sf-side-facts dt,
+body .sf-side-facts dd{
+  letter-spacing:0 !important;
+}
+
+body p,
+body li,
+body dd,
+body dt,
+body label,
+body input,
+body select,
+body textarea{
+  font-weight:300;
+}
+
+body .btn,
+body .ad-arrow-link,
+body .corporate-text-link,
+body .threeimagecaption-link,
+body .job-meta span,
+body .job-hero-meta span,
+body .badge,
+body .form label,
+body .contact-panel-list strong,
+body .sf-job-facts-card dd,
+body .sf-side-facts dd{
+  font-weight:400 !important;
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body .section-head h2,
+body .card h3{
+  font-weight:700;
+}
+
+body img,
+body svg{
+  image-rendering:auto;
+  shape-rendering:geometricPrecision;
+}
+
+body img{
+  max-width:100%;
+  height:auto;
+}
+
+body .logo-mark,
+body .footer-logo img,
+body .career-icon,
+body .icon,
+body .ad-split-icon,
+body .ad-split-icon-img,
+body .corporate-big-icon,
+body .ad-process-icon,
+body .ad-stage-icon{
+  image-rendering:auto;
+  transform:translateZ(0);
+  backface-visibility:hidden;
+}
+
+body .career-icon,
+body .ad-split-icon-img,
+body .corporate-big-icon,
+body .ad-process-icon,
+body .ad-stage-icon{
+  object-fit:contain;
+}
+
+body .icon-arrow,
+body .btn.primary::after,
+body button.btn.primary::after,
+body .search-box .btn::after,
+body .form .btn.primary::after,
+body .job-card .btn.primary::after,
+body .job-cta-panel .btn.primary::after,
+body .talent-cta-actions .btn.primary::after,
+body .explore-cta-actions .btn.primary::after,
+body .job-hero-actions .btn.primary::after,
+body .corporate-contact-form-layout .form .btn.primary::after,
+body .ad-arrow-link::after,
+body .corporate-text-link::after,
+body .threeimagecaption-link::after{
+  content:"" !important;
+  display:inline-block;
+  flex:0 0 auto;
+  width:1.05em;
+  height:1.05em;
+  margin-left:.45rem;
+  vertical-align:-.15em;
+  background:currentColor;
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14'/%3E%3Cpath d='m13 6 6 6-6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14'/%3E%3Cpath d='m13 6 6 6-6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+
+body .icon-arrow{
+  display:inline-flex !important;
+  align-items:center;
+  justify-content:center;
+  margin-left:.35rem;
+}
+
+body .btn:has(.icon-arrow)::after,
+body .ad-arrow-link:has(.icon-arrow)::after,
+body .corporate-text-link:has(.icon-arrow)::after,
+body .threeimagecaption-link:has(.icon-arrow)::after{
+  content:none !important;
+  display:none !important;
+}
+
+body .nav-actions .btn.primary::after,
+body .nav-actions .btn.primary .icon-arrow{
+  content:none !important;
+  display:none !important;
+}
+
+body .nav-actions .nav-icon-action{
+  align-items:center;
+  display:inline-grid;
+  justify-content:center;
+  place-items:center;
+}
+
+body .nav-actions .nav-search-action{
+  min-width:44px;
+  width:44px;
+  height:44px;
+  padding:0;
+}
+
+body .nav-action-icon svg{
+  display:block;
+  width:22px;
+  height:22px;
+  stroke:currentColor;
+  stroke-width:1.9;
+  fill:none;
 }
