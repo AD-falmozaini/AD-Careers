@@ -9079,6 +9079,147 @@ body .employee-profile dd{
   font-weight:400 !important;
 }
 
+/* Hiring process: intro first, readable process cards below. */
+body #process.hiring-redesign-section{
+  align-items:stretch !important;
+  display:block !important;
+  min-height:0 !important;
+  overflow:visible !important;
+}
+
+body #process .hiring-process-overview{
+  display:block !important;
+  margin-bottom:42px !important;
+}
+
+body #process .hiring-process-overview > div{
+  max-width:940px !important;
+}
+
+body #process .hiring-process-overview h2{
+  max-width:900px !important;
+}
+
+body #process .hiring-process-stage-container{
+  display:block !important;
+}
+
+body #process .hiring-redesign-grid{
+  align-items:start !important;
+  gap:42px !important;
+  grid-template-columns:1fr !important;
+}
+
+body #process .hiring-redesign-grid > div:first-child{
+  align-self:start !important;
+  max-width:940px !important;
+}
+
+body #process .hiring-stage-interactions{
+  display:grid !important;
+  gap:22px !important;
+  grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+}
+
+body #process .hiring-stage-interactions > li{
+  align-items:start !important;
+  border:1px solid rgba(0,69,61,.14) !important;
+  border-left:5px solid var(--corp-gold) !important;
+  display:grid !important;
+  gap:10px 22px !important;
+  grid-template-columns:68px minmax(0,1fr) !important;
+  min-height:0 !important;
+  padding:28px 30px !important;
+}
+
+body #process .hiring-stage-interactions > li > .ad-process-icon{
+  grid-column:1 !important;
+  grid-row:1 / span 4 !important;
+  margin-top:4px !important;
+}
+
+body #process .hiring-stage-interactions > li > span,
+body #process .hiring-stage-interactions > li > strong,
+body #process .hiring-stage-interactions > li > .stage-note,
+body #process .hiring-stage-interactions > li > .stage-checklist,
+body #process .hiring-stage-interactions > li > a{
+  grid-column:2 !important;
+}
+
+body #process .hiring-stage-interactions > li > span{grid-row:1 !important;}
+body #process .hiring-stage-interactions > li > strong{grid-row:1 !important; padding-left:62px !important;}
+body #process .hiring-stage-interactions > li > .stage-note{
+  grid-row:2 !important;
+  max-height:none !important;
+  overflow:visible !important;
+}
+body #process .hiring-stage-interactions > li > .stage-checklist{
+  display:grid !important;
+  gap:10px !important;
+  grid-row:3 !important;
+  margin:8px 0 0 !important;
+  width:100% !important;
+}
+body #process .hiring-stage-interactions > li > a{grid-row:4 !important;}
+
+body #process .hiring-stage-interactions .stage-checklist > li{
+  align-items:start !important;
+  background:transparent !important;
+  border:0 !important;
+  box-shadow:none !important;
+  color:var(--ad-text) !important;
+  cursor:default !important;
+  display:block !important;
+  font-size:16px !important;
+  grid-template-columns:none !important;
+  line-height:1.45 !important;
+  min-height:0 !important;
+  padding:0 0 0 18px !important;
+  position:relative !important;
+  transform:none !important;
+}
+
+body #process .hiring-stage-interactions .stage-checklist > li::before{
+  background:var(--corp-orange) !important;
+  content:"" !important;
+  height:7px !important;
+  left:0 !important;
+  opacity:1 !important;
+  position:absolute !important;
+  top:.62em !important;
+  transform:none !important;
+  width:7px !important;
+}
+
+body #process .hiring-stage-interactions > li:hover .stage-checklist > li,
+body #process .hiring-stage-interactions > li:focus .stage-checklist > li,
+body #process .hiring-stage-interactions > li:focus-within .stage-checklist > li{
+  color:#fff !important;
+  -webkit-text-fill-color:#fff !important;
+}
+
+@media(max-width:900px){
+  body #process .hiring-stage-interactions{
+    grid-template-columns:1fr !important;
+  }
+}
+
+@media(max-width:760px){
+  body #process .hiring-stage-interactions > li{
+    grid-template-columns:54px minmax(0,1fr) !important;
+    padding:22px 18px !important;
+  }
+
+  body #process .hiring-stage-interactions > li > strong{
+    grid-row:2 !important;
+    padding-left:0 !important;
+  }
+
+  body #process .hiring-stage-interactions > li > .stage-note{grid-row:3 !important;}
+  body #process .hiring-stage-interactions > li > .stage-checklist{grid-row:4 !important;}
+  body #process .hiring-stage-interactions > li > a{grid-row:5 !important;}
+}
+
 /* Keep generated job-post hero pills readable over image backgrounds. */
 body.page-job-post-sf .sf-job-hero .job-hero-meta.sf-job-pills > span,
 body.page-job-post-sf .sf-job-hero .job-hero-meta.sf-job-pills > span:hover,
